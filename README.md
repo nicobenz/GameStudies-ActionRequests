@@ -1,5 +1,5 @@
 # GameStudies-TopicCurves
-Here I investigate if there is a possibility to draw topic curves for video games using game transcripts from [Game Scripts Wiki].(https://game-scripts-wiki.blogspot.com/).
+Here I investigate if there is a possibility to draw topic curves for video games using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/).
 
 ## TODO:
 - [x] crawl and clean transcripts
