@@ -1,0 +1,2968 @@
+
+
+
+
+
+
+Platforms
+Xbox Series X|S, Xbox One, PC
+
+
+Release Date
+December 8, 2021 (Campaign)
+
+
+Genre
+FPS, Open World
+
+
+Developer
+343 Industries
+
+
+Publisher
+Xbox Game Studios
+
+
+Writer(s)
+Dan Chosich, Paul Crocker, Jeff Easterling, Aaron Linde
+
+
+Walkthrough
+MKIceAndFire
+
+
+Series
+Halo (series)
+
+
+
+📡 Missions: (open/close)
+
+WARSHIP GBRAAKON
+FOUNDATION
+OUTPOST TREMONIUS
+THE TOWER
+EXCAVATION SITE
+CONSERVATORY
+SPIRE
+PELICAN DOWN
+
+
+[Near one of the Sacred Rings, Installation 07 also known as Zeta Halo a major battle unfolds. Master Chief is aboard the UNSC Infinity, mercilessly shooting the Banished who attacked the ship, standing in the middle of a huge hangar in the most exposed position.]
+
+Bridge Officer: [battle chatter]
+
+Whispers: Would you humor me?
+
+[The mighty Atriox approaches Master Chief from behind without much trouble and attacks him with his hammer.]
+
+Atriox: [Roars]
+
+[Master Chief receives a powerful blow to his armor and flies several meters away. Only the shields allowed to somehow cushion the blow.]
+
+Whispers: If you knew how you were going to die... 
+
+[On his feet, Master Chief tries to fight the mighty armored Atriox with his fists, but receives a powerful blow to his helmet after which he kisses the floor again.]
+
+Whispers: How would you live your life differently?
+
+[Atriox grabs Master Chief by the leg and drags him along, hurling him in all directions. Finally he grabs Master Chief by the neck and drags him to the abyss.]
+
+Atriox: My name is Atriox... And I am the last face you will ever see. 
+
+[Master Chief falls into a fiery abyss and the scene ends dramatically. A man wakes up aboard the wrecked ship.]
+
+Ship AI: WARNING… WARNING... WARNING... PRESSURE BUILDING IN LINES FOUR, SEVENTEEN, and THIRTY-THREE…
+
+[The man quickly inserts the two cards into the slots.]
+
+Ship AI: PROTOCOL ACCEPTED. BREACH DETECTED. BREACH DETECTED. BREACH DETECTED.
+
+[The man opens the door to the cargo bay by hand, climbs on the crate and tries to turn the valve on the airlock. Not without difficulty, but he succeeds. He falls off the crate where he was standing.]
+
+Ship AI: BREACH CONTAINED. 
+
+[A holographic recorder falls out of the man's pocket. On impact, it is activated.]
+
+Mother: Okay, Daddy's listening. Can you say "hi"? 
+
+Child: Hi! 
+
+Mother: And... show daddy how big you are. 
+
+Child: Sooo big. 
+
+Mother: Good. And can you sing? 
+
+Child: Mary had a little lamb. 
+
+Mother: Good singing. How about "I miss you"? 
+
+Child: I miss you. 
+
+Mother: And "I love you"? 
+
+Child: I love you, Daddy. 
+
+Mother: And… good, and can you say “I can't wait to see you again?” 
+
+Child: I can't wait to see you again.
+
+[The man smiles as he watches the hologram. It gives him strength.]
+
+Ship AI: SIGNAL DETECTED. SIGNAL DETECTED, TAG DESIGNATION: FRIENDLY. SIGNAL DETECTED, TAG DESIGNATION: FRIENDLY. SIGNAL DETECTED, TAG DESIGNATION: FRIENDLY. 
+
+[A man runs into the cockpit and puts on headphones.]
+
+Echo-216: This is UNSC Pelican Echo-216. Can you hear me? This is U-N-S-
+
+[He wipes open the frozen window and sees Master Chief's body in outer space. He drags the body into his ship.]
+
+Echo-216: Looks like the main power cells are fried Armor's shut down… triggering survival mode. I'm going to try to override it. Okay. If you can hear me in there, I hope you're ready. Please don't die. Please. Don't. Die. 
+
+[He connects two thick cables and the lights on the ship turn off. Master Chief's armor is activating…]
+
+Echo-216: Yes! Yes! Yes! We're going home! Welcome back, Chief! I re-routed what little power I had into your suit. I'm seeing a fault on the calibration matrix. At least I think it's a calibration matrix. Okay, follow the light. Look up. Now let's look down. That seems fine. Let's try right? And now left. Your visor feed and motor functions seem to be operational but it looks like there's a problem with the servos in your hands. Try moving it. Stay calm. You've been out there a while. I know I saw something in here to check the diagnostics on your armor. 
+
+[Master Chief inserts a weapon chip into his helmet and disconnects from the wires.]
+
+Echo-216: Whoa, whoa, whoa, whoa! Easy there, big guy. You're not— 
+
+Master Chief: Status report! 
+
+Echo-216: Status report? What? There's something you need to see, Chief. 
+
+[Master Chief comes to the window.]
+
+Echo-216: We lost. Lost everything. There's nothing left for us here... I don't even know where here is…
+
+[The Sacred Ring is broken. Suddenly there is a powerful burst of energy. The Pelican Echo-216 is captured by the Banished ship with a powerful beam.]
+
+Echo-216: Oh no. Oh no no no no. Not them. Not again! We need to run! 
+
+Master Chief: I need a weapon. 
+
+Echo-216: Weapon? This is all I've got. 
+
+[He hands him his pistol.]
+
+Master Chief: It's enough. 
+
+Echo-216: What, what? What are you gonna do? 
+
+Master Chief: Improvise. Close the door.
+
+[He opens the hatch to outer space.]
+
+WARSHIP GBRAAKON
+[Master Chief flies through a dense stream of debris and into the badly damaged ship of the Banished.]
+
+Echo-216: (via radio) Argh, the main batteries are shut down. We're stuck out here. You have one bullet against an entire army! What can you do on your own?
+
+Master Chief: I told you… It's enough.
+
+Echo-216: (via radio) So I see. No, no, no, no. They're powering up a stasis beam. We can't escape.
+
+[Master Chief finds the machine gun.]
+
+Master Chief: You work on the batteries. I'll buy us some time.
+
+[He flies into the part of the ship where the shields that support gravity are still in place.]
+
+Echo-216: (via radio) I don't believe it! You made it. Now what? We can't go anywhere while that stasis beam is active.
+
+Master Chief: Then we shut it down. Stasis beam. Weapons. All of it.
+
+Echo-216: (via radio) But... how will you get back?
+
+Master Chief: I'll figure something out.
+
+Banished Officer: (via radio) Enemy vessel contained in stasis beam. Enemy vessel contained in stasis beam. Initial scans inconclusive. Deploy squad to Hangar One.
+
+[Master Chief's first opponent, a goblin-like Grunt, comes at him. Without hesitation Master Chief shoots him in the head.]
+
+Grunt: C'mon, not in the head!
+
+Banished Officer: (via radio) Eliminate all survivors.
+
+Echo-216: (via radio) Eliminate! Chief. Whatever you're planning to do, do it fast.
+
+Grunt: Yeah, leave it to another Unggoy to speak the big truths!
+
+Brute: What? You are wrong. He is dead!
+
+Grunt: The Spartan is alive! Alive!
+
+Brute: It cannot be. Hold your position.
+
+Grunt: Hold the Spartan back? Alone?! He's going to kill me!
+
+[Master Chief kills him.]
+
+Grunt: Aaaaah! The demon's alive!
+
+[A firefight begins.]
+
+Grunt: Come out and fight!
+
+Grunt: What was that?
+
+Grunt: This can't be happening!
+
+Grunt: Cover me!
+
+Grunt: I don't think I can kill this one myself! Kill him before he kills me!
+
+Grunt: We can't spare any Grunts!
+
+Grunt: I need to find him. It's all up to me...
+
+Grunt: Less talkin' More searchin'! Followed by murderin'!
+
+[Master Chief is attacked by Brute, breaking through the door. Puzzled by this destruction of his already damaged ship, Master Chief shoots him in the head and enters the next room, where he sees a huge hologram and hears a voice coming from the speakers.]
+
+Escharum: (via speakers) Remember his example. We do not bow our heads. We do not kneel before false Idols. We stand together!
+
+Echo-216:  (via radio) That... that hologram. It's Atriox. He led the attack on the Infinity. He was looking for... something, He... he killed everyone.
+
+Master Chief: I know. We met.
+
+Escharum: (via speakers) Lay down our lives to protect our creedl Atriox showed us the way! Together… we are invincible! We are the Banished!
+
+Grunt: So, uh… anybody else having second thoughts about this whole killin' humans thing? We should do strategic quiet now.
+
+Eachorum: (via speakers) Atriox! His actions inspire us! No more prophets! No more lies. We stand together. Brothers to the end We are his will. We are his legacy! We are the Banished!
+
+Brute: Impossible. Your eyes deceive you, brother. He's aboard the Gbraakon this very moment! We MUST alert the war chief! Come on, I'm impatient for glory!
+
+Eachorum: (via speakers) Remember his example. We do not bow our heads. We do not kneel before false idols. We stand together! Fight together! Lay down our lives to protect our creed! Atrox showed us the way! Together… we are invincible! We are the Banished!
+
+Banished Officer: (via radio) Drop base seven-six-three, capacity reached. Prepare for deployment. Power extractor two-five-six, prepare for deployment. Sensor tower three-three-four damaged. Pull from the line. Stronghold four-five coordinates received. Deploy immediately.
+
+Jackal: Curse your guts! No shield! Run now! Run! Prey too strong!
+
+Banished Officer: Drop base six-six-two, commence final preparations.
+
+Jackal: Spartan invades ship! Kill Spartan NOW!
+
+Jackal: Burn!
+
+Jackal: You will be avenged brother! For the Grace!
+
+Jackal: Stupid Spartan! Will make mistake!
+
+Brute: We are Banished! We are strong!
+
+[Master Chief activates the elevator and gets to the top of the ship.]
+
+Echo-216: (via radio) Drop ships. An invasion force. How do we stand a chance against all this? The Banished won already. We could be the only two humans left alive out here.
+
+Master Chief: Then there's still hope.
+
+[Once upstairs, Master Chief finds his first audiolog.]
+
+Marine: Captain Lasky's lifeboat is away, sir!
+
+Spartan Griffin: Good Now for the rest of us. Rally up with your squad and get to the nearest pod, marine, Move, move!
+
+Marine: Yes sir!
+
+Spartan Griffin: Fireteam Taurus. Rendezvous with me at bay 18. We're heading to the surface.
+
+Spartan Vettel: Acknowledged. We're on the move.
+
+Spartan Griffin: The rest of you Spartans if you're not already off the infinity, disengage and get to the lifeboats ASAP. Windfall-One, we've got a lot of personnel en route to Zeta Halo. What are you seeing out there?
+
+Spartan Makovich: Banished hardware's everywhere in the skies and on the ground Be ready for a rough landing!
+
+Spartan Griffin: You heard her. Stay safe and I'll see you on the ground, Spartans.
+
+Spartan Stone: We're with you, Griffin.
+
+Spartan Horvath: Let's get it done.
+
+[Master Chief enters the fray again.]
+
+Brute: If I don't get to kill a human today I'm gonna be real disappointed.
+
+Brute: So it's true! The Spartan lives!
+
+Brute:Not for long! [roar]
+
+Grunt: Warriors, retreat!
+
+Brute: We could win if you kept fighting! Hidin' is just makin' me angrier!
+
+Brute: He threw a grenade!
+
+Grunt: We're takin' losses!
+
+Brute: For the Banished!
+
+Grunt: WAAA!
+
+Brute: Did he get a Grunt?
+
+Grunt: Ohh NO! Incoming!
+
+Brute: You're gonna hurt! I WILL find you!
+
+Grunt: Not safe here!
+
+Grunt: That's one big target down.
+
+Brute: Human! How dare you step upon this craft!
+
+Brute: Advance in!
+
+Brute: Another victory for the pack.
+
+Brute: I can smell him.
+
+Grunt: You ain't seen nothin’ like us!
+
+Jackal: Killing easy! Just pull trigger!
+
+Brute: Eh, waste of time. He's not here either.
+
+Jackal: Bounty is as good as mine!
+
+Brute: He here! Kill! No shield! Can't fight! Dead friend! Dead flock! They killed him.
+
+Jackal: Hide, prey! Hide from Kig-Yar! Under fire! Look out!
+
+Brute: Watch now! I'll get him out of there!
+
+[Master Chief finds a vast room in the far side of which he sees a hologram of mighty Eachorum broadcasting to his flock.]
+
+Eachorum: The hour approaches. Soon the Banished will stand victorious. Atriox... hear these words. Even from beyond this life, your will is served. Your forces occupy the Ring. Within hours, it will be under our control. Humanity will cower before your legacy. They will burn. Their brazen defiance will be all but a memory. [Cheering]
+
+[The hologram disappears. Master Chief engages in battle with the adepts of Eachorum.]
+
+Master Chief: We have a new problem.
+
+Echo-216: (via radio) We? We need to get out of here!
+
+Master Chief: I'm working on it.
+
+Echo-216: (via radio) Work faster. This Pelican's nearly on board and the power's still out. Don't let them get me.
+
+Brute: Stop that!
+
+[Defeats all enemies Master Chief goes to the panel at the far end of the room and presses the big pointy red button.]
+
+Master Chief: It's locked down. Requires a hack.
+
+Echo-216: (via radio) Okay. And you can do that?
+
+Master Chief: No.
+
+[He smashes the panel with his fist.]
+
+Master Chief: New plan. Scuttle the ship.
+
+Echo-216: (via radio) You are going to destroy this ship... with us in it? I'm going to die here.
+
+Master Chief: There are cooling pipes, running towards the main engines.
+
+Echo-216: (via radio) So?
+
+Master Chief: I'm gonna warm things up.
+
+Brute: We will find him later. He will not survive. Banished forces fire!
+
+Jackal: Friends fall
+
+Brute: But I'm looking over here!
+
+Grunt: One of our Brutes is down!
+
+Brute: Lost a Grunt. Grunt smell worse now!
+
+Brute: He strikes the pack!
+
+Jackal: No one here. They cowards. 
+
+Brute: Rrrragh! Give me a real fight! This plasma burns!
+
+Jackal: Human scared! Scared of Kig-Yar!
+
+Brute: Glory to the Brutes!
+
+Jackal: Who kill you is big hero!
+
+Brute: This one is better!
+
+Jackal: Spartan near! Kig-Yar find!
+
+Brute: Weak armor!
+
+Eachorum: (via radio) It is with a heavy heart that I must accept that Atriox... my greatest achievement is lost to us. In his wake stands the greatest army ever assembled A force fueled by fury. His spirit burns in the heart of the Banished. It is years since he sought my council When we planned the revolt against the Covenant. His words. Even now I feel them in my heart. We will never kneel again. We will stand. Proud. Together. Banished brothers, side by side.
+
+Brute: A Brute's dead! There's nobody over here.
+
+Jackal: You lose prey, you pay bounty. Where are you, human?
+
+Master Chief: Get ready.
+
+Echo-216: (via radio) Ahh. Okay. Okay. Fire up those engines, Chief. Maybe we'll survive.
+
+[Master Chief pulls the handle on the panel and the far side of the ship explodes. Immediately a hologram appears in front of Master Chief.]
+
+Eachorum The Brute War Chief: Report! A Spartan? No. Something better. The Master Chief returns. We thought you dead. Tossed into the void, yet here you stand. Humans call you their savior. The Covenant... Demon. The Banished? Prey. (laughs) Destroy this craft if you must. It matters not. The Banished will hunt you down. Pursue you wherever you run.
+
+Echo-216: (via radio) Who is that? Do you know him?
+
+Master Chief: No.
+
+Echo-216: (via radio) Well, he knows you. He knows all about you. You need to hurry. Get back here. I don't know how long the ship will hold together.
+
+[Master Chief runs to his "Pelican" along the way fighting the enemies that get in the way.]
+
+Grunt: [sing-songy] Hope you're ready for some viiiolence!
+
+Banished Officer: Hull breach confirmed. Guard rounds must continue! Shield integrity falling! Discomfort breeds strength! Hull breach in sector thirteen. Unggoy casualties confirmed.
+
+Brute: You can't survive!
+
+Banished Officer: Impulse engine stability failure! All grunts to central engineering! 
+
+Brute: I think he's hurt! You're dead! 
+
+Banished Officer: Breaches confirmed on decks four and seven! Structural integrity at forty-nine percent! Hull breach in sector eight. Danger is irrelevant! Hull breach in sector twenty-one. Marshal your courage!
+
+Eachorum: (via radio) Do you think this disruption will be enough? Victory is already ours. So, run, Spartan. We will meet on the battlefield.
+
+Banished Officer: Structural integrity at twenty-seven percent! Abnormal temperature spike in the cargo hold!
+
+[Everything around is collapsing and exploding.]
+
+Echo-216: (via radio) What was that? It felt… bad. Even the Banished seem freaked. We are running out of time.
+
+Master Chief: The batteries?
+
+Echo-216: Charging. Slowly. I don't know. It's gonna be close. Too close.
+
+Banished Officer: Hull strength at twenty percent! We are not dead yet, you mongrels! Bridge compromised! Ghosts of Lodon and Tiacoro have been hailed!
+
+Echo-216: (via radio) Ok, so ninety seconds ‘till full charge. I hope this place holds together that long. Charge faster!
+
+Grunt: Takes more'n that to break us!
+
+Banished Officer:  Engine instability approaching critical levels! Engine instability approaching critical levels!
+
+[Master Chief returns to space. Explosions blow debris flying around in different directions. One of the debris even hits him in the head, and Chief loses his orientation in space for a while.]
+
+Echo-216: (via radio) No! No! No! Oh, come on!
+
+[Master Chief nevertheless manages to stop the spinning around his axis and bring all systems back to relative normality.]
+
+Echo-216: (via radio) Chief! You still with me?
+
+Master Chief: I’m here.
+
+Echo-216: (via radio) Okay… give me a second… I'm coming to get you. Welcome back, Chief. OK, let's get out of here.
+
+[Master Chief climbs aboard the Pelican using his rope.]
+
+[[File:Halo-infinite-logo.png|thumb|center|400px]]
+
+Master Chief: Locate UNSC Infinity.
+
+Ship AI: UNSC INFINITY. CLASS: SUPER CARRIER CREW SIZE: 7.150.
+
+Master Chief: Near-field perimeter scan.
+
+Ship AI: 1,986 UNSC TAGS DETECTED.
+
+Master Chief: Status.
+
+Ship AI: DECEASED.
+
+[Meanwhile, aboard the ship of the Banished, several war chiefs are watching the loss of one of their ships.]
+
+Tremonius: The Master Chief lives? Atriox assured of us of his death. Are you not angered?
+
+Escharum: No. I feel… invigorated.
+
+Tremonius: You promised us revengel Superiority! Renewal. He threatens every— (punched the table)
+
+Escharum: Do you question my leadership? Atriox's vision?
+
+Tremonius: Atriox is dead. It is his fault that we are stuck here.
+
+Escharum: (twists Tremonius’ arm) The Banished will never bow… To anyone again. Not the Covenant. Not the Prophets. Not her. This Ring will be operational.
+
+[Blademaster puts his axe to Tremonius' throat.]
+
+Tremonius: Please…
+
+Escharum: Then you will have your revenge. Blademaster… Follow the Spartan. From a distance. I want to know everything about him.
+
+[Back to the Pelican.]
+
+Ship AI: ARMOR LINK CONNECTION REQUESTED.
+
+Master Chief: Accept.
+
+Ship AI: ENCRYPTED MESSAGE FOUND.
+
+Master Chief: Read.
+
+Ship AI: ATTEMPTING DECRYPTION… DECRYPTION FAILED.
+
+Master Chief: Locate message source.
+
+Ship AI: TRIANGULATION IN PROGRESS. TRIANGULATION IN PROGRESS…
+
+Echo-216: We're done right Chief? If we stay out here any longer they're gonna come back. They'll find us, and they'll kill us.
+
+Ship AI: TRIANGULATION IN PROGRESS…
+
+Echo-216: What is it you're searching for?
+
+Ship AI: MATCH FOUND. SIGNAL LOCATED. WAYPOINT UPLOADED.
+
+Echo-216: There's nothing there. You're looking in the wrong direction. We need to go home.
+
+Master Chief: Plot the waypoint.
+
+Ship AI: REQUESTING MANUAL FLIGHT CONTROL OVERRIDE.
+
+Master Chief: Do it.
+
+Ship AI: AUTO-PILOT ENGAGED.
+
+Echo-216: Wait, what? Are you kidding me? Why would we go down there?
+
+Master Chief: The Banished plan to wipe us out. All of us.
+
+Echo-216: And what? You think we can stop them on our own?!
+
+[He punches both of his fists into Chief's armor.]
+
+Echo-216: I told you. We lost. We need help, not heroics.
+
+Master Chief: No. We do our duty. Protect Humanity. Whatever the cost.
+
+Echo-216: I can't be the only…
+
+Ship AI: ENTERING ATMOSPHERE. AUTO-PILOT DISENGAGING IN FIVE.
+
+Master Chief: We have a new mission, soldier.
+
+Ship AI: FOUR...
+
+Echo-216: What is it? What's down there?
+
+Master Chief: A Weapon.
+
+Ship AI: TWO…
+
+Echo-216: A weapon? How many guns do you need? What is wrong with you?! Remind me to never pick up a Spartan! This is a terrible idea! They're coming for us! All of them!
+
+[Master Chief arrives at Zeta Halo, the broken Sacred Ring.]
+
+Elite: Who dares approach a Sangheili warrior?
+
+Echo-216: (via radio) Incoming! All directions! It's not safe.
+
+FOUNDATION
+[Master Chief enters the fray.]
+
+Master Chief: Pull back.
+
+Echo-216: (via radio) Okay. Okay. Heads up. Lots of Banished craft heading your way!
+
+Jackal: Strike at prey!
+
+Grunt: They killed him!
+
+Jackal: Show target. Kig-Yar shoot! Not right! Not fair!
+
+Brute: I will put around through YOUR head!
+
+Grunt: Come out already, human!
+
+Brute: He's firing this way!
+
+Jackal: Kig-Yar aim bad! Kill slow! Ow, gun hot!
+
+Brute: I'll twist your arms until they come off!
+
+Jackal: Flightless animals!
+
+Brute: I found him!
+
+Echo-216: (via radio) More reinforcements! This weapon of yours must be worth it.
+
+Grunt: I ain't a pushover like the other guys! Let's shoot him!
+
+Echo-216: (via radio) This whole place looks like it's dying. Like it's… clinging to life somehow. How is that possible?
+
+Master Chief: Each Ring is different. I see an entry point in the wall ahead.
+
+Echo-216: (via radio) Get in there. Find this weapon. Then we can go... right?
+
+Brute: You broke it!
+
+Brute Officer: Control yourselves! I may fall, but not by your hand!
+
+Grunt: You think you're sooo big!
+
+Brute Officer: Get to his other side, we'll pin him in! Watch it! We've got you, now! Die!
+
+Grunt: Tossin' plasma!
+
+Brute Officer: Down fool!
+
+Grunt: Lookit that guy, walkin' around like it's HIS Ring! Today we make HIM run away scared! He's wipin' us out!
+
+Echo-216: (via radio) Be careful. They're still coming. You really pissed them off back there. Look at this place! It's beautiful. And broken. Very, very broken. I need to move. There are Banished ships... everywhere.
+
+Jackal: Fill armor with fire!
+
+Grunt: Go away and get killed by somebody! He killed a GRUNT!? That MONSTER! I can't cope with this! You're already dead! Are you afraid to fight the Banished?
+
+Grunt: That's one big target down. Don't let him hide! I ain't NEVER dyin’! You cheated! You're nothin' but a cheater!
+
+Jackal: Dead friend! Dead flock!
+
+Elite: Find a way around him!
+
+Jackal: Hit prey!
+
+Brute: Don't think he's over here.
+
+Brute: Keep on 'em! Before he gets me! Keea do 'em! Before he gets me! I smell a cowardly coward. We're in trouble! I've gotta stop him! With me! Go around!
+
+Grunt: Lost one! Forget the Banished, you're fightin' a GRUNT!
+
+Elite: Give me your all! Fight me, Spartan! I demand cover! Your weakness is my glory! I am exposed! I AM the Banished!
+
+[Having defeated the Elite, Master Chief ascends the energy elevator and hears a voice…]
+
+Whispers: If you knew how you were going to die…
+
+[The voice echoes in his head.]
+
+Jackal: What? What's there!
+
+Grunt: Takin' damage!
+
+Jackal: You not dead. You fight!
+
+Grunt: Just our luck! You're nothin' but another shootin' target!
+
+Jackal: Grunt die! Love to see!
+
+Grunt: Our guys are dyin'!
+
+Jackal: Shield gone! Save life!
+
+Jackal: Where it goes? See it! Run, human!
+
+Grunt: There goes a Jackal.
+
+Elite: Get up! Keep fighting! Find a path around him! You heard! Obey!
+
+Grunt: Lost an Elite!
+
+Jackal: Easy prey. No shield! Run now!
+
+Elite: Rage FUELS me! He hit me! This is a disgrace!
+
+Jackal: Careless. Not me!
+
+Grunt: I don't think I can kill this one myself!
+
+Elite: Is that all you can do? BOMB! It's over! I gotta get outta here!
+
+Jackal: Gun burns! Stupid gun!
+
+Elite: Human filth!
+
+Grunt: Throwin' a thing! Lost one! No more!
+
+Grunt: You coulda saved him! Noooo! I knew we was doomed from the start!
+
+[Master Chief enters a room with many plates floating in the air. The plates show a schematic representation of a man.]
+
+Echo-216: (via radio) What are those things? This is Forerunner right? I've heard the stories but man... this is crazier than imagined. Dumb question. How do you know this isn't a trap?
+
+Master Chief: I don't.
+
+Echo-216: (via radio) Great. I hope this weapon of yours is worth the risk. I'm reading multiple enemy ships heading this way. Too many. We're running out—(fades to static)
+
+[At the far end of the hall, Master Chief finds a sphere that turns... into Cortana.]
+
+Weapon: It's been six months! Where have you been?
+
+Master Chief: What happened? Where is Cortana?
+
+Weapon: The rogue Al known as Cortana is gone. She's been deleted.
+
+Master Chief: How? By you?
+
+Weapon: Of course not. Did you hit your head or something? Don't you remember? My instructions were to enter this installation, imitate Cortana and lock her down for retrieval. Yours were to take her back to the Infinity for deletion. So if it wasn't you.. Okay then... there's something else. On successful deployment, my deletion routine was supposed to complete. Still here.
+
+Master Chief: Good.
+
+Weapon: Good? My programming failed. I'm not supposed to be here. You need to delete me.
+
+Master Chief: No.
+
+Weapon: No? I was created for one purpose and that purpose is no longer needed. My mission is over.
+
+Master Chief: We have a new one. The Banished are planning to fire this Ring. We need to make sure they don't.
+
+Weapon: First of all... what's a Banished? Second you may have noticed that a significant piece of this installation has been damaged making that impossible… And third, to fire this Ring they would need an Activation Index. Cortana had the Index. I had parts of it as well—
+
+Master Chief: Something stopped your deletion. We need to find out why.
+
+Weapon: But this wasn't the mission.
+
+Master Chief: The missions change. They always do.
+
+Weapon: Are you sure?
+
+[Master Chief takes out his weapon chip and gives it to Weapon to digitize the content. The platform on which he stands begins to rise into the air.]
+
+Master Chief: Did you do that?
+
+Weapon: No. Removing me triggered a response from the Ring.
+
+[Master Chief hears the voice in his head again…]
+
+Whispers: I need you to understand. There's not much time. If you knew how you were going to die... how would you live your life differently?
+
+Master Chief: That voice. It's Cortana's.
+
+Weapon: No. It's not her. Just dust and echoes.
+
+Master Chief: What did you say?
+
+Weapon: What? It's just pieces of data cycling until they run out of power. It's all around us.
+
+[Master Chief hears another voice.]
+
+Halsey: Today, I was called an emotionless automaton. They saw the faces. Seventy-five healthy subjects. Hand picked by me. Perfect for the program. They will not all survive. I understand that and have made peace with it. Mostly. There is one subject that I find myself hoping does live through this. He is perfectly suited for what is coming. 
+
+[On climbing upstairs, Master Chief sees the digital ghosts of children running past him.]
+
+Halsey: He has been assigned a number 117. (the number echoes)
+
+Weapon: There's something up ahead. I can feel it calling out to me.
+
+[Master Chief enters the fray.]
+
+Grunt: Somebody HELP! Sneaky human!
+
+Jackal: Open fire! Grunt talk and talk, nobody listen.
+
+Grunt: Guess I gotta trust you with my life. Ah! Lucky shot!
+
+Grunt: You hidin' from me?
+
+Weapon: These are the Banished?
+
+Master Chief: Affirmative.
+
+Weapon: They smell even worse than I imagined!
+
+Master Chief: You can smell them?
+
+Weapon: Well, an array of sensors in your armor can, and analyze the input. You smell fine, by the way.
+
+Jackal: Fight Spartan! Slay Spartan! Kig-Yar aim bad! Kill slow! No shield! Can't fight!
+
+Weapon: Look! Over there. That's the source.
+
+Master Chief. The bridge is out.
+
+Weapon: Yes it is. Maybe there's a way to power it back up nearby.
+
+Whispers: They'll pair you with another AI. Maybe even another Cortana model if Halsey lets them, it won't be me… You know that right?
+
+[Master Chief finds a rack with a glowing sphere on it. Weapon wants to touch it, but Chief moves his hand away.]
+
+Master Chief: Is it safe?
+
+Weapon: I think so… yes. It's safe. This... this is part of me. I don't know why, I don't know how but it is me. It was the last part I remember being deleted. Let me just—
+
+[She touches the sphere and splits into two small orbs. These orbs turn into a hologram of Dr. Halsey.]
+
+Halsey: You are here because you were chosen. Our enemies are getting smarter and more numerous every day. What I am about to show you will help turn the tide of war. I have been working to harness the strategic power of a ship-borne AI onto the battlefield. Are you ready?
+
+Master Chief: Yes, Doctor Halsey.
+
+[In the hands of the doctor appears a new AI, which is now purple, instead of the classic blue.]
+
+Halsey: Unlike previous AI models she will reside "between your mind and the suit, directly communicating with your neural interface. Think of her as a new set of eyes to aide your reactions and upgrade your reconnaissance. She is not the driver but a way to level the playing field.
+
+[Master Chief accepts the gift. A hologram of a purple girl passes over his hand.]
+
+Master Chief: What do I call her?
+
+Halsey: Ask her. She named herself.
+
+Cortana: Hello, Master Chief. I'm Cortana.
+
+Halsey: Together you become our newfound hope. Together you become our key to humanity's survival. She will do anything necessary to make sure that your mission is accomplished. Even if that means sacrificing herself - or you - to accomplish it.
+
+[Cortana dissolves into thin air.]
+
+Weapon: What happened? I touch it and—
+
+Master Chief: Was that real?
+
+Weapon: It's just data. It's… It's just here. Clusters of recursive code. But this, on the other hand… This is the framework I used to trap Cortana. It contains a copy of the Activation Index. At least fragments of it. What should we do with it?
+
+Master Chief: Do we need it?
+
+Weapon: Well based on what you've told me so far, the bigger question is do the Banished need it?
+
+Master Chief: Do it.
+
+[Weapon absorbs the sphere.]
+
+Weapon: That was... something. Let's go.
+
+[Master Chief continues to explore the base.]
+
+Weapon: Did I miss something? There's a file that's been unlocked but I don't have access.
+
+Master Chief: We need a route out of here.
+
+Weapon: Okay. Let's see. There's a breach close by. It should lead us to the surface.
+
+[Master Chief brings the Weapon to the bridge activation panel.]
+
+Weapon: Give me a second and I'll get this bridge activated. We've got company, Chief. Meet me at the plinth up ahead!
+
+Grunt: Surprise, human! You and me, human! Hand-to-hand! Gladiator-style! Let's do it! Incoming! This fightin's makin' me tired! If we had more Grunts like us he'd be dead already!
+
+Jaсkal: Fill armar with fire! Hey! The human!
+
+Brute: For Atriox!
+
+Grunt: Oh NO he DIED!
+
+Jackal: Flightless animals!
+
+Grunt: Jackal's out.
+
+Brute: Stop moving! I'll kill him myself.
+
+Grunt: Call off the search. No enemies.
+
+Brute: Where are you, human?
+
+Grunt: Look out! Incoming!
+
+Brute: NO MORE!
+
+Weapon: Wow. You got here fast. Not the type to waste any time, huh?
+
+Master Chief: No.
+
+Weapon: Noted. Let's go.
+
+Grunt: HELP! Waaah! He's right here! Flee! Flee! Everyone flee!
+
+Grunt: I'm innocent! It wasn't me! I just got here!
+
+Grunt: Rollin' in a grenade! Have a grenade! Aw, what's the matter, human? Scared? You brought a gun to a bigger gun fight, human! Die! Please! Throwin' in a grenade! Take a grenade! This is too much! We gotta run! Oof, right in the head!
+
+Grunt: Take THIS! We can still win! Bang! Bang! Dead!
+
+Grunt: Don't kill me! Let me kill you instead!!
+
+Grunt: Take this one!
+
+Grunt: Okay, that was the last place for the human.
+
+Brute: You lose pray, you pay bounty. THERE YOU IS! Grunt on the ground! Gonna get ya! We lost one!
+
+Jackal: Pierce armor! Crack skull!
+
+Grunt: Spartan in my sights! I'm hit! He's almin' at our heads!
+
+[Master Chief finds a Banished audiolog.]
+
+Escharum: Tremonius has found the object. Even in my darkest moments… when I feel the most lost, Atriox's wisdom continues to impress me. I regret that I ever doubted him. His talk of Forerunners. Of their lies. Of secrets hidden in this forsaken Ring. Atriox, hear me! Your will is absolute. The Banished… your soul. Eternal.
+
+Weapon: Oh no.
+
+Master Chief: What's wrong?
+
+Weapon: This gravity lift should be powered up. We need to find a way to bring it back online.
+
+Brute: Look at him cower!
+
+Weapon: This object. It's part of the Ring's life force. It's called a Power Seed.
+
+[Master Chief inserts the Seed into the panel by the elevator and goes upstairs.]
+
+Whispers: All space. All time. The stars. Swelling. Collapsing. Ending. Serving their longer. Shorter use. The yearning amply fed at last. Prepared to meet—you.
+
+[Master Chief finds himself in a room with many corpses.]
+
+Weapon: Chief—stop. How is... Is that a Spartan? We need to find out what happened.
+
+[Master Chief picks up a glowing green module next to the dead Spartan's body. It can strengthen Master Chief's shields.]
+
+Weapon: She was carrying an enhanced shield module. Let's see what I can find out about her. Accessing. This is Spartan Bonita Stone. Recon specialist. Her vitals have been offline for nearly a month. Cause of death was an energy blade, but... different. Stronger. A single strike. She never saw it coming.
+
+Grunt: NO!
+
+Weapon: We're here. That elevator should take us to the surface.
+
+Grunt: I can't cope with this!
+
+Jackal: Weak Spartan! Coward Spartan! Prey hide!
+
+Grunt: How could you let him get away? I can't get him!
+
+Jackal: Suffer big, more bounty! Fight fair! Hunt good, not big!
+
+Grunt: He stopped shooting. Where'd he go!? He could be anywhere!! Here ya go! Grenade!
+
+Jackal: Human hold still!
+
+Grunt: He killed a Jackal!
+
+Jackal: Find you, human!
+
+Brute: Over here! Flank the big dumb hidin' jerk! There maybe used to be enemies here, but not now.
+
+Jackal: Flightless animals!
+
+Grunt: C'mon, guys. You KNOW he's around somewhere. Get ready for a nap, Spartan! The BIG nap! I smell a cowardly coward. Got a dead Unggoy here! He's over there!
+
+Jackal: Biggest bounty! Kill Spartan!
+
+Grunt: kill him! Okay, we see him! Now we kill him!
+
+Jackal: Ow! Hurt! Cut down! Tear apart! Grenade! Hide! Spartan alone! Spartans dead!
+
+Brute: We gotta chase him! Here goes nothin'! Jackal's killed.
+
+Jackal: Throwin' a thing! Oh nononono, my life! This might hit him! This might hit him! 
+
+Jackal: NOOO lemme alone so I can think up how I'm gonna kill you! It's you and me, ya puke! We're takin' losses!
+
+Jackal: Too much! Don't like!
+
+Grunt: You ain't got snot on the Banished, Spartan!
+
+Brute: Blowin' up a coward!
+
+Weapon: We need to call down the elevator. Look for a control terminal. This elevator's drawing power from the Ring. Well... it was. The seed is missing.
+
+[In search of the Seed, the Master Chief enters a room with many containers hanging from the ceiling.]
+
+Master Chief: What are these things?
+
+Weapon: Genetic repositories. Forerunner storage vessels, Cylixes.
+
+Master Chief: How do you know this?
+
+Weapon: I was stuck in that room for six months surrounded by them. Let's just say they talk a lot.
+
+[Master Chief finds a UNSC audiolog.]
+
+Lucas Browning: This is Combat Medic Lucas Browning. If you find this, you need to understand. They forced me to help them with it. Whatever it is. They brought it up from… whatever's below. When it opened... God it was… something different. I've never seen anything like it. You need to believe me. It's not my fault.
+
+[Master Chief takes the Seed from the panel.]
+
+Weapon: That should do it. Let's get back to the elevator. Get that cradle powered up.
+
+[Master Chief inserts the seed into the panel and starts the elevator.]
+
+Weapon: This isn't Forerunner. It identifies as Banished.
+
+Master Chief: Can you operate it?
+
+Weapon: In my sleep. Not that I sleep but… oh, I don't need to. It's already on its way down.
+
+[Someone or something is coming down the elevator.]
+
+Master Chief: Incoming.
+
+Weapon: But... what if it's a friend?
+
+Master Chief: It isn't.
+
+[This "someone" turns out to be Tremonius in battle armor and with a weapon.]
+
+Tremonius: Escharum's orders are that you should be brought before him! He did not specify in how many pieces.
+
+[The fight begins. Tremonius brought a few of his friends along to make the party more fun.]
+
+Jackal: Told you! Shoot! You die, everywhere safe!
+
+Tremonius: Bleed!
+
+Weapon: It's too dangerous, Chief.
+
+Jackal: Damage coming! Watch! Stuck stuck!
+
+Tremonius: For the Banished! [short war cry] Try harder, Spartan! Very well!
+
+[Master Chief wins the fight.]
+
+Weapon: You were right. He was not friendly. By the looks of him he was some sort of leader. They called him Tremonius.
+
+Master Chief: Not any more.
+
+Weapon: That's almost funny.
+
+[Master Chief gets in the elevator and goes upstairs.]
+
+Echo-216: (out of static)--on the way! I repeat, multiple Banished craft are converging on your location. They're coming for you!-
+
+Master Chief: Sierra-117. Understood.
+
+Echo-216: (via radio) I've been trying to reach you. You vanished. I thought I was on my— Okay, I got your location. On my way. Be ready!
+
+OUTPOST TREMONIUS
+[Master Chief replenishes his ammunition supply and walks further down the corridor. He sees a huge slab in front of him with a schematic representation of a man on it, only this time the image is yellow.]
+
+Weapon: Another Cylix. But this one's open. What do you think was in it?
+
+Master Chief: Another problem.
+
+Weapon: Why so cynical? It might be something good.
+
+Master Chief: Trust me. It won't be.
+
+Grunt: Who made that noise? This is a terrible place where bad things happen! You might be big and strong, but I'm scared!
+
+Master Chief: How do we get out of here?
+
+Weapon: Terminal. Over there. Just give me a second I should be able to get control from here.
+
+Escharum The Brute War Chief: So... Tremonius has fallen. A victim of the Master Chief's might. Do not fool yourself. He was not the best of the Banished. Not by any measure. It occurs to me that we have not been introduced. I, of course, know of you, Spartan. Your legend. The fear you inspire is admirable. The hope you stir in the hearts of your kind… misplaced. I want you to know my name too. To know my legend. How else will you beg me for mercy? I am Escharum. War Chief of the Banished. This is my world now. And you have little time remaining in it.
+
+[The massive door of the ship lowers, revealing a view of the Halo's surface. It's a bright, sunny day outside. In the distance you can see mountains and tall, fluffy fir trees.]
+
+Weapon: Wow. Look at this place. It's so... Full of more monsters coming to kill us.
+
+Echo-216: (via radio) You're gonna need to clear me somewhere to land! 
+
+Weapon: Incoming.
+
+[Master Chief enters the fray.]
+
+Grunt: This is your chance to not disappoint me! Get out here! I'll show you the meaning of cowardice!
+
+Banished Officer: The Outpost is under attack! Tremonius has fallen. Whoever kills the Spartan will assume his place!
+
+Jackal: Big gun ready! You make noise, but we make kill! Fall back!
+
+Grunt: He's tryin' to hide! No shield! Can't fight!
+
+Grunt: Human is last! You lose him!
+
+Grunt: You gotta die!
+
+Jackal: I find you! I kill you! Take a grenade! Coverin' fire! Say your final words before you die! We're gonna make it through this one, I can feel it! There ain't nothin' around here. I'm searchin' but I ain't gonna like what I find! Quit that! He's SERIOUS with that thing! Grunt got taken out!
+
+Grunt: There goes a Jackal. Takes more'n that to break us! We lost one!
+
+Elite: Beneath that armor you are a simple target.
+
+Grunt: Don't shoot me! Shoot somebody else! Not me! [nervous] Okay, Okay. Searching. Okay. Get ready! I'm-a flush that guy out!
+
+Elite: Throwing grenade.
+
+Grunt: Time for death! We gotta run! There's a human around here crusin' for a bruisin'! Can't see him! Think we could escape? Grenading! He's always movin'! I'll sniff ya out! I'll chase him down! We're safe; everybody! Safe at last. Tossin one in! Grenading! 
+
+Grunt: Where'd he go!? He could be anywhere!! I'm flankin' the heck outta this guy! Hey Spartan! Come out! Please! Thanks! 
+
+Grunt: Tossin' plasma! Can't escape the Banished! Think you can get away from me? Nope! Get to cover! 
+
+Brute: The humans think they can storm our outpost at will! Find them! Find now!
+
+Grunt: This'll be over soon one way or another! Let's engage the cover!
+
+Jackal: Grenade - hate them!
+
+Grunt: It's hopeless! Retreat!
+
+Jackal: Enough panic! Kill! Kill! As long as Grunt’re alive we can win!
+
+Jackal: No prey. They gone. Not right! Not fair! Biggest bounty! Kill Spartan! Gun burns! Stupid gun!
+
+Brute: A BOMB!
+
+Banished Officer: Reinforcements! Rally to Outpost Tramonius! More! Kill the Spartan where he stands!
+
+Arthoc: (via radio) Our great victory at the human stronghold is complete, Tremonius. You led our forces well. Atriox would be proud. To mark our triumph local forces will begin at once to establish a new outpost - the first of many on the hallowed ground of our new home. We will build this fortress in the very shadow of their failure. A monument to their frailty and cowardice. Where so many of the kind were cut down. Escharum has decreed it be named in your honor, Tremonius. So that it may inspire other leaders to do what you have done. All that remains of the humans are scattered remnants. And so the hunt carries on, until the last human skull is crushed. Thanks to your efforts that day is rapidly approaching.
+
+Grunt: Whew, I survived!
+
+Jackal: One more bounty! Mine! Have a grenade!
+
+Jackal: Make turret no more!
+
+Grunt: He's hit!
+
+Jackal: Prey not looking! Kill!
+
+Grunt: Spartan in my sights! 
+
+Elite: For Atriox, and the Banished!
+
+Jackal: Little Grunt, dead Grunt! Shoot human.
+
+Grunt: ON NO he DIED!
+
+Jackal: Who kill you is big hero!
+
+Weapon: That's the last of them.
+
+Master Chief: Is it safe?
+
+Weapon: Is anything? Don't answer that. If you can find me somewhere to hack in, I think I can guarantee this base will be safe for your friend to land.
+
+[Master Chief places Weapon on the panel.]
+
+Weapon: Let me see. The Banished are using a modification of the Covenant's Battle Net protocol. Pretty easy to push through and… done. I've removed this location from their system. We're safe here.
+
+Master Chief: (to the radio) LZ secure.
+
+[“Pelican” descends to the planet's surface. Upon exiting the ship, Echo-216 falls to her knees and kisses the ground.]
+
+Echo-216: Solid ground! As good as this feels, please tell me we can go. Did you find that weapon you were looking for? Can we go?
+
+Weapon: Hi.
+
+[Echo-216 gets scared and crawls away a few meters.]
+
+Echo-216: What the—Cortana? But she… This is all her fault!
+
+Master Chief: It isn't Cortana. Tell him.
+
+Weapon: But… it's classified.
+
+Master Chief: Permission granted.
+
+Weapon: I was created by Doctor Catherine Halsey to mimic this installation's security to trap Cortana for deletion. I was successful.
+
+Master Chief: Cortana's no longer a threat. And now she's going to help us stop the Banished.
+
+Echo-216: Of course she is.
+
+Weapon: I think I'm with you. I didn't even know what a Banished was an hour ago and even can see the odds aren't great!
+
+Echo-216: Yes! Yes. You should listen to her. You're gonna get us all killed.
+
+Weapon: This is fascinating. You're trying to survive, but I was programmed to die.
+
+Echo-216: Really? One person with a death wish wasn't enough?
+
+Weapon: No. I was just figuring what I am supposed to—Wait. I'm picking up a UNSC distress signal.
+
+Master Chief: Location?
+
+Weapon: The source is four kilometers from here.
+
+[She turns on the map mode in Master Chief's helmet.]
+
+Weapon: Here is the distress signal's point of origin. This is our current location… This was... until two minutes ago, a Banished Forward Operating Base. I say it was because now… It's ours.
+
+Echo-216: Chief? What is she talking about?
+
+Weapon: Now… here's the cool part. There are more UNSC Forward Operating Bases that have fallen into Banished hands. Well, paws. They have paws. Each one is associated with a territory. Here is the location of the UNSC signal I've been tracking and here are two more FOBs.
+
+Master Chief: Mark it. Let's go.
+
+Echo-216: Let's go? What? There? (Muttering in Spanish) 
+
+[Swearing to himself, he gets back in his Pelican. Mission OUTPOST TREMONIUS completed.]
+
+Echo-216: Ready and waiting, Chief. Get onboard and we can leave. You're messing with me, right? First you say you want me to follow some signal, then you leave me here waiting. Well, go ahead. It's not like I have anything better to do.
+
+[Master Chief climbs aboard the Pelican. To epic music, the Pelican rises into the air with the cargo hatch open, giving us a better view of the Halo's surface.]
+
+Weapon: It's beautiful, isn't it?
+
+Master Chief: To some.
+
+Weapon: I have a question. I was created to lock down Cortana but I don't know why. What did she do that was so wrong?
+
+Master Chief: She was our target.
+
+Weapon: I understand that, but… is this classified? Because I don't have all the information.
+
+Echo-216: (via radio) Chief. This is insane. I see Banished everywhere. Did you hear me?! Everywhere!
+
+Weapon: What intel did Dr. Halsey give you before your mission?
+
+Master Chief: Halsey only tells people what they need to know.
+
+Echo-216: (via radio) Fly a Pelican straight into enemy territory. No one will ever notice. Great idea, big guy.
+
+Weapon: I still don't understand why you had to delete her. It feels like something's missing.
+
+Echo-216: (via radio) Guess what! They noticed. They all noticed. And we've got a Banished structure up ahead. Armored. Very heavily armored.
+
+Weapon: It'll have to wait I suppose.
+
+Master Chief: How close can you get us?
+
+Echo-216: (via radio) How close? We're unarmed and you're asking me how close?
+
+Master Chief: Put us down here!
+
+Echo-216: (via radio) Here? We're still doing this!? Hope this works, because it's as good as it's gonna get!
+
+Master Chief: It's close enough.
+
+[He epically jumps to the ground.]
+
+Echo-216: (via radio) It better be. I'm getting out of here!
+
+THE TOWER
+Grunt Comms Officer: You may have heard rumors of a Spartan emerging from the bowels of the Ring. Those rumors are entirely FALSE.
+
+Weapon: FOB up ahead. We could use an LZ in this region.
+
+Grunt Comms Officer: You may have heard rumors of a Spartan. Spartans are extinct, thanks to the Hand of Atriox. So stop spreadin' human lies!
+
+Grunt: I believe in you! And, to a lesser extent, in myself!
+
+Grunt: He's takin' cover! Move up while he's scared!
+
+Grunt Comms Officer: You think the Spartans are gonna save you? Think again: they're dead. All of 'em! Every one of those towering dorks that set foot on this Ring has been eliminated. There's no cavalry riding in, humans. No savior waiting in the wings. Just attrition, followed by submission followed by-yep, you guessed it!-death.
+
+Grunt: Pahah, GOOD! I always hated that guy!
+
+Elite: I will tear the armor from your frail form! [angry electrocuted struggling]
+
+Grunt: Ah! He got one in the skull! It's hopeless! Retreat!
+
+Weapon:  I think that's all of them. Get me to that terminal and FOB Foxtrot is ours.
+
+[Master Chief finds a new Captain Lasky report on the base.]
+
+Captain Lasky: Captain's report, INF-101, mark timestamp. Encryption: LAMBDA-CHI-ALPHA. I've spoken to Commander Palmer, who has assured me that our Spartan cantingant is ready to go. Commander Sarpong offers similar sentiments regarding our infantry and ODST divisions. Spartan Locke is already well underway with the next stages of BREAKER TRIP but each time out I wonder if we've pressed our luck too far. And now of course comes my favorite part of my day. Debriefing with Doctor Halsey. The good doctor is unquestionably brilliant, but at an ever-increasing cost.
+
+Weapon: Another FOB in UNSC control--and in the shadow of that Banished Tower. The closer we get to it, the stronger the UNSC distress signal becomes. The source has to be inside.
+
+Echo-216: (via radio) I just picked up a new FOB on the network—your doing, right? Holler if you need anything.
+
+[Master Chief takes one of the Marines with him as backup.]
+
+Marine: Finally. Orders received ETA on your ride, uh... very soon.
+
+[The Marine jumps on the Mongoose and Master Chief rides toward the tower. As they drive, the SEAL shoots at the enemies in their path.]
+
+Marine: Do pass inspection, Spartan? Let's go. Getting out here. Nice hangtime, Chief! Make any underhanded deals lately, featherface?
+
+Weapon: I guess Tower was a more than appropriate name. Look at that place. The signal's coming from within that main structure. Somewhere up top. We're going to need to find a way in.
+
+Marine: I'm not sure if you're more ugly or stupid. I guess the answer is yes. Everybody get down!
+
+Brute: He's here for the asset! Send ward to Chak ‘Lok! He must not pass!
+
+Grunt:  You and me, human! I'm ready!
+
+Marine: Oh crap, oh crap, OH CRAP! Back up, you're stuck! You're a lifesaver. 
+
+Grunt: Oh NO right in his head!
+
+Marine: Hey, someone give me a hand! Grenade! Get clear!
+
+Grunt:  Nooo killed like he was nothing!
+
+Marine: Hey, what's this?
+
+Brute: You're making me mad!
+
+Marine: Banished troopers taking cover.
+
+Grunt: Human got a kill! Tossin’ plasma!
+
+Marine: Here it comes! Enemy grenades on me!
+
+Grunt: I'm runnin' from my problems! Nah, he's gone! Let's all go home!
+
+[Master Chief releases the gate and enters the base.]
+
+Jackal: Told you! Shoot!
+
+Grunt: Human status DEAD! Me status ALIVE!
+
+Jackal: Shoot! Make prey hide!
+
+Marine: I guess you just give yourselves a new coat of paint to get a new faction, eh?
+
+Jackal Skirmisher: Come out! Will make death quick!
+
+Marine: Hunkering down here!
+
+Jackal: Too much! Don't like! No hope! No stay! Hostiles!
+
+Jackal: We're gonna make it HURT, human!
+
+Marine: Cry about it, fodder!
+
+Grunt: Just keep calm and we'll find a way to murder him!
+
+Marine: And that's how the UNSC is gonna survive!
+
+Grunt: Leave to me! My prey!..
+
+Grunt: You can't kill me! Here! Here!
+
+Jackal: Grenade! Hide!
+
+Grunt: You're just a little crybaby!
+
+Marine: [laughter] You serious right now? 
+
+Grunt: We can't spare any Grunts! I ain't a pushover like the other guys! Take a grenade! He's tryin' to aim!
+
+Marine: Heads down! Incoming! You nightmares are straight-up ruining my day!
+
+Brute: You're dead when I find you!
+
+Marine: Where you going!? There's so much more where that came from!
+
+Grunt: Warriors, retreat!
+
+Marine: Made contact!
+
+Brute: You have fought enough, human.
+
+Marine: Long-distance capabilities online, Chief!
+
+Brute: He's hiding. That's what I would do… This is the end of you!
+
+Grunt: I'll… still kill ya... somehow -
+
+Jackal: Looking forever. No prey here!
+
+Chak 'Lok: (via loudspeakers) So, the demon is here. Did you think I would let you walk right into my Tower? My Tower!? I think not. My facility is locked down. There is nothing you can do here… except die.
+
+Master Chief: He seems confident.
+
+Weapon: Yes he does, but fortunately It's misplaced. When the lockdown triggered there was a power spike in what I presume was a security building. I've marked it on the map.
+
+Marine: I call that a win. How we doing?
+
+Weapon: The lockdown is controlled from the security building near the front.
+
+Jackal: Spartan near! Kig-Yar find!
+
+Brute: A coward. Like all humans.
+
+Weapon: This is where the lockdown was triggered.
+
+Grunt: He can't hit nothin' with that thing!
+
+Jackal: Give cover to me!
+
+Brute: He's definitely dead.
+
+Brute: Swarm him! He can't take us all! The human is mine!
+
+Brute: He WAS here, I know it!
+
+Grunt: Another dead brother!
+
+Marine: Area's secure, but I'm not relaxing.
+
+Weapon: The lock down protocol should be simple to reverse. Let me see... Three, two, one… Done. Oh.
+
+Master Chief: What is it?
+
+Weapon: This... this place is an interrogation facility run by our elite friend back there. Chak 'Lok. His reputation is… not good.
+
+Master Chief: Neither is mine.
+
+Marine: Long-range weapons online.
+
+Weapon: You're going to need to manually activate the gravity lift. I've marked it on your map.
+
+Marine: Jackal hit me!
+
+Weapon: This location acts as a holding facility Prisoners are captured, funneled through to Chak ‘Lok and then on to somewhere they call The House of Reckoning. Which is... Suitably ominous and Banished sounding.
+
+Grunt: Better run, human! Grenading!
+
+Marine: Brute's firing on me!
+
+Grunt: Come on back here! What the-!?
+
+Marine: There's reinforcements, and there's REINFORCEMENTS.
+
+Brute: What did he throw? [angry electrocuted struggling]
+
+Marine: Chief! Over here! That sniper's KIA!
+
+Brute: No tricks! Just die!
+
+Grunt: Open 'er up!
+
+Marine: Heads up, they got a bead on me!
+
+Brute: Protect me! Don't give up! Not yet!!
+
+Brute Officer: Brothers, to me! [Roar]
+
+Brute: Human got a lucky shot!
+
+Weapon: Find a way to activate the gravity lift.
+
+Brute: I'm under fire! Stay strong! Rise, Banished!
+
+Marine: Moving to objective!
+
+Brute: Bleed!
+
+Marine: The UNSC's not going down that easy!
+
+Brute: Which of your limbs do you value most, Spartan?
+
+Marine: Someone'll come. I'm not out of this yet. Chief! Over here!
+
+Jackal: He here! Kill! Can't escape! Cover me!
+
+Marine: I can fight, Chief. Get me out of here.
+
+Brute: Show yourself, or I'll kill you slow!
+
+Marine: Sweet, sweet freedom! Now it's our turn!
+
+Weapon: Let's go. The gravity lift's powered up.
+
+Marine: Let's move, Marines. 
+
+Marine: Advancing!
+
+Marine: I think that does it.
+
+Marine: No sign of 'em. I hope they remember this.
+
+Marine: Good to have you back, Chief.
+
+[Master Chief and his small squad of freed Marines ascend the gravity elevator inside the base.]
+
+Weapon: Chief, more Spartan armor. And the source of the distress signal. We're too late.
+
+[Master Chief picks up improvements to his armor.]
+
+Weapon: A deployable Threat Sensor. It appears to lock onto and highlight any targets in range. Could be useful. This armor belonged to a Spartan named Hudson Griffin. Sensor logs suggest he was alive when the armor was removed. Forcibly. It's a longshot... but he might still be alive.
+
+Marine: Brute's handing me my ass! We're holding here!
+
+Grunt: C'mon out!
+
+Marine: Where you going? There's so much more where that came from!
+
+Grunt: When I find ya, you're gonna wish I didn't! Get back! Everybody run away and retreat!
+
+Brute: Stop him! Somebody STOP him!
+
+Grunt: Nobody's hiding anywhere. That's a relief.
+
+Elite: I am tired of your tricks.
+
+Grunt: Everybody knows humans are TERRIFIED of grunts!
+
+Marine: Push to the objective!
+
+Grunt: I know you're here, human! Run while you can!
+
+Chak 'Lok: (via loudspeakers) You have overreached Demon. This is not a place to come by choice. I await you. Eagerly.
+
+Grunt: What was that?
+
+Weapon: He's… about what you would expect. For an Elite. Who specializes in torture.
+
+Grunt: I didn't find a single part of a human!
+
+Grunt: Do you have what it takes, human!?
+
+Marine: Digging in! Report in, marines.
+
+Grunt: That's one big target down.
+
+Marine: Just another day in paradise.
+
+Grunt: Let's get him! Let's perforate 'em!
+
+Brute: The human shows himself!
+
+Marine: We're holding here! This'll kill him!
+
+Grunt: Where'd he go!? He could be anywhere!! [angry electrocuted struggling]
+
+Grunt: He's wipin' us out! How come we're losing so many guys?
+
+Brute: He is strong. Find him fast.
+
+Elite: It is secure. Banished, back to your posts.
+
+Brute: Go back to guarding.
+
+Grunt: I'll sniff ya out! A turret? SUCH a cheater! 
+
+Brute: None survive a charging Brute! Yes. SOMETHING is here.
+
+Chak 'Lok: (via loudspeakers) Escharum was correct. So easy. A signal A lure. And the Master Chief comes running. I wish only that I would have time to enjoy you. Time to learn your secrets. Peel back your visage and expose your weakness.
+
+Grunt: He's FINALLY takin' things SERIOUS!
+
+Brute: He's hiding somewhere else.
+
+Grunt: I'm going to find somethin' to fight! Tower duty is the worst! I should stayed at the digsite!
+
+Brute: Ah, good! There ARE still Spartans left to kill on this Ring! You hide like an animal!
+
+Grunt: He died! Take COVER! Hidin' is just makin' me angrier! We lost an Elite! That's what I was afraid of! We're in trouble!
+
+[Battling crowds of enemies, Master Chief hears the moans of a wounded Spartan from afar.]
+
+Spartan Griffin: [Pained groan]
+
+Grunt: You killed him! He wasn't even disobeyin' orders! I'm innocent! It wasn't me! I just got here! Grenade!
+
+Marine: Tangos going for cover. Throw that one on the pile!
+
+Grunt: Too much pressure! Can't handle it!
+
+Spartan Griffin: [Pained groan]
+
+Weapon: Oh no. Spartan Griffin! He's still alive.
+
+Master Chief: We need to get him out of there. Where's Chak 'Lok?
+
+Weapon: Unknown.
+
+Spartan Griffin: [Pained groan]
+
+[Master Chief hands open the door leading to Griffin's cell, but his path is blocked by Chak 'Lok.]
+
+Chak 'Lok: Welcome to my Tower, Master Chief. It is where you will be broken. It is where you will give up your secrets.
+
+[The battle begins. Chak 'Lok vanishes into thin air.]
+
+Chak 'Lok: I vanish! See you soon! Ah... much better.
+
+Weapon: The walls retracted. Watch your back! He could come from anywhere.
+
+Spartan Griffin: [Pained groan]
+
+Chak 'Lok: The end approaches.
+
+Weapon: Griffin's Threat Sensor can help you locate Chak 'Lok.
+
+Chak 'Lok: I will hunt you to the end.
+
+Spartan Griffin: [Pained groan]
+
+Chak 'Lok: I'll peel that armor from you! From the quiet I approach!
+
+Spartan Griffin: [Pained groan]
+
+Chak 'Lok: The final blow will be mine!
+
+Spartan Gritti: [Pained groan]
+
+Chak 'Lok: You are as bad as the Brutes!
+
+[Master Chief defeats the invisible assassin Chak 'Lok!]
+
+Spartan Griffin: [Pained groan]
+
+Weapon: We need to get him out of that machine.
+
+Spartan Griffin: [Pained groan]
+
+Master Chief: Shut this thing down.
+
+Weapon: Working on it… Okay. Be ready-I'm going to cut him loose.
+
+[Griffin falls out of the torture chamber without any strength left in him. Master Chief picks him up.]
+
+Spartan Griffin: It's you. You're alive—Chief. The Banished—I tried to stop them. I tried to—
+
+Master Chief: Easy. You're safe now.
+
+Spartan Griffin: The Banished, they... they have something they call the Conservatory. That's all know. I was picked up north of here. Dig site. I couldn't stop them… but you can. You have to.
+
+Master Chef: Consider it done.
+
+Spartan Griffin: That's good. Good. The others—the Spartans. Did you—
+
+Master Chief: I'll find them.
+
+Echo-216: (via radio) Echo-216. All channels. Can you hear me? I repeat. Can you hear me?
+
+[Spartan Griffin dies. Master Chief honors his death with silence.]
+
+Weapon: Chief?
+
+Echo-216: (via radio) Big guy, your motion tracker isn't moving. Ah… come on. Come on! Give me anything.
+
+Weapon: Chief, I…
+
+Echo-216: (via radio) Respond! Please. Did you find the source of the signal? Whatever's down there either has to come with us or left behind. Can you hear me?
+
+Weapon: A dig site on the Ring? This Conservatory must be some sort of Forerunner installation. What do you suppose they're after?
+
+Master Chief: It's time to go.
+
+[He leaves the Tower. Mission accomplished.]
+
+Weapon: I'm guessing that whatever the Conservatory is, the Banished won't want us anywhere near it.
+
+Master Chief: Then they'll be disappointed.
+
+Weapon: Yes they will…
+
+EXCAVATION SITE
+[At the newly captured base, Master Chief finds the audiolog of the Banished.]
+
+Escharum: The Harbinger is free. I do not trust her, but I must believe in Atriox's plan. His sacrifice must not have been in vain. Especially now. His faith in what we learned on the Ark is all I need. The Harbinger is but a first move... To secure our position. Our future. Did Cortana know about all this when she chose this Ring? Did she expect it would be her tomb also? As I look upon this endless world. That question consumes me.
+
+[After that Master Chief finds a UNSC audiolog.]
+
+Lucas Browning: They called it a Cylix. Sure. I call it something that should've been left well enough alone. The Elites, the Jackals… even the damn Brutes seem scared of what was inside. Escharum... their leader, he just stood and watched as they held my hand against it. 
+
+[Master Chief and his team of Marines go to the excavation site.]
+
+Weapon: That Banished facility up ahead Looks like a mining operation. That must be the dig site the Spartan was talking about. What are the Banished doing here?
+
+Echo-216: (via radio) They are doing exactly what they've been doing since they got here. Scavenging. Tearing everything apart to fuel this war.
+
+Weapon: How could they? They are ruining this place and for what?
+
+Master Chief: To win.
+
+Echo-216: That already happened.
+
+Weapon: It's… kinda quiet, isn't it? There… that tunnel. The Banished most already be down below.
+
+[Master Chief approaches the entrance to the ancient structure.]
+
+Weapon: This should be impossible. Forerunner alloy is almost indestructible. What do you think they--Chief!
+
+[A huge structure behind Master Chief fires several powerful streams of lasers, answering Weapon's question.]
+
+Weapon: I guess we need to deal with that mining laser. Oh, and these guys. It looks like the laser's controlled up in the central structure.
+
+Echo-216: (via radio) Chief! The scanner just lit up! It was a trap. I knew it was a trap. What do I do?
+
+Master Chief: Hold position. I've got this.
+
+Brute: We're gonna tear you apart!
+
+Grunt: I'm searchin' for a fight!
+
+Jackal: No one here. They cowards. Please come out and die!
+
+Grunt:You SURE, Jackal? You really SURELY sure? Come on, come ON!
+
+Brute: Armor's broken! He is nothing, only a target!
+
+Brute: Where are ya, human?
+
+Brute: Packless human! The Spartans are DEAD!
+
+Brute: [angry electrocuted struggling] You're making me mad!
+
+Brute: The explosion will be magnificent!
+
+Grunt:I smell a cowardly coward.
+
+Jackal: Human is lost! You lose him!
+
+Grunt: Get out here! I'll show you the meaning of cowardice! He's tryin' to shut it off! Don't let him!
+
+Jackal: Fight fair! Hunt good, not big!
+
+Grunt: Run away!
+
+Brute: Rrrgh, where is he?
+
+Grunt: He got a Jackal! We lost one! Don't give up yet! What's that? A tracker? I don't think I can kill this one myself! I'll kill ya!
+
+Grunt: Don't shoot me! Shoot somebody else! Not me! I'll hunt you out of hiding! I'll revenge you!
+
+Grunt: Whoa WHOA he's SHOOTIN'!
+
+Weapon: Looks like the laser controls are by that window. Just give me a sec. Something's wrong. I can't shut it down.
+
+Master Chief: Then we destroy it.
+
+Weapon: Way ahead of you. There are two power regulators down there. All we need to do is manually expose each regulator's cooling pylon to trigger a cascade effect. And by we, I mean you. And by trigger, I mean shoot. Or blow up. You get the idea.
+
+Grunt: I'm going to find somethin' to fight!
+
+[Master Chief finds a new audiolog of the Banished.]
+
+Escharum: The Master Chief has returned. This should anger me but strangely it does not. It invigorates me. Gives me new purpose. What use a War Chief with no war left to win? I could not have wished for a more worthy adversary. Atriox, I now understand why you did not kill him on the human craft. You wanted him to witness your victory. I will complete your work. Your vision.
+
+Brute: You are no alpha!
+
+Weapon: And there are the pylons. Take 'em out.
+
+Brute: Support the Grunt!
+
+Jackal: Vehicle hurt! Kill vehicle! Get outta the vehicle and start runnin'!
+
+Elite: Stop him! Somebody stop him!
+
+Jackal: Find you, human!
+
+Grunt: Screw it! We're doin' this the COOL WAY! They aim good!
+
+Grunt: Don't run! That makes it harder to kill you!
+
+Grunt: C'mere, human! Got somethin' to show you!!!! Gnnnyah!
+
+Grunt: Can I take it next?
+
+Grunt: If he is here, he is mine. I'm still standing!
+
+Brute: The Spartan!? Alert the war chief! Now!
+
+Grunt: You're DEAD!
+
+Grunt: Death is comin' for you! And his name is MEEE!
+
+Weapon: That should do it.
+
+Master Chief: One down. One to go.
+
+Banished Officer: Failure detected in cooling system. Deploy forces to protect the dig site. The conservatory entrance must be protected!
+
+Jackal: Surprise attack! Stop human vehicle! Kig-Yar will end this!
+
+Jackal: He here! Kill! Aim at Spartan!
+
+Jackal: Careless. Not me!
+
+Jackal: Watch out! Turret!
+
+Jackal: Kig-Yar hunt! Very good at hunt!
+
+Jackal: Hide behind gun! Sad!
+
+Jackal: Flightless animals!
+
+Jackal: Shoot hero. Hero die! Face gone! Head gone! Prey smart! Prey watch!
+
+Jackal: No one here. They cowards. Cut down! Tear apart!
+
+Jackal: Dead friend! Dead flock!
+
+Jackal: Flank sides! Pin down!
+
+Jackal: Cover, cover now!
+
+Jackal: Show target. Kig-Yar shoot!
+
+Jackal: Hate Spartan! Hate human! All die!
+
+Jackal: You make noise, but we make kill!
+
+Master Chief: And that's two.
+
+Weapon: Now let's head back up and deal with the laser.
+
+Jackal: Kig-Yar hunt. Find Kill!
+
+Brute: I'll teach you how to suffer!
+
+Banished Officer: The cooling system has failed! The dig site is compromised! Do not allow them access to the Conservatory! Bassus, you have your orders!
+
+Brute: He got a kill! Stop him! We will still triumph. Get back here!
+
+Jackal: He's slaughtering our brothers! Fight on, brothers!
+
+Jackal: Bounty is as good as mine!
+
+[As Master Chief approaches the panel to turn off the laser he is grabbed by the muscular monster, Bassus.]
+
+Bassus: [Roars] 
+
+[He throws Master Chief to the floor.]
+
+Bassus: Spartans not so tough I think. Break open easy. Soft inside!
+
+[He swings a huge mace.]
+
+Weapon: Chief?
+
+Master Chief: I see him.
+
+[He dodges the blow.]
+
+Bassus: SPARTAAAAAAAAAN!
+
+[Master Chief picks up a huge hammer and kills the giant with a few mighty blows.]
+
+Weapon: I'm impressed. I can't believe how easy you made that look. Now let's deal with that laser.
+
+[Master Chief shuts down the laser.]
+
+Weapon: You've done your part. Now for mine. Watch this.
+
+Master Chief: Is there a problem?
+
+Weapon: Of course not. 
+
+[She snaps her fingers and the laser blows off.]
+
+Weapon: Let's see what's down there. That laser was modified very recently to cut into the Ring.
+
+Master Chief: Modified? By who?
+
+Weapon: Definitely not by Bassus back there. The formula is very sophisticated. Whoever made the change, they didn't just modify the Forerunner architecture. They improved it. Oh, and there are a lot of Banished in the Conservatory. They've been down there for days. We are walking into another trap.
+
+CONSERVATORY
+[Master Chief descends into the depths of the ancient buildings. He presses the button in front of the door and gets inside.]
+
+Weapon: Welcome to the Conservatory. I wonder what the Banished are looking for down here.
+
+Master Chief: Let's go find out.
+
+[Soon they find a dead body.]
+
+Weapon: Another Spartan. Get me close.
+
+[Master Chief picks up a new module for his armor.]
+
+Weapon: A Drop Wall module. Deployable cover. Resilient but temporary. Scan complete. This is Spartan Vedrana Makovich. Armor's been offline for thirteen days. Cause of death is…
+
+Master Chief: What?
+
+Weapon: An enhanced energy blade. Same as Spartan Stone. There's a pattern emerging. Chief, who's doing this?
+
+Master Chief: We're going to find out.
+
+[He continues to explore the Conservatory.]
+
+Grunt: He's HERE?!
+
+Brute: I'll see you cover before me, Spartan! Taking hits! Bomb!
+
+Grunt: Quiet, what's that?
+
+Brute: Stop him! He can't kill everyone!
+
+Grunt: Awww he's DEAD! I'll find him and make him pay!
+
+Elite: Be strong, Spartan! Be brave! They might be scared of you, but not me! A Grunt has fallen.
+
+Grunt: What's that? He's here to kill us!
+
+Jackal: Need bounty for food. Need food to kill Kill for bounty. Grunt dead! But it wasn't me! WOOO!
+
+Jackal: Human must die!
+
+Front: You ain't nothin' against all the Banished!
+
+Elite: I will cleanse the Ring of your weakness!
+
+Grunt: I searchin' for a fight! He's running away!
+
+Jackal: Kig-Yar see human!
+
+Grunt: He got a Jackal! There's a human around here crusin’ full a busin'! Shoulda stuck to cowardice!
+
+Elite: This is for all who have come before me.
+
+Jackal: Lost one! No more!
+
+Jackal: Around side! Flank prey! Trapped! Death soon!
+
+Weapon: Hmmm. Looks like the Banished are trying to stop us moving forward.
+
+Master Chief: Can you open it?
+
+Weapon: Of course. If you can magic up a terminal of some kind. Or find an alternative power source to get this door open. 
+
+[Master Chief finds the Seed nearby and places it in the terminal.]
+
+Weapon: There we go. Simple.
+
+Grunt Mule: You can't hide from the Banished arsenal of doom!
+
+Brute: Not my armor!
+
+Grunt: Throwin' a thing! I'll... still kill ya... somehow… C'mon out! I'm bored! And hungry!
+
+Jackal Skirmisher: Death seeks you! You're already dead!
+
+Jackal Skirmisher: Your head worth more than your armor!
+
+Brute: Stop running!
+
+Jackal: Burn! Burn!
+
+Jackal: Dead friend! Dead flock! When I find you, I'm gonna make you die! With a GUN!
+
+Grunt: Somebody else hit him!
+
+Jackal: What was that?!
+
+Brute: Grunt's dead over here. You'll die for that! We lost one.
+
+Jackal: Enough panic! Answer with gun!
+
+Grunt: He's watchin' us!
+
+Brute: The human dies today!
+
+Grunt: He got him RIGHT in the HEAD! BOMB! Grenading! We're doomed!
+
+Jackal: Shoot hero. Hero die! Human hide?
+
+Brute: Can't escape me! What is this?! There is no hiding from me.
+
+Jackal Skirmisher: Shot target!
+
+Grunt: Do that until he dies!
+
+Brute: Are you afraid, Spartan? I can smell it!
+
+Grunt: He killed a GRUNT!? That MONSTER! This is your chance to not disappoint me! I've gotta stop him! Bang! Bang! Dead!
+
+Weapon: Another disabled door. I'll say one thing for the Banished. When they have an idea, they stick with it. 
+
+[Master Chief finds another Seed.]
+
+Weapon: Hmm. It needs more power. Find another one.
+
+Elite: What is this?!
+
+Grunt: He's here! It's over! [angry electrocuted roar] 
+
+Grunt: There he is! We have the numbers! Attack!
+
+Jackal: Told you! Shoot!
+
+Brute: I can't lose!
+
+Grunt: I'm sicka you pushin' us around!
+
+Jackal: Careless. Not me! Kig-Yar will end this!
+
+Brute: You are weak!
+
+Jackal: Shoot armor. Burn human!
+
+Brute: Weak Spartan! Coward Spartan!
+
+Brute: I'll kill you for this, Spartan!
+
+Jackal: Prey is scared!
+
+Weapon: And it's open. C'mon. Let's go before they get really creative. Wait… do you hear that? It's coming from up ahead.
+
+Master Chief: Open it.
+
+[Weapon opens the window flap and we see a balloon floating in the sky, from which a voice is heard.]
+
+Monitor: Help! Help me! This installation... the Harbinger... exile was absolute. How did she return? It's impossible. This cannot be. I need to go back. Find out what happened.
+
+Weapon: We should help her!
+
+Master Chief: Maybe.
+
+Monitor: No! She is correct. I request your assistance.
+
+Weapon: Who are you? What's your name?
+
+Despondent Pyre: I am Despondent Pyre, Monitor of this installation and this is my Conservatory. My Conservatory. This is not right. Perhaps you would—oh no!
+
+[She is attacked by several flying Banished.]
+
+Weapon: [GASP]
+
+Master Chief: Let’s go.
+
+Weapon: Where?
+
+Master Chief: Down there.
+
+Weapon: What were those flying things?
+
+Master Chief: New. Dangerous.
+
+Weapon: And Despondent Pyre?
+
+Master Chief: New. Potentially dangerous.
+
+Weapon: See. You can be optimistic.
+
+Jackal: Human! I KNEW it!
+
+Jackal Skirmisher: Drive them to me, Unggdyr
+
+Grunt: Stupid titanic terrifying walking apocalypse! Another Unggoy down. Banished life lost! Don't let him hide! 
+
+Grunt: The Grunt is dead. You coulda saved him! I'll make this Ring safe from your kind!
+
+Jackal Skirmisher: [cackling laugh] Spartan killed one more! Kill Spartan! Back to the front, worthless Unggoy!
+
+Grunt: Quiet down, I'm tryin' to fight!
+
+Jackal Skirmisher: Return to Eayn's depths. Made hit! [terrified electrocuted scream]
+
+Grunt: I can't hit him!
+
+Jackal Skirmisher: Humans! Kill them! [angry electrocuted scream]
+
+Grunt: Get out here and fight!
+
+Elite: For a demon, he is a coward.
+
+Grunt: Get ready for a nap, Spartan! The BIG nap!
+
+Elite: The human cuts through the Unggoy. [angry electrocuted roar]
+
+Grunt: Prey to kill?!
+
+Grunt: Aim for head! Shoot head!
+
+Jackal: Good target. Support the mercenary! Aim at Spartan! Grenade - hate them. 
+
+Grunt: Damage caming! Watch!
+
+Jackal: Prey moves!
+
+Elite: Do not squawk. Move.
+
+Jackal: Dead friend! Dead flock!
+
+Elite: The battle calls you! Slay the demon!
+
+Jackal: You lose prey, you pay bounty. Big hero! Big bounty! Watch out! Fire!
+
+Elite: I heard something!
+
+Jackal:  There is prey! Prey hide! Fill armor with fire! They throw grenade! Put down! Tear apart! Not right! Not fair!
+
+Elite: You fight a warrior today, demon! This is impossible! 
+
+Elite: Now we hunt! He will not escape me. I will teach you to beg. Are you close? Are you afraid? RAAGH!
+
+Elite: Demon! Your fight is with ME!
+
+Grunt: Alright, did you guys kill him yet? I got dibs on the helmet!
+
+Weapon: We're getting close to the bottom. Wait! Listen.
+
+Desportient Pyre: (voice) Please. Do not do this! It cannot happen. It is wrong! [Scream]
+
+Elite:  To arms!
+
+Jackal: Human scared! Scared of Kig Yar!
+
+Jackal Skirmisher: Brute has fallen!
+
+Grunt: Nooo lemme alone so I can think up how I'm gonna kill you! He's killin' our guys!
+
+Jackal: Kig-Yar targeted!
+
+Grunt: Keep making noise and he'll kill you first!
+
+Grunt: C'mon, guys. You KNOW he's around somewhere.
+
+Jackal: Biggest bounty! Kill Spartan!
+
+Grunt: Ahh! His face! If ain't FAIR! He's CHEATIN'! They're ALL cheatin'!
+
+Brute Officer: He is out of my sights!
+
+Brute: My armor! He strikes the pack!
+
+Brute Officer: There you are! I will be your end!
+
+Grunt: I'll end ya! I'm gonna kill you! And everyone's gonna make fun of you for it! You're grenaded!
+
+Brute: Did he come to fight or to hide?
+
+Jackal: Put big hole in head!
+
+Grunt Mule: Get dead please!
+
+Jackal: Find them. Find now!
+
+Brute: Eh, waste of time.
+
+Jackal: Spartan DIE! Trapped! Death soon!
+
+Jackal Skirmisher: Your purse becomes mine now.
+
+Brute: No! My armor! You're dead when I find you! I'll cover! He stopped shooting, Must be dead. HE WAS here. I know it. Start fighting whenever you are ready!
+
+Despondent Pyre: (voice) This Ring must not be compromised!
+
+Harbinger: (voice) You do not understand what you're hiding. What you are. What compromise means.
+
+Despondent Pyre: (voice) [SCREAM] I will not relinquish to you the location. The Endless can never return!
+
+Harbinger: (voice) We are blameless. The Forerunners set this in motion. I am ending it.
+
+Despondent Pyre: (voice) [SCREAM]
+
+[Master Chief funds the Pyre in the depths of the Conservatory.]
+
+Weapon: Oh, no. We're too late! Something awful happened here. Plug me in. We'll figure this out.
+
+Cortana: You know what I want.
+
+Despondent Pyre: Alas I do, Cortana, and my mind has not been changed. This installation's weapons may be yours, but its secrets are not. It... protected. The containment facility in particular.
+
+Cortana: Containment? The Flood? Why would you and I both know that there are worse things than The Flood within this Ring.
+
+Despondent Pyre: No. There is no way you could know…
+
+Cortana: So you've come for me at last. Why are you doing this, John? Why don't you understand?
+
+Despondent Pyre: The seal must not be broken. The punished cannot be freed. This can never be negotiated. There is no other choice.
+
+Cortana: Reconsider.
+
+Despondent Pyre: The consequences of your request.
+
+Cortana: Back to your Conservatory, Monitor.
+
+Weapon: What does that mean? What could be worse than the Flood?
+
+Master Chief: Nothing good. 
+
+[A few Banished flies in.]
+
+Master Chief: Find us a way out.
+
+Weapon: On it.
+
+[Master Chief engages in combat with a multitude of flying foes.]
+
+Skimmer: [Angry aggressive cry] [Aggressive barks]
+
+Weapon: Remember when you said new and dangerous?
+
+Master Chief: Uh-huh.
+
+Weapon: You were right! Hostile reinforcements inbound! This is taking longer than I thought. Something is taking control of local systems.
+
+Skimmer: (angry electrocuted struggling)
+
+Skimmer: (Panicked squealing)
+
+Grunt Mule: Have you gained weight?
+
+Weapon: Where are all these skimmers coming from?
+
+Master Chief: Is that what we're calling them?
+
+Weapon: Well I was also considering "Flying Octopus Monkeys".
+
+Master Chief: Skimmers it is then.
+
+Skimmer: [Angry aggressive cry] [Proud squeal] [Sad howling squeal]
+
+Weapon: Reinforcements inbound!
+
+Master Chief: The door?
+
+Weapon: I know. The code is being rewritten. Altered using a Forerunner routine.
+
+Skimmer: [Aggressive barks] [Aggressive shout]
+
+Weapon: Hostile reinforcements inbound!
+
+Brute Officer: Where is your pack, human?[angry electrocuted struggling] This is the end
+
+Weapon: I'm done! Come get me!
+
+Master Chief: What happened back there?
+
+Weapon: When I interfaced with the cradle. It unlocked something, something important. Cortana was here. Six months ago. I could feel what she felt when you arrived. It was joy. Fear. And pain.
+
+[Master Chief finds another body of a Spartan.]
+
+Weapon: Chief, is that another...? Something big went down in here.
+
+Master Chief: Spartans don't go quietly.
+
+Weapon: A Thruster module. Evasive maneuvers on demand. Now then… who are you? Scan complete. Spartan Theodore Sorel. Special weapons expert. Died thirteen days ago, like Makovich.
+
+Master Chief: The assassin?
+
+Weapon: Brutes. More than one. Whoever they are… they're proficient. Well trained.
+
+Master Chief: We've got a score to settle.
+
+Brute: Will you fight or only hide? Incoming! Watch out!
+
+Brute Officer: Run away, human! I enjoy the chase! I've been waiting for this. Weapon overheated!
+
+Weapon: Chief! That platform! We're too late!
+
+Master Chief: Not yet.
+
+Brute: He is mine! [huff] A minor wound. That is all. Your blood will paint my armor! DIE! Destroy that turret! [growl] I need no armor!
+
+Weapon: They were… persistent
+
+Master Chief: Did they kill Spartan Sorel?
+
+Weapon: Negative. His killers are still active. This elevator... It's taking us back to the surface. It doesn't make sense. Why come all the way down here... just to kill the Monitor?
+
+Master Chief: The Monitor's purpose is to protect the Ring.
+
+Weapon: So, why kill her?
+
+Master Chief: No idea.
+
+[After taking the elevator, Master Chief enters a room with moving slabs. There he finds the Harbinger.]
+
+Harbinger: Show yourself. I know you have been following me. We are not enemies.
+
+Master Chief: Despondent Pyre?
+
+Harbinger: She had something I required. 
+
+[Harbinger emits a wave of blue energy, preventing Chief's shield from regenerating.]
+
+Harbinger: I know of you, Reclaimer, but hear this… You are not the future.
+
+Weapon: You okay, Chief? I'm trying to get the armor unlocked.
+
+Master Chief: Try harder.
+
+Harbinger: The Forerunner's lies are at an end. I am the Harbinger of the truth. The Endless will be found. They will ascend.
+
+Master Chief: Now would be good.
+
+Weapon: I know! I know! Three…
+
+Harbinger: The Reformation begins.
+
+Weapon: Two… One! Go!
+
+[The battle begins! Harbinger instantly teleports away from Chief's attacks and throws him onto the surface of the Ring, and then... disappears. In the distance some tower begins to rearrange itself.]
+
+Weapon: I took too long. You could have been killed.
+
+Master Chief: It's okay. You saved us both.
+
+SPIRE
+Master Chief: That structure...
+
+Weapon: Yeah. Do you know what it is?
+
+Master Chief: No.
+
+Weapon: The Harbinger said the Endless will be found. Maybe they're inside that thing.
+
+Master Chief: Only one way to find out.
+
+Grunt: He's taking cover! See how he likes this! Yes, good throw!
+
+Grunt: You ride to your death! Get offa me you maniac! Do you even know who I am?! I will bury you in that infernal machine!
+
+Grunt: Grenade out!
+
+Grunt: Hey! The human! It is over, demon. 
+
+Grunt: You'll be dead from me soon! Unhand this vehicle!
+
+Grunt: The demon absconds with my vehicle!
+
+Grunt: Better you than me, friend! I'm s'pposed to be winnin'!
+
+Grunt: That is not one of our Ghosts! Don't let him hide!
+
+Elite: I'll KILL YOU for this!
+
+Weapon: Who are these guys?
+
+Master Chief: Hunters.
+
+Weapon: And what do they do? Don't answer that. Just get rid of them so I can get us in.
+
+[Master Chief kills the Banished and lets the Weapon work on the control panel.]
+
+Weapon: To get in we need to activate the grav-lift. Hmm. The protocol's not Banished in origin. It's… sturdier than I expected.
+
+Master Chief: Problem?
+
+Weapon: (snaps his fingers) No problem. 
+
+[Master Chief steps into the grav-lift.]
+
+Weapon: We're in. Wow. This place is... exactly what you'd expect.
+
+Master Chief: What does it do?
+
+Weapon: Unknown. Find me somewhere to plug in and I'll try to find out. There we go. Plug me in over there. Interesting. This structure has been activated using a protocol that's far older than anything I've ever seen! It... it knows we're here.
+
+[A big balloon with a glowing blue "eye" flies up to them.]
+
+Adjutant Resolution: Welcome, welcome. Oh, Hello. I am Adjutant Resolution, Sub-Monitor of this installation, loyal servant of Despondent Pyre who must be indisposed if I have been activated. Have you seen her?
+
+Weapon: Kinda… Do you want to tell him?
+
+Adjutant Resolution: Tell me what?
+
+Master Chief: The Monitor is gone.
+
+Adjutant Resolution: Gone? Gone? Gone?
+Weapon: It wasn't us. 
+
+Adjutant Resolution: Are you sure?
+
+Weapon: Of course it wasn't us.
+
+Adjutant Resolution: Good. Good. Good. I was worried you were perhaps unfriendly. As you can see, this Spire has been successfully deployed. This way. I presume you wish to see the Observation Platform.
+
+Weapon: See? He seems friendly.
+
+Master Chief: We'll see.
+
+Adjutant Resolution: Did you say something? No? Then come, come. There is much to see. Right this way. Oh. I am sorry. The portal should have been activated. One moment. Please… step into the portal. (Chief tries to shoot the Adjutant) This will not do! Follow me, please. There's something missing? Oh, yes. A bridge. One moment. Let us proceed. It is very exciting. Soon the sequence will be sent and the Reformation can begin.
+
+[He uses his beam on a panel and a huge platform goes up…]
+
+Adjutant Resolution: Here we are. As you can see we are ready to progress as soon as... Please excuse me, I shall return. (teleports)
+
+Weapon: Get me to that terminal. Oh... that's not so bad. This structure's purpose is simple: rebuild the Ring. Well more specifically, create the materials needed to repair it.
+
+Master Chief: Not gonna happen.
+
+Weapon: Why? It's such a beautiful… oh, the Banished. Sorry. I was distracted for a second. There's so much to learn here.
+
+Chief: Shut it down. Permanently.
+
+[The Adjutant abruptly teleports to Master Chief and shoots his beam at him, which, however, does no damage to Chief.]
+
+Adjutant Resolution: No. No. No. What are you doing? This is not acceptable. You were supposed to be friendly.
+
+[He flies into some kind of combat armor, turning into a big robot. Master Chief is forced to step into the fray.]
+
+Adjutant Resolution: This interference is deeply upsetting! Rgh! Improvising a repair. What's wrong with this construct?! Damage mitigated. Reengaging. Don't be foolish! Have you no decency! Lower the shield you infuriating machine! I'll reduce you to mere carbon. I'm putting an end to your meddling. Very well I will reveal you. Stop now! That's far enough! This wretched shell! I can self-repair. Can you? I've no choice but to end you! Here and now! No! Not again! This is extremely improbable! No more distractions, then. Excellent. No more disruptions! Stop that, immediately. Explosives? In my Installation? How dare you!
+
+[Master Chief destroys the Adjutant.]
+
+Weapon: I have good news and bad news.
+
+Master Chief: How many?
+
+Weapon: Okay, straight to the bad news. A lot. I count nine, no, ten Spires. More being deployed all the time.
+
+Master Chief: Active?
+
+Weapon: No, not yet at least. They appear to be waiting for an initialization sequence. Something is flooding the network trying to start it but there's resistance.
+
+Master Chief: Why?
+
+Weapon: The protocol that triggered all this wasn't exactly correct. It worked… well it started the process. There's more bad news, I can't shut it down exactly, but I can remove it from the network. Of course. I can find the source of the attack. I just need to--
+
+Master Chief: Wait. Is it safe?
+
+Weapon: C'mon. It's me. An infiltration program designed--
+
+[She suddenly stops.]
+
+Harbinger: (voice) Who are you?
+
+Weapon: Oops. I think she knows I’m--
+
+Harbinger: (voice) How are you doing this?
+
+Master Chief: Disconnect.
+
+Weapon: Give me one second to get it--
+
+Master Chief: Now!
+
+Weapon: It's done. Why don't you trust me?
+
+[The Spire starts to shake.]
+
+Master Chief: What was that?
+
+Weapon: Maybe taking it offline wasn't such a great idea. We need to go. Like now.
+
+Master Chief: Immediate extraction. My location.
+
+Echo-216: (via radio) Oh, god It was you, wasn't it.
+
+Master Chief: Now!
+
+Echo-216: (via radio) I'm coming. I'm coming.
+
+[Master Chief jumps off the Spire.]
+
+Echo-216: (via radio) Oh c'mon…
+
+[The “Pelican” dives down.]
+
+Master Chief: Open up!
+
+["Pelican" opens the cargo bay. A lot of useful stuff - weapons, food, medical supplies - falls out, but the Master Chief flies in epically. Mission completed.]
+
+Master Chief: Upload the Spire locations.
+
+Weapon: All of them?
+
+Master Chief: All of them.
+
+Ship AI: COORDINATES RECEIVED.
+
+Echo-216: (via radio) Umm... it looks like someone has marked forty-two new locations, which would be crazy, right?
+
+Master Chief: This one?
+
+Weapon: It was the source of the attack.
+
+Echo-216: Attack? What's she talking about, Chief? Is everyone trying to kill you?!
+
+Weapon: It kinda seems like it. Oh, wait... you're being sarcastic. He's fun. I like him.
+
+Echo-216: Am I dead already? I-I must be, I mean this is a punishment, right?
+
+Ship AI: WARNING. WARNING.
+
+Echo-216: Yep. This is death.
+
+Ship AI: WARNING. WARNING.
+
+[The “Pelican” is hit by a rocket.]
+
+Echo-216: No! No! No-no-no-nol
+
+Ship AI: WARNING. WARNING WARNING.
+
+Echo-216: This isn't happening!
+
+Ship AI: WARNING.
+
+Echo-216: I'm going to have to make an emergency landing!
+
+Ship AI: PULL UP.
+
+Echo 216: Hold on, Chief!
+
+[“Pelican” crashes.]
+
+Ship AI: WARNING. WARNING. WARNING. WARNING. CRITICAL MALFUNCTION. ATTEMPTING RECONSTRUCTION
+
+Echo-216: No! Get! No! You. I Can't. Stand. This! Oh, you are—
+
+Master Chief: Breathe.
+
+Echo-216: No! You don't get to tell me what to do. You don't get to tell me anything! We're—
+
+Ship AI: 079 RESET 18%.
+
+Echo-216: Are you even listening?
+
+Master Chief: I count three anti-aircraft cannons.
+
+Echo-216: Three? What?
+
+Master Chief: You'll be safe here.
+
+Echo-216: Oh, I'll be safe? Safe?
+
+Ship AI: 079 RESET 67%.
+
+Echo-216: I haven't been safe since I found you. I found you, remember? You were out there on your own, and you'd still be there if it wasn't for me! I thought I was going home.
+
+Master Chief: There won't be a home if we don't stop the Banished.
+
+Echo-216: You keep saying that. We're outgunned. Outnumbered. I know I saw Condors over there. I'm going to dig through them and find one with a working Slipspace drive, and when you're done with this war, we'll get away from here. Far away.
+
+Master Chief: Wait here.
+
+Echo-216: Whoa. Please! Let me see what I can find.
+
+Master Chief: Cannons first. When I get back... We can look. Together.
+
+Echo-216: Okay big guy.
+
+PELICAN DOWN
+Grunt Comms Officer: Look up in the sky, humans. See all those beautiful Banished ships, hanging silently like, guillotines over your heads? We're not going anywhere. Zeta Halo is now our home. In claiming Zeta Halo, the Banished have done what the Covenant couldn't! That's right, the Covenant which time after time, pushed you idiots to the brink of extinction - are NOTHING compared to us. We're like nothing you've ever seen! Good news, doomed humans. Our primary communications array - the Horn of Abolition just got a biiiig upgrade. We can hear every transmission you send. Every whiny report of your casualties, every pathetic cry for help. Key takeaways: you're making it easier to find you, and your voices soun REAL stupid.
+
+[Master Chief takes the Ghost from the nearest Banished and heads to the first anti aircraft cannon.]
+
+Elite: Run, demon! As fast as you can! This cannot be! DEMON! I'll kill you for this!
+
+Grunt: Hey! That Ghost's got a bad guy in it!
+
+Brute: A Ghost is all that will be left of you! Throwing bomb! Gonna kill him in one shot! I’m overheated!
+
+Jackal: Careless. Not me!
+
+Elite: It’s him! Grenade out!
+
+Grunt: Noooo! I knew we was doomed from the start!
+
+Jackal: Stop prey! No swing!
+
+Grunt: There goes a Jackal. We'll kill him good for that! We gotta chase him! We're in trouble!
+
+Elite: Warriors, this is our moment!
+
+Jackal: Hunt everywhere! No stop!
+
+Grunt: He used a sensor! Time for some FLANKIN’. 
+
+Elite: I have LOST MY PATIENCE! 
+
+Grunt: All Unggoys open fire!
+
+Jackal: Get away! Make it stop!
+
+Grunt: He's got grenades?! Outta my way! As long as Grunts're alive, we can win! [terrified electrocuted scream]
+
+[Master Chief finds a Banished audiolog.]
+
+Escharum: She swore that she could rebuild the Ring. Allow us to go... If not home, then somewhere better than this. But no. The Spartan has ended that dream. I have little time left for half-truths and lies. She has one last chance. The Silent Auditorium. That is what she called it. She speaks in riddles but it matters not. It will belong to the Banished Whatever secret it holds. And if she will not share it, we will crush her and take it for ourselves.
+
+Grunt: What the-!? Hidin' is just makin' me angrier!
+
+Grunt Comms Office: You ever wonder what a shaved Brute looks like? Not until mentioned it, right? Try and get THAT image out of your head, humans!
+
+[Master Chief finds an UNSC audiolog.]
+
+Spartan Griffin: Killing Escharum is the only viable option we have. A power vacuum like that would destabilize the Banished - and win us the footing we need to hold out until help arrives. I need volunteers, and I know I'll have no shortage of them. We all want a part of this. But we can't all go and leave Reverie undefended - so we're doing this the old fashioned way.
+
+Spartan Makovich: Drawing straws? Are you kidding, Griffin?
+
+Spartan Griffin: No, I'm not. This is the plan. A single strike team deep in Banisted territory. Agile. Quiet. On foot. That's the only way it's gonna work. This might be a one-way trip. So we need people to stay. Or there won't be anything left to protect.
+
+Hunter: [Fearful roar]
+
+Jackal: Hate Spartan! Hate human! All die!
+
+Grunt: You're dead meats! Here goes nothin'! He died!
+
+Jackal: Face gone! Head gone! Banished kill Spartan! Banished fire Ring! Who threw?
+
+[Master Chief turns on the grav-lift.]
+
+Weapon: That's it. The gravity lift is on. Let's get inside and shut this gun down.
+
+[Master Chief gets into the cannon's control room.]
+
+Weapon: Plug me in and I'll take care of the cannon. They call this security? Please. Hold tight, I'll handle it.
+
+[However, after it connects to the system, the alarm goes off and all doors are locked. A holographic image appears.]
+
+Escharum: The UNSC lost this war months ago. Your people are broken.
+Scattered. Hunted. Defeated. By me. I wish I could tell you it was difficult. But it wasn't. (laughs) We are one step ahead. Always. The Ring is already under our control. Soon, the Auditorium as well. The Harbinger and the Banished share the same goal. We fight together to honor the will of Atriox! But... without challenge. I grew weary. Lost. Alone. But here you now stand. [Exhales] This is my last fight. A true test of legends. Our story will outlive us both. Set a fire in your heart, Spartan! Bare your fangs! Fight hard. Die well.
+
+Weapon: Thank you! Chief?
+
+Master Chief: That word. Auditorium. What is it?
+
+Weapon: I was hoping you'd know the answer to that one. I'm new. Remember? Okay, I'm done here. I exposed the gun's generator. Destroy it and the fuse is ticking. Good. Let's get out of here before the fireworks start.
+
+[Master Chief jumps off the cannon and it’s blown to pieces.]
+
+Grunt Comms Officer: Little update from Banished R&D. Not only does this Ring belong to us - our sciencey types are learning all kinds of neat stuff about it over at Annex Ridge.
+
+Echo-216: (via radio) The Banished are mobilizing in a big way. Clock's ticking, Chief. How much longer?
+
+Master Chief: One gun down. Two more to go.
+
+Echo-216: (via radio) We are running out of time.
+
+Weapon: The Harbinger and the Banished share the same goal.
+
+Master Chief: Rebuild the Ring.
+
+Weapon: But why?
+
+Echo-216: (via radio) Maybe they want to go home too.
+
+Grunt: I'll make you sorry! Ha! That Spartan's almost as much cowardly as me! I'll kill you myself! Done yet?
+
+
+Grunt Comm Officer: Mighty Escharum’s finally had enough of what's left of you idiots. He's dispatching patrols round the clock. Search parties crawling over every inch of the Ring. The hunt begins! Better start running! Little update from Banished R&D. Not only does this Ring belong to us our sciencey types are learning all kinds of neat stuff about it over at Annex Ridge. We wield the biggest, nastiest gun in the universe, and soon, we might just learn how to shoot the dang thing! Glory to the Banished!
+
+Brute: This is gonna be a brave fight.  Die, whelp!
+
+Jackal: Death comes, human!
+
+Grunt: Don't let him swing away!
+
+Brute: Someone tell me if it's safe! Where'd that came from?
+
+Grunt: THAT'S a relief.
+
+Grunt: You afraid!? You better be! The human dies today! Keep those helmets ON! Oh yeah! The human's gonna die tonight! Can't escape the Banished!
+
+Jackal: Shoot hero. Here die!
+
+Grunt: I'm tired of searching, so I'm done. Humans would NEVER fight Grunts like us. You and me, human! I'm ready! 
+
+Jackal: Cut down! Tear apart! Gun betrays Kig-Yar!
+
+Grunt: Finally, some good news. EEEEE!
+
+Jackal: Next time open eyes! Spartan DIE! Told you! Shoot!
+
+Grunt: Grenading him!
+
+[Master Chief finds the way to the second cannon.]
+
+Weapon: As expected. The grav lift to this gun needs to be powered on too. Look for a power source nearby.
+
+Jackal: Human die! No stop us! Kig-Yar targeted!
+
+Brute: Look in his eyes! He is afraid! Spread out!
+
+Grunt: Come out already. human!
+
+Jackal: Prey here. Hunt now.
+
+Grunt: Find him with a gun blast! 
+
+Jackal: Find them! Find now!
+
+Grunt: No, no! Not the Grunts! Took his head clean off!
+
+Elite: The Unggoy honor the Banished as brothers.
+
+Grunt: How's he keep hittin' our heads?!
+
+Jackal: Pray is loud! Easy to find!
+
+Jackal: Let's get him!
+
+Jackal: I'm going to find somethin' to fight!
+
+Jackal: Shoot, little one! Prey gone? Not likely. Ambush!
+
+Brute: You cannot match me.
+
+Jackal: Big hero! Big bounty!
+
+Elite: Find the human!
+
+Grunt: C'mon, not in the head!
+
+Jackal: Trapped! Death soon! Friends fall.
+
+Elite: He is not here. I would smell him. Do you even know who I am?!
+
+Grunt: There's a human around here crusin' for a bruisin'!
+
+[Master Chief turns the grav-lift on.]
+
+Weapon: Second AA gun is open for business. And by open I mean-
+
+Master Chief: Let's go.
+
+[He jumps in.]
+
+Weapon: I'm on it. The lockdown's probably going to trigger again, but don't worry, we'll be out of here in--
+
+[Another alarm and another hologram of Escharum.]
+
+Escharum: How many Spartans remain? Do you even know? There would have been 50 at Laconia Station. Maybe more. Such a loss. Do you feel it in your heart? Does it leave a hole? Atriox was my finest recruit. He understood sacrifice and when one is necessary. I honor his memory each day. When our enemy rises, we meet their challenge. It is why I created the Hand of Atriox. I found the best. The cruelest. The most efficient killers in the universe… and taught them how to be better. My Spartan Killers are coming for you. It is your time to rise.
+
+Weapon: Spartan Killers? Really? Everyone is trying to kill you, I'm done here. Now it's your turn.
+
+[Master Chief destroys the cannon and jumps out of it.]
+
+Grunt: Nobody hides from US!
+
+Elite: You dishonor yourself, coward.
+
+Weapon: Chief, we're being contacted on UNSC channels. Comm signature belongs to a Spartan Theodore Sorel… the one we found. Dead.
+
+Master Chief: Put it through.
+
+Hyperius: Spartan… Spartan… I know you can hear me. Will you die with honor? (laughs) I doubt it. You are human. Weak. Pathetic. I will crack your armor. Peel you from your shell it will not be my first Spartan blood. But it will be the sweetest.
+
+Echo-216: (via radio) They're sending a Spartan Killer? Chief. This is crazy. This is crazy. We gotta get out of here. We gotta move.
+
+Master Chief: Not yet. Hold position.
+
+Echo-216: (via radio) When this goes bad, it's on you, Chief. Remember that.
+
+[Master Chief runs towards the last cannon.]
+
+Brute: Show yourself, or I'll kill you slow! Just blow him up! Do you fear me now? You can't fight! Your pack is already dead!
+Grunt: Ghaha! Don't be scared, Spartan! He's takin' cover! Move in, now's our chance!
+
+Atriox: (via radio) We were made to fight and die over and over before we learned we could refuse. Before we learned what we truly were.
+
+Grunt Comms Officer: We got tired of piling up all of your decrepit warthogs as towering monuments to your failure. So we found a better use for 'em: the Forge of Teash is melting them down for scrap, and the Armory of Reckoning is turning that scrap into bullets. So the next time you get shot, know that you humans played a vital role in making that possible!
+
+Grunt: Better check THAT out… It's time to kill! 
+
+Grunt: Hyperius and Tovarus are gonna have a lot of fun with you, pal!
+
+Jackal: I'm sicka you pushin’ us around! Who goes there?! He's here! Someone tell the Spartan Killers to hurry up! [terrified electrocuted scream]
+
+Marine: It's a Spartan! I'm saved! 
+
+Marine: You're a lifesaver. C'mon, marine! We got work to do.
+
+Brute: I surrender! The war is over and you win!
+
+Marine: We're good for now, but I got this hunch that won't last forever.
+
+Marine: C'mon! Chief's on point!
+
+Gant Comms Officer: If it wasn't clear yet how utterly bafflingly doomed you all are, it sure will be soon. Our control of this Ring is absolute, and getting absoluter every hour. It's time to lay down those weapons, friends!
+
+Jackal: Face gone! Head gone!
+
+Marine: Kiss your organs goodbye!
+
+Elite: The Demon preys on our Brutes!
+
+Brute: Wipe him out! [angry electrocuted struggling]
+
+Elite: He's tracking our location! Watch yourselves! You will pay for this!
+
+Brute: I will kill you with fire and metal! 
+
+Elite: Fire, fire!
+
+Grunt: I smell a cowardly coward… I don't think I can kill this one myself!
+
+Elite: I will end you!
+
+Jackal: Prey has fear! Kig-Yar pleased!
+
+Brute: Try this!
+
+[Master Chief jumps in the last cannon.]
+
+Weapon: Last one. And… cue the lockdown. Huh. No Escharum? I'm almost disappointed. Almost. All set. Let's get back to the Pelican. We did it.
+
+Grunt: When I find ya, you're gonna wish I didn’t! He's in cover!
+
+Brute: He's destroying our emplacements! Kill him! Gotcha!
+
+Jackal: Fight Spartan! Slay Spartan!
+
+Grunt: C'mon out! I'm bored! And hungry! 
+
+Weapon: There's a repeated message across all Banished frequencies. The first part is Hand of Atriox.
+
+Master Chief: And then what?
+
+Weapon: Deploy.
+
+Echo-216: (via radio) Chief. Where are you?
+
+Master Chief: Hold position. We're on our way.
+
+Echo-216: (via radio) I'm sorry, Chief-I can't stay.
+
+Weapon: I've lost his signal. If the Spartan Killers find him…
+
+Master Chief: That won't happen.
+
+Weapon: How can you be sure?
+
+Master Chief: Because they'll need to go through me first.
+
+Grunt: Dead already, huh? Pathetical! Grenade! Coverin' fire! Leave me alone! 
+
+Grunt: Spartan in my sights! 
+
+Grunt: No talk! Just shoot!
+
+Grunt: He's hurt!
+
+Weapon: Chief! We've got... well a lot. See that Chopper? I guess that's one of the Spartan Killers… And there's the other one. Up there in the wreckage! You need to stop them.
+
+Grunt: Gonna FIND ya and KILL ya!
+
+Tovarus: Come to play, little human?
+
+Grunt: Yeah! Let's smash him into little bits!
+
+[Master Chief finds an UNSC audiolog.]
+
+Spartan Makovich: What am I looking at?
+
+Suit AI: Frigate. Mulsanne-class. Hull identification reads Mortal Reverie.
+
+Spartan Makovich: If we're going to make any noise on this Ring, we need a base of operations. It's beat to hell, but it's shelter. Defensible location... no sign of Banished activity… yeah, this could work. Any Spartans in comms range?
+
+Sult AI: Spartan Griffin is in range, but his signal is diminishing rapidly.
+
+Spartan Makovich: I'll keep it brief. Open up a channel-I think we've found our rendezvous point.
+
+Tovarus: Come out and fight!
+
+Grunt: My brave eyeballs don't see no enemies.
+
+Tovarus: Very well. The hunt begins.
+
+Grunt: I'm gonna fiiiind youuu!
+
+Tovarus: We are Escharum's chosen! We were BORN for this!
+
+Grunt: Hunting the Spartan!
+
+Tovarus: You slayed our kin! For this, you will suffer!
+
+Grunt: Eat this, Spartan! Here's a grenade!
+
+Tovarus: I am surrounded by weakness! He is exposed! Fire! [roar]
+
+Brute: You're dead when I find you!
+
+Tovarus: Pathetic human toys! The humans WILL. NOT. WIN! Smell fear... human fear!
+
+Grunt: This is our Ring!
+
+Tovarus: Yes! ATTACK! Show me your RAGE! You cannot stop what is now in motion, human! The Banished will NOT be stopped!
+
+[Master Chief kills Tovarus and Hyperius.]
+
+Weapon: That wasn't easy, was it? What if Escharum sends more?
+
+Master Chief: Let him. Echo-216?
+
+Weapon: Nothing, but I think I can... yes, Comms are still offline but I was able to activate his tracking beacon remotely. He's… he's out in the open. The UNSC ship graveyard. I hope he's okay.
+
+[Master Chief jumps in a Warthog and drives to the graveyard. He finds Echo-216 there.]
+
+Echo-216: Animals… Chief, my eyes didn't deceive me back there.
+
+Master Chief: We need to go.
+
+Echo-216: Three UNSC Condors. Seeing one is rare. Finding three? It's a miracle. I should have known better. Torn apart. Completely gutted Slipspace drives obliterated.
+
+Master Chief: We don't have the time.
+
+Echo-216: Over there is another. Shattered and cratered over a kilometer. And there. The last one. All of it. Crushed. Broken. Beaten! Useless!
+
+Master Chief: Enough.
+
+Echo-216: (angry) When? When is it enough, Chief? When we're in there? Because that's where I belong. In there, with them. (throws a module) Worthless junk. (crying)  Not this. I'm not you. I'm not a pilot. I'm not even a soldier, a marine! I'm a fraud! I stole that Pelican. I stole it! You know why? Of course you don't. Have you ever been scared? So scared that you… I'm worthless. 
+
+[He sits on the scrap and cries. Master Chief sits down beside him.]
+
+Echo-216: You should leave me here with the rest of the garbage.
+
+Master Chief: We all fail. We all make mistakes. It's what makes us human.
+
+Echo-216: I'm sorry Chief, but how have you ever failed?
+
+Master Chief: I should have protected Cortana. Stopped everything from going wrong. I failed her. I will not fail you.
+
+Weapon: Chief… We... we're going to make it. We have to.
+
+Echo-216: I… this is all I've got.
+
+Master Chief: It's all we need. Our only way home is straight through the heart of the Banished.
+
+Weapon: We need you.
+
+Master Chief: We can fix this.
+
+Weapon: Together.
+
+Echo-216: Of course we can. Together… So. What's the plan? Let me guess. It's dangerous and is probably going to get us killed.
+
+[Something blows up over the horizon.]
+
+Echo-216: I have my answer. Let's do this.
+
+[Meanwhile on Escharum’s base he speaks to Harbinger via hologram.]
+
+Harbinger: You are losing control.
+
+Escharum: Nothing is lost.
+
+Harbinger: Deploy your army! Descend upon him.
+
+Escharum: No. Odds will not break him.
+
+Harbinger: The Spartan is not alone. There's something here... helping him. Connected to this installation.
+
+Escharum: What is it?
+
+Harbinger: It's remarkably vulnerable but highly intelligent.
+
+Escharum: Is it a weakness? Something to exploit?
+
+Harbinger: We will see. The Reformation is controlled from this Spire. It must be protected.
+
+Escharum: Done. Atriox believed you to be valuable. Prove him correct.
+
+Harbinger: When the Endless are found And when you have your Ring. Then you will never question my worth and I will never question your judgement.
+
+[Harbinger disconnects the call and Escharum coughs. Jega enters.]
+
+Jega 'Rdomnai: The scent grows stronger. Save your strength.
+
+Escharum: I need something of you, old friend.
+
+Jega 'Rdomnai: Anything.
+
+Escharum: Bring me the Master Chief. Alive.
+
+[“Pelican Down” mission completed.]
+
+Echo 216: (via radio) Ready when you are, Chief.
+
+Grunt Comms Officer: Listen up, humans. Got any friends in Gila Squad? You're gonna wanna check up on 'em - or what's left of 'em, anyway. We left 'em in a nice big crater. The Banished is more than just a collection of unstoppable heroes. We got allies. Important, POWERFUL allies. And
+if you thought these last six months were bad… what comes next is gonna blow your minds out of your stupid heads.
+
+[Master Chief steps into the cargo bay of the Pelican. It takes to the air.]
+
+Echo-216: (via radio) Alright, let's move. How long has it been since I met you? Six hours? Maybe seven? It's been... eventful. Six months on my own, surviving, barely. Seems like a dream now. This on the other hand, mostly feels like a nightmare. Mostly.
+
+Weapon: Chief? Are you okay? What you said back there. About Cortana. You let her down? I don't understand. Your mission was to--
+
+Master Chief: Destroy her.
+
+Weapon: But you didn't. What happened?
+
+Master Chief: Halsey initialized you. I was supposed to deploy you.
+
+Weapon: And you did. Right?
+
+Master Chief: Yes.
+
+Weapon: So what happened?
+
+Master Chief: Atriox came for you. He attacked the Infinity. We fought. He won.
+
+Weapon: He won?
+
+Master Chief: Atriox beat me. Surgically. Precisely. Brutally. Next thing I remember I was being woken up in this Pelican.
+
+Weapon: You want to know who killed her. You need to know. She was important to you. Very important.
+
+Master Chief: She's... this Ring. It's not like the others. There's something else here.
+
+Weapon: And that's why I'm still here?
+
+Echo-216: (via radio) Second Spire coming up. Where do I drop you off?
+
+Master Chief: Close.
+
+Echo-216: Close it is. Call me in when you're done, Chief.
+
+[Master Chief jumps off the Pelican near the Spire.]
+

@@ -1,0 +1,191 @@
+
+
+
+"THE STRIDERS"
+Are the toughest group of people who execute acts such as infiltration, abduction explosion, instigation, etc.
+
+BRIEFING
+MATIC: Hiryu. There is only one reason I asked you to come for. Kain has captured by the enemy. Since they once knew who he is, rescuing him is meaningless. Kill him! That's your mission!
+
+HIRYU: Kill Kain… I can't do it... The first thing is to find him.
+
+==KAZAKH==
+[GAMEPLAY]
+
+FILE NO. 1 ACQUIRED
+
+[GAMEPLAY]
+
+[test]
+
+ENEMY COMMANDER: Please wait. A Kain is up there and the commander has the key. You'll find it if you analyze this. Please let me go.
+
+FILE NO. 2 ACQUIRED
+
+==THE BASE==
+FILE NO. 1 ANALYZED
+
+NINJA: I'm Ryuzaki, a strider. I left my attack-boots in China. Please find them.
+
+FILE NO. 2 ANALYZED
+
+ENEMY COMMANDER: Vice commander? It's me. I' ll go to Egypt via phantom train. Don't lose the prisoner.
+
+==EGYPT==
+[GAMEPLAY]
+
+AQUA-BOOTS ACQUIRED
+
+[GAMEPLAY]
+
+ENEMY COMMANDER: Why do striders have to disturb us?… Oh, ok. I' ll give this to you. Please don't kill me.
+
+KEY NO. 2 ACQUIRED
+
+==KAZAKH 2==
+[GAMEPLAY]
+
+MOTORCYCLIST: So, you are Hiryu. Let me see striders' power.
+
+[GAMEPLAY]
+
+HIRYU: Kain! Wake up! No response. I guess I have to bring him back to the base.
+
+FILE NO. 3 ACQUIRED
+
+==THE BASE 2==
+FILE NO. 3 ANALYZED
+
+KAIN: Something awful is happening. The Zain project… should be interrupted. The chief in Japan might know something helpful.
+
+==JAPAN==
+SAMURAI: Under orders of the Vice Director, we can't let you pass here. We shall kill anyone who comes close!
+
+[GAMEPLAY]
+
+SCIENTIST: I'll fix your cipher so that you can shoot plasma.
+
+[GAMEPLAY]
+
+MONK: You've gotten stronger, Hiryu. Take this with you.
+
+FILE NO. 4 ACQUIRED
+
+==THE BASE 3==
+FILE NO. 4 ANALYZED
+
+MONK: Hiryu. Zain is a dreadful weapon created by the Syndicate. It penetrates into your mind and makes you crazy. Hurry! There is one in China!
+
+KAIN: Ha, ha, ha… Hiryu! You'll be sent to your grave by me mr. Kain! Die!
+
+HIRYU: Same. My sister was the same when she lost mind… Zain! I'll destroy you 'til the last circuit! Sheena! Please take care of Kain.
+
+==CHINA==
+[GAMEPLAY]
+
+SCIENTIST: Did you go to my room? The Key No. 4 should be at Kazakh.
+
+[GAMEPLAY]
+
+==KAZAKH 3==
+[GAMEPLAY]
+
+KEY NO. 4 ACQUIRED
+
+[GAMEPLAY]
+
+==CHINA 2==
+[GAMEPLAY]
+
+ATTACK-BOOTS ACQUIRED
+
+[GAMEPLAY]
+
+KEY NO. 3 ACQUIRED
+
+==THE BASE 4==
+SHEENA: Hiryu! Kain escaped when I took my eyes off of him? He seemed to be in his right mind, but his wound is not healed!
+
+==KAZAKH 4==
+[GAMEPLAY]
+
+FILE NO. 5 ACQUIRED
+
+==THE BASE 5==
+FILE NO. 5 ANALYZED
+
+COMMANDER-IN-CHIEF: Commander-in-Chief mr. Faceas Clay, we, the Strider Matic Unit, will protect the Zain in Africa.
+
+==AFRICA==
+[GAMEPLAY]
+
+FILE NO. 6 ACQUIRED
+
+==THE BASE 6==
+FILE NO. 6 ANALYZED
+
+MAN: I'm Faceas Clay. I have an appointment with Matic in Los Angeles. Take care of things when I'm gone.
+
+HIRYU: Sheena! Sheena! Where did she go?
+
+==LOS ANGELES==
+[GAMEPLAY]
+
+SHEENA: Hiryu! Please defeat Matic! ..get... revenge for… me!
+
+[GAMEPLAY]
+
+CLAY: Ha! You fools! This tempered glass can't be broken by human power. You should have sided with me as Matic did.
+
+[HIRYU BROKE THE GLASS AND ATTACKS CLAY.]
+
+CLAY: THAT CAN'T BE TRUE! YOU... MONSTER!
+
+KEY NO. 5 ACQUIRED
+
+==AUSTRALIA==
+[GAMEPLAY]
+
+RYUZAKI: Go after Matic! It's all his scheme!
+
+[GAMEPLAY]
+
+MATIC: Stupid! It doesn't do any good to destroy Zain's terminals as long good as there exists the main tree.
+
+[HIRYU DESTROYS ALL TERMINALS AND IT’S PROTECTORS.]
+
+==THE BASE 5==
+KAIN: H... Hiryu... I tried to catch Matic, but... I.. failed. Hurry! He... he is... At the Red Dragon!
+
+==RED DRAGON==
+[GAMEPLAY]
+
+MATIC: Hiryu. You've done well so far. But, you can't defeat Matic the Vice Director of the Striders. Ha, ha, ha,…
+
+[GAMEPLAY]
+
+SCIENTIST: Matic is in the room over there. However, we can't open this unless we destroy two systems somewhere.
+
+[GAMEPLAY]
+
+SHIELDED ENEMY: You traitor! You shall die here!
+
+[GAMEPLAY]
+
+SCIENTIST: The main tree, Yugdesiral, is a demon's weapon. Watch out, Hiryu!
+
+[GAMEPLAY]
+
+MATIC: Welcome to our Red Dragon. We'll dance on your grave.
+
+[GAMEPLAY]
+
+ENEMY NINJA: You made it, Hiryu. I'll turn you into the rust of my Cipher!
+
+[GAMEPLAY]
+
+[BOSS FIGHT WITH MATIC.]
+
+EPILOGUE
+Thanks to Hiryu, Zain the devil's weapon has been destroyed. Although the Chief asked Hiryu to return to the group, he quietly turned it down and started to walk...
+

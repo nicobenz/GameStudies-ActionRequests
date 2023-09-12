@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+Platforms
+Java ME
+
+
+Release Date
+June 20th, 2007
+
+
+Genre
+Hack and slash, Action-Adventure
+
+
+Developer
+Javaground, SOE Los Angeles
+
+
+Publisher
+Sony Pictures Digital
+
+
+Writer(s)
+Marianne Krawczyk
+
+
+Walkthrough
+tiamat911
+
+
+Series
+God of War (series)
+
+
+
+Narrator: Since defeating Ares, Kratos, the God of War, reveled in his newfound powers, leading his Spartan Army through conquest after conquest. 
+
+For Sparta
+[Kratos enters the city besieged by the Spartan army. One of his soldiers approaches him.]
+
+Spartan Soldier: God of War, we call on you! Grant us strength!
+
+Kratos: Follow me, and you will know victory like none other!
+
+[He begins to kill enemy soldiers.]
+
+Instruction: Press * or the Left Soft Key to cycle through weapons and magic.
+
+Instruction: Press OK rapidly for combo attacks. To continue, press the Left Soft Key.
+
+Instruction: When a soldier is weakened, a spinning Arrow Icon will appear over his head. Stand next to him and press ↓ to grab him. Then press ←, →, or OK to finish him off.
+
+Instruction: Press ↑ to jump. Jump and press OK rapidly to attack in the air.
+
+Instruction: Press ↑ to swing from a ledge when the Arrow Icon and Swing Point Indicator are displayed at the same time.
+
+Instruction: Press ↓ to open Chests or pull Levers when the Arrow Icon is displayed. Red Chests provide Red Orbs that you can sacrifice to power up your Weapons and Magic. Press # for the Power Up Menu. Press ↑ or ↓ to select a Weapon or Magic, then press and hold OK to power it up.
+
+[Kratos enters a ruined palace.]
+
+Spartan Soldier: The battle has angered the Gods. They have sent Hera's giant, Argos to slay us!
+
+[Without hesitation, Kratos jumps into the pit with the beast.]
+
+Kratos: Hera’s beast will not keep us from triumph.
+
+Instruction: When an Arrow Icon appears over Argos’ head, press ↓ to initiate a special attack, then press the direction indicated by each Arrow Icon to complete the attack.
+
+[Kratos fiercely fights the multi-eyed monster. He pierces one of its eyes, after which Argos roars in pain and leaves the battlefield.]
+
+Instruction: Green Orbs Replenish the Health Meter.
+
+Instruction: The powerful blade of Artemis easily sliced through groups of enemies, but drains your Magic. Press the Left Soft Key until the Broadsword Icon appears in the Blade Icon, then rapidly press OK to attack on the group or in the air. Press the Left Soft Key now.
+
+Instruction: Run into the box ahead to grab it automatically, then press or to kick ← or → pull it.
+
+Instruction: Press ↑,↑ to Double Jump.
+
+Instruction: Medusa's Gaze temporarily freezes enemies but drains your Magic. Press the Left Soft Key until the Medusa Head Icon appears in the Blade Icon, then press and hold OK to activate it. Press the Left Soft Key now.
+
+Instruction: Blue Orbs replenish the Magic Meter.
+
+Spartan Soldier: Lord Kratos! The enemy has taken shelter in the Village Temple! Cross over to the roof, then swim through the Pool of Worship to enter the Temple.
+
+Kratos: They will learn what it means to defy the God of War.
+
+Instruction: To open the glowing door, sacrifice the number of enemies souls indicated at the bottom of the screen.
+
+Instruction: Army of Hades releases the souls of the undead to kill your enemies from a distance, but drains your Magic. Press the Left Soft Key until the Skull Icon appears in the Blade Icon. Press OK to activate it. Press the Left Soft Key now.
+
+Instruction: Run into the statue to grab it automatically. Then press ← or → to kick or pull it.
+
+Narrator: The enemies in the temple were crushed, as Kratos continued his battle.
+
+Dead Rider
+[Kratos continues his conquest of the city. He meets on his way a skeleton on horseback with a long spear.]
+
+Kratos: Dead rider, harvester of souls. My Spartan brothers will not join you in Hades today!
+
+[He kills the rider and continues through the city. He kills the soldiers and tears down the walls, and finally meets Argos again. Kratos blinds him once again in and the monster flees. Having freed his soldiers, he leads them into an attack bringing death and destruction.]
+
+Narrator: All enemies fell under the crushing power of Kratos and his weapons and his warriors. The carnage Kratos forged concerned many on Olympus, but the King of the Gods, Zeus, turned a blind eye to the new God of War's exploits.
+
+Minotaur
+[Kratos enters the palace.]
+
+Spartan Soldier: Kratos, we can't open this gate. There must be a switch up the ladder!
+
+[Kratos goes in search of a lever to let his army inside. He climbs to the very top of the palace...]
+
+Spartan Soldier: There must be a reason for this small opening in the wall...
+
+[Unable to go any further, Kratos descends lower.]
+
+Spartan Soldier: Run! Save yourself! 
+
+Spartan Soldier: Someone has released the Minotaur! We must flee!
+
+[Kratos fearlessly confronts the muscular monster with an axe in his hands. Defeating him, he tears off the horny head of the beast. When he finally reaches the lever, he lets his army into the palace. Having defeated an entire army of monsters led by Argos (who escapes again) Kratos and his army move on.]
+
+Garden
+[Kratos explores the ruined gardens outside the palace killing monsters.]
+
+Spartan Soldier: Lord Kratos! 
+
+Spartan Soldier: Defend us! We cannot win! Help us! Kratos!
+
+The Beast
+[Finally Kratos catches up with Argos again. His soldiers have trapped the beast.]
+
+Narrator: The giant brought forth a path of destruction, terrorizing Spartan and enemy alike.
+
+Spartan Soldier: Knock the monster into the sewer ahead to trap it!
+
+[Kratos pushes the monster down with powerful blows.]
+
+Spartan Soldier: You have conquered the giant, Argos! Lord Kratos, the victor! All honor and glory to Lord Kratos!
+
+[Suddenly some hooded stranger finishes off Argos with a sword.]
+
+Kratos: This is not my victory.
+
+Spartan Soldier: But your mark is on his chest.
+
+Kratos: I tell you now. I did not kill this giant.
+
+Ruins
+Narrator: Kratos defeated the giant Argos but the Gods grew concerned, for Argos was the creation of Hera, wife of Zeus in Queen of Olympus. Kratos knew that there was more to this death that could be seen.
+
+[Kratos catches up with the stranger in the hood.]
+
+Kratos: Murderer of Argos! What master do you serve that would try to turn the Gods against me?
+
+[The stranger runs away without a word.]
+
+Narrator: As Kratos pursued the assassin, Cerberus, hound of the underworld, sprung from the depths to do battle.
+
+Kratos: Hades! You unleash the Cerberus to stop me after the countless souls I have sent to you?!
+
+[Kratos furiously kills the three-headed dog and runs after the stranger.]
+
+Kratos: Your undead soldiers will not stop me, Hades! Is it you who tries to turn Olympus against me?
+
+[He passes through the trap-filled ruins.]
+
+Catacombs
+Narrator: As Kratos fought the three-headed beast, his soldiers cried out.
+
+Spartan Soldier: Help us!
+
+Spartan Soldier: Lord Kratos, come to our aid!
+
+[The stranger kills Kratos' soldiers. In a fit of rage, Kratos begins to follow him with doubled fervor.]
+
+Kratos: You will pay for the death of my warriors!
+
+Labyrinth
+Narrator: Seeking only vengeance for the death of his men, Kratos continued his pursuit of the mysterious soldier. But it became clear that the soldier did not act alone.
+
+[Kratos climbs to the roof of the labyrinth.]
+
+Kratos: Who taunts me?
+
+The Tower
+[Kratos climbs a huge tower in the middle of the city, bypassing many dangers.]
+
+The Messenger
+Narrator: The God of War continued his bloody pursuit after the assassin, whose unknown master plotted to turn Olympus against Kratos, but Zeus could no longer tolerate the devastation. The King of the Gods commanded Ceryx to put an end to the violence.
+
+[Kratos climbs to the top of the half-destroyed temple, bringing death to anyone who gets in his way. Blinded by the lust for revenge, he will stop at nothing. At the top of the temple he meets a stranger, but he quickly escapes. Ceryx, not paying attention to the stranger, turns to Kratos.]
+
+Ceryx: Kratos, I bring word from Zeus himself. Heed my message, Ghost of Sparta! Your future on Olympus depends upon it.
+
+Kratos: Ceryx, Messenger of Olympus. What word do you bring?
+
+Ceryx: You must stop this bloody pursuit, Kratos.
+
+Kratos: Son of Hermes, move from my path.
+
+[He furiously attacks the Olympian and, despite his divine power, kills him. At the end, Kratos grabs Ceryx with his blades, knocks him to the ground, and stabs him through with a leaping blow.]
+
+Narrator: The son of Hermes lay slain. Kratos, the Ghost of Sparta, Slayer of Gods, defied Olympus. Soon, the Fury of Zeus would rain down upon him.
+
+THE END
+

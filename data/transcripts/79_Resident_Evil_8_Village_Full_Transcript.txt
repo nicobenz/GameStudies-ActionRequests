@@ -1,0 +1,3169 @@
+
+
+
+
+
+
+Original Title
+バイオハザード ヴィレッジ / Baiohazādo Virejji / BIOHAZARD VILLAGE
+
+
+Platforms
+PlayStation 4, PlayStation 5, Xbox One, Xbox Series X, PC
+
+
+Release Date
+May 7, 2021
+
+
+Genre
+FPS
+
+
+Developer
+Consumer Games Development Division 1
+
+
+Publisher
+Capcom
+
+
+Writer(s)
+Antony Johnston
+
+
+Walkthrough
+SHN Survival Horror Network
+
+
+Localization
+James B. Michael IV (English Lead), Jennifer O'Donnell, Josiah T. Wilson, Elliott Mark Smith
+
+
+Series
+Resident Evil (series)
+
+
+
+🥆Chapters: (open/close)
+CHAPTER 1: Almost Normal Life
+Uninvited Guests
+CHAPTER 2: Cold Village
+Survivors
+CHAPTER 3: Road to the Famous Castle
+Deadly Marathon
+CHAPTER 4: Castle Dimitrescu
+Old Cellar
+What the Blood Hides
+Cat and Mouse
+Screw This Castle!
+CHAPTER 5: What The Hell Is Going On Here?
+Altar
+Searching the Village
+Questioning the Duke
+CHAPTER 6: Playing with Dolls
+A Tomb Among Graves
+House Beneviento
+Back to the Village
+CHAPTER 7: Mommy Issues
+Mines
+Reservoir
+Get The Power
+Out of the Pool
+CHAPTER 8: Fun Factory
+Where’s He Hidin’?
+Scrapyard
+Don’t Come Back!
+CHAPTER 9: Another Hero
+Mission Begins
+Into the Heart of Darkness
+CHAPTER 10: Nothing But Mold
+
+==> Shadows of Rose DLC <==
+
+[The game begins. We hear Ethan's voice-over in the background of footage from the previous game.]
+
+Ethan: (sighs) Okay… where to start. My name… it's Ethan. Ethan Winters. It's been 3 years since everything happened at the Baker house. I was looking for my wife who disappeared. I got an email from her. She told me to come get her… and of course it's how I get in the middle of nowhere. Louisiana… I find Mia being held captive in a dark basement. She wasn't thinking right… she attacked me like some kind of wild animal. Later on I find out that she was infected by a special kind of mold. I looked all over the house trying to find an antidote. A vaccine, anything. The people who live there were already infected. What was left of them wasn't human. There’s so something infection was a bio weapon that look like a little girl. Her name was Evelyn. I fought the fucked up family and being able to treat Mia's symptoms with the serum… when Chris Redfield and his soldier buddies showed up and saved both of us. (the screen goes black) Is that enough? I really don't want to talk about what happened anymore.
+
+CHAPTER 1: Almost Normal Life
+[Next scene. A scary fairy tale is read to us. In the background is a visualization in the style of Tim Burton's animated films. The book is called Village of Shadows.]
+
+Woman: Long ago, a young girl went with her mother to pick berries for her father who was hard at work. But the forest greeted them with a dark, cold silence, the bushes empty. Yet, determined to find the berries, the rascal broke free from Mother's grasp and vanished into the trees. Mother's worried cries faded fast as the girl ran on; over vine, and under branch and into the forest deep. Feeling strange eyes upon her, the girl recalled Mother's scary bedtime tales and her throat became bone dry. Then the Bat Lord appeared! He greeted, her warmly and bit his own wing. “Come, child. Quench your thirst,” he said. So she drank the thick, dark blood and smiled with joy. Passing through a graveyard, menacing storm clouds loomed and the air turned bitingly cold. Passing through a graveyard, menacing storm clouds loomed and the air turned bitingly cold. The girl was shivering in her thin clothes. Then a Dark Weaver appeared, and with a click of his fingers, crafted mist into a beautiful dress. “Come, child, warm yourself,” he coaxed. So she clothed herself and smiled with joy. Across waters deep and ominous she went, hoping a boat she found would carry her home. But hunger's grip tightened and her heart grew heavy. Then the Fish King appeared and offered one of his many fins. “Come, child. Eat your fill.” So the girl ate and smiled with joy once more. Continuing on, she soon entered the forest's dark heart. Then an Iron Steed appeared, bearing a beautiful, golden gear. The creature said nothing as the girl approached… …and snatched what she thought was another gift. The horse grew angry and summoned the other monsters. Terror filled the girl's heart as a wild wind rose about the beasts. Suddenly, a witch appeared-dark, yet regal.
+
+[The scene switches to the living room and we realize that it is Mia reading a story to her little daughter.]
+
+Mia: “Gifts we gave, but more you took,” she snarled. “So more, in turn, is due.” “In a blink, the girl was trapped inside a mirror.” There. She's asleep.
+
+Ethan: What is with the creepy story? She's only six months old.
+
+Mia: Woman at the store said it was traditional.
+
+[She hands him the book “Village of Shadows.”]
+
+Mia: A local tale. Besides, Rose doesn't seem to mind.
+
+Ethan: Because she doesn't understand it, thank god. We moved here so that she wouldn't have to deal with any of that, remember?
+
+Mia: (suddenly in cold voice) There’s nothing wrong with my memory. You're just being paranoid.
+
+Ethan: It's not—never mind I'm sorry. But I’m not paranoid, I'm just cautious.
+
+Mia: Then, go cautiously take your daughter to bed. I'll finish dinner.
+
+[She walks away leaving her little baby with Ethan.]
+
+Ethan: It's OK, Rose. Your mother doesn't want to remember. I can't blame her.
+
+Mia: Did you say something?
+
+Ethan: Nothing—I'll put her down.
+
+[He walks around the house with his daughter in hands. He reads a note on the fridge.]
+
+Rose's food (February)
+6th:
+- Rice cereal, banana purée
+7th:
+- Sweet potato purée
+- Boiled spinach and cream
+Ethan - Don't give her any sugar or honey.
+And NO mushrooms!
+
+[Next he examines Rose's photo.]
+
+“Feb. 2, 2021
+Rose's half birthday!”
+
+Ethan: Her birthday will be here before we know it.
+
+Mia: They grow up fast. Let's just enjoy it while we can.
+
+[He comes to the stairs to the second floor. Rose is a little nervous.]
+
+Ethan: There, there. It's like I said to your mom—that book's too scary for you.
+
+[He approaches a vintage music box.]
+
+Ethan: Your mom and I love this song so much.
+
+[He turns the key and a soft melodic tune starts playing. He continues to the baby’s room.]
+
+Ethan: Almost there, honey.
+
+[Entering the baby’s room, he puts his daughter in her crib.]
+
+Ethan: There you go, sweetheart. Don't you worry, I'll be right downstairs. Daddy won't let those weird fairy tale monsters get you.
+
+[After putting his daughter to bed, Ethan walks quietly through the house. He finds a photo album.]
+
+Ethan: I wish it could stay like this forever.
+
+[He looks at a book in his library - Gun Survivalist: A Heavy Firearms Manual for Field Combat Situations by Joseph Kendo.]
+
+Ethan: It's not paranoia if they're really out to get you.
+
+[He finds an examination results in his desk.]
+
+Name: Rosemary Winters
+DOB: 02/08/2020
+Height: 62.3cm (24.53in)
+Weight: 6.57kg (14481bs)
+Screenings (Hearing, Vision, Touch, Reflex Test):
+All results show no issues. Patient is in good health.
+Other Notes:
+Results for additional fungal pathogen tests will be provided by BSAA
+—Applefeld Memorial Hospital
+
+Ethan: (sighs with relief) Rose is fine.
+
+[He reads his notes in his notebook.]
+
+February 6th, 2021
+Mia and I had another fight. I accidentally mentioned what happened three years ago and she blew up at me. We finally settled down in our new life in Europe and can bring Rose up properly. But… I still feel like a part of me is trapped in that hell hole back in Louisiana.
+I know Mia doesn't like to talk about it, but can we really just forget everything and pretend it didn't happen? Shouldn't we face what happened there so we can live our lives With Rose without it hanging over our heads? We owe her that match at least… I know Mia knows this too. She wouldn't have exploded like that at the hospital if she didn't care.
+
+[He notices a bobblehead on one if the shelves.]
+
+Ethan: Why do I even keep this around? I should get rid of it someday.
+
+[He walks in some dusty room.]
+
+Ethan: (coughs) Gotta do a deep clean before Rose starts walking around.
+
+[He reads an old newspaper.]
+
+Curtain Closes on The Dulvey Gas Incident
+The committee completed their investigation on the 18th into the Dulvey toxic gas leak in Louisiana in 2017. They concluded the deaths were caused by a leak of natural gas that had built up in the mudrock under the area.
+Jack Baker (57) and his family. Who were exposed to the gas, perished. Ethan Winters and his wife were also believed to be have been nearby but their current whereabouts are unknown. The entire area has been closed off by officials who believe it will be at least 10 years before the area is habitable again.
+
+Ethan: Everyone's forgotten about this already….
+
+[Ethan goes into the bathroom and finds a bottle of medicine.]
+
+On screen: Mia's medication. She's been on a strict regimen ever since the incident.
+
+[He finds Rose’s photo.]
+
+Ethan: She's going to grow up beautiful.
+
+[He looks at his daughter via baby monitor.]
+
+Ethan: She's asleep.
+
+[He turns on the TV and watches some of Rose's cartoons.]
+
+Ethan: She's started to outgrow them.
+
+[He finds a photo of pregnant Mia.]
+
+Ethan: Oh, Mia…what a miracle.
+
+[He finds a photo of him, Mia and Rose on a beach.]
+
+Ethan: Three years ago, I couldn't even imagine, something like this would happen.
+
+[He finds some CDs in a drawer.]
+
+On screen: Jazz albums you were never able to get when you were young.
+
+Uninvited Guests
+[Finally he goes to Mia. She’s cooking in the kitchen.]
+
+Mia: Is she OK?
+
+Ethan: Sleeping like a…well, like a baby. Mm, that smells good. What's that?
+
+Mia: (hits his hand with a ladle) Hands off, mister. It's ciorba de legume. It's a local recipe.
+
+Ethan: Wow. You've gone full native, haven't you?
+
+Mia: Local wine, too. But if you're going to keep sulking all evening, maybe you shouldn't have any. You really have to stop worrying.
+
+[She pours him a glass of wine.]
+
+Ethan: It's just… Finding you in Louisiana, the pregnancy.Chris moving us here, military training—It all happened so fast, you know?
+
+Mia: Well, at least we're all together. You, me, Rose. Now everything’s going to be—
+
+Ethan: Seriously? You think we can just forget what happened in Louisiana?
+
+Mia: It happened so long ago. I just I don't understand why you are so—
+
+[Someone SHOT Mia in the shoulder.]
+
+Mia: Wha—!?
+
+Ethan: (shocked) Mia, get down!
+
+[The light in the house goes out. Mia being shot several times. She falls on the table.]
+
+Ethan: ΜΙΑ!
+
+[She gets a couple more bullets in her body. Ethan hides under the table shaking with grief and fear. The house continues to be shelled.]
+
+Ethan: Mia. Oh, god…
+
+[A man with a gun enters the house. He pushes the table aside and approaches Ethan.]
+
+Ethan: Chris…!? What the hell!?
+
+Chris: Sorry, Ethan.
+
+[He puts some more bullets in the lifeless body of Mia.]
+
+Ethan: No! What!? Why!?
+
+[Chris’ soldiers surround him. They take him out of the house.]
+
+Soldier: Go on, move!
+
+[Another soldier carries the weeping Rose.]
+
+Soldier 2: All clear.
+
+Ethan: (screaming) Rose? What the hell are you doing with my daughter?
+
+Soldier 2: Package secured, sir.
+
+Chris: Take him away.
+
+Ethan: (threatens Chris) I said get your hands off her!
+
+Chris: Ethan, no!
+
+[Soldier behind Ethan hits him with the butt of his rifle. Ethan slowly loses consciousness.]
+
+Ethan: Rose…
+
+Chris: Get him out of here.
+
+[Two soldiers drag Ethan by the legs out of the house. He, being unconscious, goes back in time. He’s talking on the phone.]
+
+Ethan: Hey, Doc.
+
+Doctor: Hello, Mr. Winters. I've got your daughter’s results back, and I'd like you to come in to talk about them. How about next Thursday, four o'clock?
+
+Ethan: No problem, we'll be there. (to Mia) That was the Doc. She'll see us next week. Hey, now. Think positively, all right? We talked about this.
+
+Mia: I know. We hardly talk about anything else. I keep telling you, it's not Rose that I'm worried about.
+
+Ethan: Well then, what are you worried about? Look, she's going to be fine, I just know it! What else matters?
+
+Mia: (loudly) We matter, Ethan! YOU matter! You just won’t—
+
+Ethan: (serious tone) Mia, what are you talking about? Is there something you're not telling me? Come on, talk to me!
+
+[His phone’s ringing. It’s a call from work.]
+
+Ethan: Dammit, I have to take this.
+
+[Mia punches the doorway and leaves. Meanwhile Ethan wakes up from a phone call… in the snow.]
+
+CHAPTER 2: Cold Village
+Ethan: Ugh… Jesus…
+
+[He picks up the phone that lies near the body of a soldier.]
+
+Man: About damn time! What's your status? Is the package safe?
+
+Ethan: What are you talking about? Where's Chris Redfield, and Rose?
+
+Man: Who is this? This is a secure channel, you are not authorized to use this.
+
+[The phone, already badly damaged, turns off.]
+
+Ethan: Fuck! What the hell happened here?
+
+[He picks up a flashlight and reads a document near the body of the soldier.]
+
+Mission Objectives:
+- Eliminate target, recover body.
+- Secure Rosemary Winters and Ethan Winters.
+Move the two Winterses to site C for further investigation.
+At least two transport officers to accompany them.
+
+[He starts walking in the deep snow at night, barely alive. He passes a small old fence wrapped with barbed wire. There is a sign next to the fence that reads “Do Not Enter.” There are a lot of dead crows in the snow. Some of them are even tied up with ropes, which tells us that the birds died unnaturally. Soon Ethan finds a small old house with a trail of blood leading to it. Ethan hears some noise and decides to go down into the basement of the creepy house to check for the owners. The owners are not there, but there is a great rumbling noise from above, as if an elephant were running around on the first floor. Ethan runs and finds that the upstairs is an even bigger mess than before and that there is a huge hole in the wall.]
+
+Ethan: What did all this?
+
+[He exits through a hole and walks down a narrow passage until he emerges into an open area with a giant castle in the distance, covered in fog.]
+
+Ethan: Where the hell am I?
+
+[He walks down the slope into a small farmhouse. Next to the house lies the corpse of a burned horse. Ethan walks into the house. Food, furniture and other possessions - everything is scattered around. There are blood spatters on the walls.]
+
+Ethan: Maybe—maybe they're out?
+
+[Ethan continues to follow the trail of blood. He finds suspended severed goat heads.]
+
+Ethan: What happened?
+
+[He finds one of the farmsteads chained up. There’s a note near on the gates.]
+
+“Locked due to missing home owner.”
+
+[He goes to a nearby house and finds a knife. Ethan notices an empty tin popping out of the curtain that divides the room. He pushes it away sharply, and an old man shoots at him, but misses.]
+
+Ethan: Aah! No no! Friendly, friendly!
+
+Old Man: Who are you? Who sent you?
+
+Ethan: Nobody! There was an accident, down on the road, and—
+
+[There is some howling coming from outside. The old man gestures to Ethan to shut up.]
+
+Ethan: What's going on?
+
+Old Man: Oh, no. They're coming!
+
+Ethan: Who is? What the hell was that?
+
+Old Man: Do you have a gun?
+
+Ethan: What?
+
+Old Man: Please tell me you have a gun!
+
+Ethan: No. Why would I?
+
+[The old man goes into his closet and gives Ethan a gun.]
+
+Old Man: It's all I can spare. Take it! Take it!
+
+[The old man shoots out the window and frantically reloads his double barrel.]
+
+Ethan: Tell me what's out there! Hey, are you listening? Hey!
+
+[Something drags the old man to the top floor through the ceiling. Blood starts dripping from the hole.]
+
+Ethan: What the—!?
+
+[A strong arm grabs Ethan’s leg from the basement through the floor.]
+
+Ethan: Ah! Shit!
+
+[However… the beast decided to run away. Ethan turns on his flashlight and realizes that there is a pile of dead bodies in front of him.]
+
+Ethan: A dead body? Wait…there's more… Jesus Christ… What the hell is wrong with this place?
+
+[And then… the beast decided to come back. It turns out to be a humanoid creature with pale skin and ashy hair. It's extremely fast and agile. The creature attacks Ethan and sinks its teeth into his arm.]
+
+Ethan: Get off! Shit!
+
+[The beast bites off two of Ethan's fingers. The flimsy wall behind Ethan's back breaks and he falls out into the snow.]
+
+Ethan: What the fuck was that!? No! St-Stay back!
+
+[He shot the monster. It takes at least 10 bullets to bring the beast down.]
+
+Ethan: What the hell?
+
+[He goes back to the house to find a bolt cutter, some chem fluid, and herbs. He uses the bolt cutter to cut the chain and get to the next part of the village. Going into a neighbor's house, he hears a noise and barricades himself in the house. The creatures begin to attack him.]
+
+Ethan: Surrounded. Dammit!
+
+[He fights for his life a bit.]
+
+Ethan: Is it…over?
+
+[The radio on the table starts working…]
+
+Woman: (via radio) Hello? If there are any survivors out there, come to my—to Luiza's house near the fields.
+
+Ethan: Survivors?
+
+[He continues to follow the trail of blood. There are plenty of creatures around. He barricades himself again to survive and finds the ol’ trusty M1897 shotgun with some ammo.]
+
+Ethan: OK. Dammit.
+
+[He fought off another attack.]
+
+Ethan: There's no end to them!
+
+[Even more creatures appear with some heavy hitter.]
+
+Ethan: You're kidding me!
+
+[Ethan climbs onto the roof, trying to fend off attacks. His chances of survival are slim to none - in addition to the creatures climbing on the roof, he is also being shot at with arrows. After a few minutes of intense fighting, Ethan… loses. The creatures become very numerous. There are even creatures arriving on horses with spears, to which the murdered inhabitants are stumbling. Heavy hitter with a hammer jumps to Ethan and growls to his face. But suddenly… the creature hears something and runs away. Ethan takes a moment to give himself first aid and notices an old woman with a staff in the distance.]
+
+Ethan: Wait, w-wait…
+
+[The old woman walks out the gate. Ethan searches the neighborhood for a depleted supply of ammunition and medicaments, then follows the old woman.]
+
+Old Woman: In life and in death, we give glory…
+
+Ethan: Uh, hello? You shouldn't be out here. It's not safe. What the hell? Hey, can you hear me?
+
+Old Woman: It's you? The child's father.
+
+Ethan: Child? Hey, wait-do you mean Rose? Is she here?
+
+Old Woman: (cheerfully) Rose, Rose, yes! She is in great danger. Since Mother Miranda brought her to the village, we have fallen into darkness!
+
+Ethan: What are you talking about? The monsters?
+
+[The sound of the bell is heard.]
+
+Old Woman: The castle bell heralds danger! They're coming! (laughs madly)
+
+Ethan: No, wait! Where's Rose? Who's “Mother Miranda"?
+
+Old Woman: The bell tolls for us all! They're coming again! (laughs madly)
+
+[She closes the gates behind her.]
+
+Ethan: Rose is here?
+
+[Ethan moves on. He enters a large house, with a beautifully carved porch and icons at the entrance. Inside, he sees some kind of magical symbol on the floor, stacked with candles. Ethan has seen this symbol before, but he didn't pay much attention to it. On the table next to it, he finds a piece of paper with text on it.]
+
+O great lycans,
+The fabled monster wolves of old,
+May they come to eat our flesh,
+May they come to tear us apart.
+
+[Ethan begins to explore the vast village square. In the center is the Statue and a small cemetery. He finds an altar with a statue of a goat. There is an inscription underneath the altar.]
+
+We offer these Goats of Warding to protect the village and its people. Any who break them shall feel Mother Miranda's wrath.
+
+[Ethan finds a large stone door with a carved image of a demon and a female warrior with a goat on her shield. The faces of both characters are missing and there are indentations in their place.]
+
+Ethan: Guess this leads to the castle.
+
+[He finds a map with a handwriting in one of the houses.]
+
+“Should disaster fall upon the village, seek out the crests. One is in the care of the church. The other is at Luiza's house.”
+
+[Also he finds the first crest for the stone door - Maiden Crest.]
+
+Survivors
+[Ethan walks out to a field of tall, dried-up wheat. He is attacked by several creatures with machetes in their hands. Ethan quilts into a bag of flour, temporarily blinding his enemies and killing them with his knife. Soon he finds a barn and enters it.]
+
+Frightened Woman: Close the door! Please!
+
+Ethan: Hey, what are you doing here?
+
+[The woman backs away from Ethan. He notices an old man sitting on the floor with a machete.]
+
+Old Man: Stay back!
+
+Frightened Woman: Please, don't hurt us!
+
+Ethan: Whoa. It's OK. I'm not gonna hurt you. I'm just glad to see normal people at last. Have you seen any other survivors?
+
+Frightened Woman: No, they're all in Luiza's house. And she's not answering, and the gate is locked.
+
+Old Man: Quiet, girl! He's an outsider!
+
+[There were scary noises coming from afar.]
+
+Ethan: Shit, we're sitting ducks in here. Can your old man walk?
+
+Frightened Woman: No, one of the monsters cut him! He's lost a lot of blood—we have to get into Luiza's house!
+
+Ethan: Shh… quiet! There must be a way inside. Stay here, be quiet, and don't move until I get those gates open.
+
+[The old man coughs heavily - he is obviously very sick. Ethan decides not to delay and quickly finds a way to open the gate.]
+
+Ethan: C'mon—it's clear!
+
+[Frightened woman helps the old man get out of the house.]
+
+Frightened Woman: Hurry, hurry!
+
+Old Man: (to Ethan) Took your damn time.
+
+Ethan: You're welcome.
+
+[He closes the gate once the survivors are inside.]
+
+Frightened Woman: He's not used to relying on other people. I'm sorry. We'll be safe in here, won't we?
+
+Ethan: Safer here than out there, that's for sure. Hey, do you know anything about what's going on around here?
+
+Frightened Woman: It doesn't make any sense. Mother Miranda has always protected us—
+
+[Meanwhile, the old man knocks on the door of the house.]
+
+Old Man: Nobody's answering! Come help me—
+
+[He falls on the porch.]
+
+Frightened Woman: Father!? (to Ethan) We have to get inside! Just hold on a bit longer, Papa.
+
+[Ethan knocks on the front door.]
+
+Ethan: Hello? Anybody home?
+
+Frightened Woman: Maybe a familiar voice… Luiza, open up! It's me, Elena!
+
+[The door slowly opens and the muzzle of a double-barrelled gun appears.]
+
+Man: Stop shouting. You'll draw the monsters!
+
+Elena: Julian, calm down.
+
+Julian: (aiming at Ethan) Who's this?
+
+Elena: A friend—
+
+Julian: Stay back!
+
+Elena: Father! For god's sake, Julian, let us in.
+
+Julian: No, no, they'll smell the blood—You'll endanger us all!
+
+Elena: My father will die out here!
+
+Julian: That's not my problem!
+
+Luiza: What's going on?
+
+Julian: These people want to let a dying man into our home.
+
+Luiza: Come now. “These people” are our friends. Go on, go inside. Come now, this way.
+
+[Elena and her father walk in the house.]
+
+Luiza: (to Ethan) You're not from this village…
+
+Ethan: Uh, no. I’m Ethan.
+
+Luiza: Julian, go make yourself useful and check the grounds. I said go!
+
+[Julian reluctantly leaves.]
+
+Luiza: Well, if Elena trusts you… then so do I. Come inside, Ethan.
+
+[Ethan walks into the hallway.]
+
+Luiza: Wait here, I'll check on the others.
+
+Luiza,
+They broke in again, got more of the livestock. I don't think we'll make it through winter at this rate. Ernest is still missing, too. We can't find him anywhere. Has Mother Miranda abandoned us?
+
+[Luiza returns.]
+
+Luiza: This way. Come inside, the others are waiting.
+
+[Ethan walks through the corridors of Luiza's house, which looks a bit like the Baker house. Behind a carpeted doorway she finds a room full of people.]
+
+Drunk Guy: (sees Ethan) What the fuck is this? Outsiders—you're going to get us all killed!
+
+Luiza: Quiet, Anton. He helped Leonardo and Elena.
+
+Leonardo (Old Man): We were doing fine by ourselves!
+
+Luiza: Please, Ethan, take a seat.
+
+Ethan: Is this all that's left? From your entire village?
+
+Anton: All that's left? All that's left!? There is no one left! (walks across the room) A worthless invalid! A stupid, wailing bitch…! And you! You drag a bloody man and an outsider in here like it's nothing… …and expect to be all safe? There is no safe! Every sorry bastard out there has been ripped in half! But tomorrow… Tomorrow we'll all be dead. Just like her damn husband! (the woman starts crying) Put a sock in it, Roxana!
+
+Luiza: That's enough! This house has protected my family for generations. And drunk or not, you are all welcome—and safe—in here.
+
+Anton: Whatever.
+
+Ethan: Can someone please tell me what the hell is going on here?
+
+Luiza: We don't know. One day we were a quiet, devout village—and the next the monsters came and attacked us. And they—they kept coming, and—
+
+Elena: Wait, Luiza, where is your husband. Did they…?
+
+Luiza: No, n-no. He is out there—somewhere… H-He went to get help. Yes, yes, that's—that's it. He went to fetch help.
+
+Roxana: Let us pray. For him. For all of us.
+
+Luiza: Good idea. Come. Gather.
+
+[They gather in a circle.]
+
+Everyone: Great ones, hear our voice, together as one in reverence. We call on thee within the endless dark to deliver us into fate's hands. As the midnight moon rises on black wings, so we make our sacrifice and await the light at the end. In life and in death, we give glory, Mother Miranda.
+
+Luiza: Now, the tea should be ready. Come help me, Elena, please.
+
+Ethan: That prayer—I've heard it before. There was an old woman near the graveyard.
+
+Leonardo: You mean the hag? (quietly laughs) Dumb bitch is crazy as a bag of rats.
+
+Luiza: There is wisdom in her devotion, though… And I hope it protected her as it shall protect us.
+
+[Leonardo laughs, then screams in pain and falls on the table, dropping an oil lamp, which sets fire to the carpet on the floor.]
+
+Anton: What the fuck are you doing!?
+
+Luiza: Leonardo, what's wrong? Are you OK?
+
+[Leonardo was transformed into something else. He kills Luiza with his machete.]
+
+Elena: Father!
+
+Ethan: Elena, no! Stay back!
+
+[He takes her out of the room.]
+
+Elena: No—let me go!
+
+Ethan: Oh god, no. He'll kill us both! We have to go!
+
+[Leonardo kills Roxana and runs after the heroes. Ethan is forced to fight for his life.]
+
+Ethan: Elena?
+
+Elena: I said no!
+
+[She shoots her father with a double barrel shotgun.]
+
+Elena: Oh my god. I'm so sorry, Father…
+
+Ethan: Hey, hey. That wasn't your father anymore. You did the right thing. (holds her) Elena. Elena, no. There's nothing you can do!
+
+[Leonardo is pelted with the rubble of a burning house.]
+
+Elena: Father!
+
+Ethan: This entire place is collapsing!
+
+[They go to the garage.]
+
+Elena: Father! Father!
+
+Ethan: You couldn't save him. He was already gone.
+
+Elena: Leave me alone.
+
+Ethan: No. We're getting out of here—together. I gotta get outta here…
+
+[He looks around and finds a note and a screwdriver in the kitchen.]
+
+“Take the screwdriver out of the keyring if you need it.”
+
+[Ethan finds the keys to a rusty truck, gets in and starts it up.]
+
+Ethan: Damn, the fire's moving fast! (coughs)
+
+Elena: What are you thinking?
+
+Ethan: Step back. We can bust out with this.
+
+[He breaks through the wall with a few blows from the truck.]
+
+Elena: Ethan! Ethan! Are you alright!?
+
+Ethan: I-I'm fine. Let me back up again.
+
+Elena: The fire—there isn't any time!
+
+Ethan: Nowhere to go but up. Grab on. Hurry! Let's move!
+
+[They are climbing a staircase wreckage to the second floor.]
+
+Ethan: Don't worry, and try not to breath in the smoke.
+
+Elena: I know. Thank you, Ethan. You're kind. I hope your family is safe.
+
+Ethan: I do too. Once you get out of here maybe you'll get to meet them. Come on, it'll hold.
+
+[They get out to the attic. Ethan sees a window.]
+
+Ethan: There! That's our way out.
+
+Elena: Thank god! But what then? The village is still full of monsters. We can't fight them! There's too many!
+
+Ethan: Hey! Hey. Don't talk like that. We'll find a safe house to put you in until I can find my daughter. My hunch is she's in that old castle.
+
+Elena: No! That place is full of nothing but blood and death! And I don't want to be alone while you're—
+
+[Unexpectedly, Leonardo shows up. He comes up from the second floor. He is quite badly burned.]
+
+Elena: Father?
+
+Ethan: Elena, no! That's not him—not anymore!
+
+Leonardo: Elena…
+
+Elena: He said my name! Father!
+
+Ethan: Wait, it's not safe!
+
+[She runs toward it and part of the floor fails underneath her. Elena is left alone with her “father.”]
+
+Ethan: Stay there! C'mon, give me your hand!
+
+Elena: Ethan, go… Save your daughter!
+
+Ethan: Elena, don't give up! Reach for me!
+
+[Leonardo falls into the fiery abyss… Elena falls after him.]
+
+Ethan: God dammit! Why is everyone dying on me!? This is… this is just too much. I just… don't get it. This place has gone mad. (punches the window) Why the fuck is this happening again!? Shit!
+
+[He jumps out the window of the burning house, goes to the closed altar, unscrews the screws with his newly found screwdriver, and gets the second crest for the door to the castle - Demon Crest. He opens the locked gate and sees someone killing a man on the field.]
+
+Ethan: Who's there!?
+
+Man: Stop! Mother Miranda!
+
+[A woman with a circle thing behind her head easily kills the man.]
+
+Ethan: Hey! Who was—what was that?
+
+[The woman laughs and leaves. After walking a little further, he meets the old woman with the staff again.]
+
+Old Woman: Death. Yes. Death has visited them all! (madly laughs)
+
+[Ethan goes to the closed door leading to the castle, inserts the crests and opens the door. As soon as it opens, he pulls out his gun.]
+
+Ethan: (looking at the castle) “Nothing but blood and death,” huh?
+
+CHAPTER 3: Road to the Famous Castle
+[Ethan walks slowly toward the castle. Walking through the lowered gate, he plunges into the dark cavern, lit only by the light of small torches on the walls. Ethan enters the wine cellar of the castle. As he is about to lower the handle opening the locked door, a man wearing a hat and sunglasses approaches him. The man is holding a hammer, which looks suspiciously familiar to Ethan…]
+
+Man with Hammer: Well, well. Didn't think anyone was left! You must be pretty tough, huh?
+
+[The man's footsteps are sending all sorts of debris lying on the floor into the air - stones, pieces of metal…]
+
+Ethan: Who the fuck are you?
+
+Man with Hammer: Oh, you're not local! Even better.
+
+[He throws pieces of metal in the air at Ethan. One of them stabs him in the shoulder.]
+
+Man with Hammer: Mother Miranda's gonna love you!
+
+[The man laughs. To his laughter, Ethan is clad in metal and stones. In the next scene, a man is dragging a handcuffed Ethan through a tunnel.]
+
+Man with Hammer: Quit your whining: we're almost there!
+
+[The screen goes black. Soon Ethan hears the voice of some woman, but his eyes are closed.]
+
+Woman with a Large Hat: The man is of no real use to anyone else. And my daughters do so love… entertaining foreigners.
+
+[Ethan opens his eyes… and sees some creepy doll and a strange deformed freak right next to him.]
+
+Woman with a Large Hat: Furthermore, I can assure you if you entrust the mortal to House Dimitrescu, my daughters and I shall deliver to you the finest cups of his slaughtered blood.
+
+Doll: Out of the way, ugly! I want to see—oh! He’s awake!
+
+Deformed Freak: You mean—Y-You mean…?
+
+Man with Hammer: Both of you, shut the fuck up!
+
+Ethan: What…? Where…?
+
+Man with Hammer: (to the woman) Yo mean you'll screw around with him in private, and where's the fun in that?    Give him to me and I’ll put on a show that everybody can enjoy.
+
+Lady Dimitrescu: Oh, so gauche. What do we care for bread and circuses? The manthing's suffering is assured, regardless.
+
+Man with Hammer: Yack, yack. And if a man’s dick is cut off in the castle—blah, blah, blah!
+
+Woman with a Circle Thing: I've heard all your arguments. Some of you were less persuasive than others, but… I've made my decision. Heisenberg. The man's fate is in your hands.
+
+Lady Dimitrescu: (stands up) Mother Miranda, I must protest! Heisenberg is but a child, and his devotion to you is questionable. Give the mortal to me, and I will ensure he is ready.
+
+Heisenberg: (threatens with hammer) Shut your damn hole and don't be a sore loser! Go find your food somewhere else.
+
+Lady Dimitrescu: Quiet now, child! Adults are talking.
+
+Heisenberg: I'm the child? You're the one who's arguing with Miranda's decision!
+
+Lady Dimitrescu: You wouldn't know responsibility if it was welded to that hammer!
+
+Heisenberg: Oh, keep growing, one day your head might actually fit your ego!
+
+Doll: Fight, fight, fight, fight!
+
+Ethan: Hey, don't I get a say in this?
+
+Mother Miranda: (spreads her six wings) SILENCE! My decision is final, there will be no argument. Remember from whence you came!
+
+Heisenberg: (bows) Thank you.
+
+Deadly Marathon
+[Lady Dimitrescu resentfully leaves. Heisenberg spins on the spot and a crowd of creatures gathers around him.]
+
+Heisenberg: Lycans and gentlemen, we thank you for waiting! And now let the games begin! (quietly to Ethan) Let's see what you're really made of, Ethan Winters. Get ready!
+
+[He swings his hammer.]
+
+Ethan: No, wait!
+
+[Heisenberg, however, only smashes the floor. Lycans gathering around Ethan, anticipating the meal.]
+
+Heisenberg: Ten! Nine! Eight! Seven! Six! Five! Four! Three! Two! One! Showtime!
+
+[Ethan quickly finds some kind of hole in the floor and jumps into it. He runs as fast as he can through the caves. The Lycans follow his every step.]
+
+Ethan: Agh! Jesus Christ!
+
+Heisenberg: That's right! Run for your life! Very nice, Ethan!
+
+[He decides to please Ethan with his personal presence as a Lycan.]
+
+Ethan: No, no!
+
+[Heisenberg hits him with his hammer. Ethan, dodging the next blow, falls into the abyss. After sliding a few dozen meters down the slope, Ethan finds himself trapped in a cave with a moving ceiling studded with sharp stakes.]
+
+Heisenberg: You're still alive? Impressive…
+
+[The ceiling starts moving.]
+
+Ethan: Oh shit. Shit!
+
+[He manages to get out of the room. Ethan keeps running away from the Lycans.]
+
+Heisenberg: Haha! My word, you truly are as strong as they say!
+
+[Two huge shafts with stakes appear in Ethan’s path.]
+
+Heisenberg: Oh, you didn't think I'd let you get away, did you? Gotta keep Donna and Moreau entertained! So, now it's time for the beautiful, blood-soaked grand finale! Hahaha! Nothing like fresh American ground beef!
+
+[Ethan finds a way to avoid the shafts and uses them to break the shackles. The shafts stop. Ethan crawls under them.]
+
+Ethan: Too close… Wait. Do those freaks have Rose?
+
+[He goes out into the basement, studded with traps - thank God they don't work. After walking through the corridors, Ethan enters the wine cellar where he met Heisenberg. He finally opens the door and moves on. After climbing the stairs, he walks out into the street. There are several abandoned vegetable gardens on the way to the castle. Ethan notices that instead of scarecrows there are rotting corpses hanging from it. At the entrance to the castle, Ethan sees a small house. Its doors swing open and an extremely obese man emerges, or rather rolling out.]
+
+Fat Man: I've been waiting for you, Mister Winters.
+
+Ethan: How do you know my name?
+
+Fat Man: Anyone who is anyone has heard of the likes of you. A hero searching for his daughter. Though I must say, that castle arouses suspicion.
+
+Ethan: Yeah, and so do you.
+
+Fat Man: (laughs) I am but a humble merchant.
+
+Ethan: Here?
+
+Fat Man: Forgive my manners, call me the Duke, Now to business. Weapons, ammunition, healing salves—Anything you desire, I can provide. Seeking something in particular? I've prepared a special present for you!
+
+[Ethan purchases some items and upgrades with the money he collects in the village.]
+
+Duke: Hard times, Ethan? (like the merchant from the 4th game) What're ya buyin’?—Haha, just something an old friend of mine used to say. Please come again.
+
+CHAPTER 4: Castle Dimitrescu
+[Ethan enters the castle, struggling to open the massive gate. The castle is very richly decorated. There are carpets, expensive furniture, frescoes, paintings, exquisite carvings…]
+
+Ethan: Could Rose be here…?
+
+[Ethan walks over to the large painting at the far end of the room, depicting three young girls.]
+
+“Three Daughters Bela, Cassandra, and Daniela”
+
+[He reads a diary lying nearby.]
+
+January 5th
+Rednic - Delivery of one male, three females.
+January 28th
+Mother Miranda - Meeting with Mistress Dimitrescu.
+February 1st
+The Duke - Business discussions.
+
+[Ethan starts exploring the castle. He finds a diary.]
+
+Norshteyn’s Labyrinths
+A craftsman of the late 19th Century, Norshteyn was branded a heretic in his homeland. He wandered the lands until he settled in a remote village.
+Norshteyn then created four labyrinths. The Castle, The House on a Hill, The Water Wheel, and The Iron Tower. Upon their completion, he put a gun to his temple and took his own life.
+Each labyrinth is unique and requires its own specially crafted metal ball to operate.
+Each one contains crystallized human remains, which are said to be Norshteyn's four beloved wives, The labyrinths are their graves.
+
+[There’s an inscription on the closed door in the main hall.]
+
+“Mask the angels' blinded gaze and only then will you be saved.”
+
+[As soon as Ethan reads the inscription he notices many flies around him.]
+
+Woman: Looking for Rose?
+
+[The flies form into three women with blood on their mouths. The women laughs madly.]
+
+Ethan: What the—?
+
+[One of the women throws Ethan on the floor and cuts him with her sickle.]
+
+Woman: Mmmm, man-blood.
+
+[They continue to laugh and drag Ethan around the castle. They bring him to Lady Dimitrescu's private chambers.]
+
+Woman: Mother. I bring you fresh prey.
+
+Lady Dimitrescu: You are so kind to me, daughters. (finishes her wine) Now, let's take a look at him. Well, well. Ethan Winters. You escaped my little brother's idiot games, did you? Let's see how special you are.
+
+[She raises her hands.]
+
+Daughters: Yes, Mother.
+
+[They cut his hand. Lady Dimitrescu eagerly licks the blood.]
+
+Lady Dimitrescu: Hm. Starting to go a little stale.
+
+Daughter 2: Then let us devour his man-flesh quickly, Mother!
+
+Daughter 1: But I am the one who captured him!
+
+Lady Dimitrescu: Now, now, daughters First, I must inform Mother Miranda. But later… Well, there will be enough for everyone. Put him up!
+
+Ethan: Hey, hey wait…
+
+[Poor Ethan got his hand hurt again… Daughters hang it from the ceiling.]
+
+Ethan: Hey. Let me… down!
+
+Lady Dimitrescu: Oh, careful what you wish for, Ethan Winters.
+
+[She and her daughters laugh and leave.]
+
+Ethan: W-Wait! Wh-Wh-What are you doing?
+
+[The door is closed behind them. Ethan finds the strength to pull his hands off the hooks.]
+
+Ethan: Bunch of crazy witches…
+
+[He heals himself a bit and looks around. He finds a secret passage in the fireplace and climbs into it. After finding some important items, he returns to the main hall with the door closed. Statues rise from the floor.]
+
+Ethan: Where have they taken Rose…?
+
+[In the room nearby he finds his fat merchant.]
+
+Duke: We meet again.
+
+Ethan: Duke? Why are you here?
+
+Duke: Where there's coin to be made… And have you found your daughter?
+
+Ethan: No.
+
+Duke: If she is truly here, the Lady of the castle would have kept little Rose in her private chambers, would she not?
+
+Ethan: Dimitrescu?
+
+Duke: The very same. Why don't you take a look? Maybe you'll get lucky. And speaking of looking… care to make a purchase? Seeking something in particular? I am skilled at all sorts of weapons modifications, and will do them for a small fee.
+
+[Ethan purchases some items and upgrades his arsenal.]
+
+Duke: Thank you for your patronage!
+
+[Ethan continues to investigate the hammocks. He enters a small room across from the main hall. There on the table he notices a tea set. Apparently the cups were used to drink blood or wine… Ethan climbs the stairs to the second floor and enters the wine room, where he finds a book.]
+
+The winemaking techniques of Castle Dimitrescu can be traced as far back as the 15th Century, long before the current occupants of the castle.
+Alcina Dimitrescu uses this legendary, yet peculiar, technique to enrich the wine's flavor intensity and bestow it with a thick bouquet.
+Her best vintage is Sanguis Virginis, meaning “maiden's blood.” It is kept in a special ornate bottle decorated with intricate silver flowers.
+
+[After leaving the wine room, Ethan explores the second floor. Many doors are closed. On one of the doors is a carved face of a mother with her two children. One of the mother's eyes is missing and the area is stained with blood. Ethan inserts the found eye into the socket and opens the door. He is attacked by flies that even get under Ethan's skin and out of his hands. He hears the voice of one of the daughters.]
+
+Daughter: I haven't cut open a man in a while! Let me string you up, slice your jugular, and just watch…. Taken alive? Dead? Which would you prefer?
+
+[Ethan escapes the flies and falls into some kind of basement through a hole in the floor.]
+
+Old Cellar
+[Ethan finds a scrap of paper.]
+
+June 9th, 1958
+It was my first day working at the castle today. I was most shocked to see the other staff were all women!
+The Mistress and her daughters were very adamant that they wouldn't bite.
+It was quite peculiar.
+June 23rd, 1958
+It's been two weeks since I started working at the castle and I am a little… afraid.
+Another maid, Adela, made a mistake and Miss Daniela slashed her face with a knife!
+And at night…I can hear wailing, as if ghosts roam the halls. I want to go home…
+July 8th, 1958
+I don't know what to do.
+The young ladies were complaining it was too hot and stuffy during dinner, so I opened the window just a crack.
+“SHUT IT! SHUT IT NOW!” they all shrieked at me in unison.
+I fear I may be taken down into the cellar, never to be seen of again. I don't know what to do. I don't know what to do.
+
+[Ethan makes his way down the corridor and crawls through the breach in the wall and sees Lady Dimitrescu picking out a bottle of wine. Soon she leaves and Ethan crawls out. He walks out to a round, narrow room with many battling soldiers carved on the walls. There are several braziers at the sides of the room, and a burning oil lamp hangs from the top. On the wall is a bloody inscription “Trust in light.” Ethan swings the lamp and lights the braziers. The soldiers part, opening a passageway. Inside, Ethan finds an old torture chamber. In the midst of rusty cells, instruments of torture, and dryed blood, Ethan finds a piece of paper.]
+
+- Candidates -
+Irina, Mihaela, Lois, Ingrid
+- Rejects -
+Dandora, Gretta, Nadine, Camelia, Bianca, Melina, Astrid, Lyudmila, Rosalinda, Lina, Stephana, Gabriella
+
+[Ethan walks on slowly pacing the creepy rooms with his gun at the ready. He finds a new note.]
+
+Irina - Robust appetite.
+Mihaela - Robust appetite.
+Lois - Robust appetite.
+Ingrid - Unstable. Overly alert at times.
+
+[Ethan encounters three zombie-like creatures armed with ancient weapons - a sword, an axe, and a sickle. Because these zombies are relatively slow, Ethan manages to combine shooting and hand-to-hand combat, which saves some ammo. At the next three opponents he throws the bomb he has not found yet. Among the remains of the zombies, Ethan finds Ingrid's Necklace. Soon he sees flies again.]
+
+Daughter: I can't believe Cassandra caused all this mess. A healthy man's blood… mmm, I can't wait.
+
+[Ethan runs through the rooms and reloads his shotgun…]
+
+Daughter: I need blood. Warm, wet, bright red blood. Where are you going, little one?
+
+[She pushes Ethan on the floor. He tries to shoot her.]
+
+Daughter: Your bullets cannot harm—
+
+[However, Ethan wasn't shooting at her… he was shooting at the window behind her. Cold air bursts into the room burning the Daughter's pale skin.]
+
+Daughter: You stupid manthing!
+
+[Ethan tries to shoot her with his shotgun, but it doesn't do her any visible damage, it just makes her angrier.]
+
+Daughter: I won't forgive you, you bastard! Not like this…
+
+[She cuts Ethan with her sickle.]
+
+Daughter: Give up! I don't believe it!
+
+[Finally, the cold air turns the Daughter into stone and she crumbles. Ethan picks up Crystal Torso. He goes into the next room, which turns out to be something like a butchery, but in the understanding of our beautiful ladies, it's more of a winery. Ethan sees a basin of blood and takes out an ornate bottle of Sanguis Virginis. Near it he finds a note.]
+
+Another one was sent to the cellar. She had only spilled some soup…
+Everyone knows what happens when you're sent to the cellar. You're never seen again. They drain your blood, your soul cursed to wander the halls.
+I went looking for her, and when I found her, she was just skin and bones and gnawing on a rat carcass.
+I suspect it'll be my turn next.
+
+What the Blood Hides
+[Ethan returns to the house. When he opens the drawer in the chest of drawers, he gets a wooden angel figurine. He also gets a small upgrade for his pistol - a recoil compensator. Next, he goes out into the dining room. After unlocking the door, he returns to the second floor of the castle and goes to the wine room, where he places an exquisitely decorated bottle of Sanguis Virginis on a stand. The coaster descends, opening a passage to a secret room where Ethan finds the Courtyard Key. He goes down to the first floor and sees flies again. The Second Daughter appears.]
+
+Second Daughter: Shall give you the tour?
+
+[Ethan runs from her.]
+
+Second Daughter: Ugh, so thirsty…
+
+[Ethan runs into the dining room and opens the door to the courtyard. The Second Daughter, for whatever reason, stops the pursuit. Ethan opens the only open door in the courtyard and sees Lady Dimitrescu ascending to the second floor. He slowly follows her. Ethan hears her angry voice from some room. Lady Dimitrescu is breaking something.]
+
+Lady Dimitrescu: What have you done to my daughter!?
+
+[She doesn't seem to be talking to Ethan, who just recently killed one of her daughters. Ethan walks into a room with a skull-shaped pool of blood. Around the pool are statues of women and men. There is a quote on the wall, placed in a beautiful frame and printed on gold paper.]
+
+“Women are blind to male advances, but shall take their chances to give their lord their bounty sown, so that soon the wine may flow.”
+
+[Ethan turns the statues around so they're facing the right direction. The blood drains revealing a hatch in the floor. It slowly opens and Ethan again goes down to the basement. The basement turns out to be partially flooded with blood.]
+
+Ethan: What the hell!?
+
+[Soon he stumbles upon a zombie. Ethan is knee-deep in blood and his maneuverability is limited, so he has to use his head instead of brute strength. Ethan manages to get out of the flooded basement and rides the elevator to the second floor of the castle. Standing on the balcony, he hears an antique telephone ringing and hides behind the window. Lady Dimitrescu comes to the phone, she makes a long snapping of her cigarette on the mouthpiece and contemplates whether or not to pick it up. Still, she sits down in front of the mirror and answers the phone. While she's talking she's putting red lipstick on her lips.]
+
+Lady Dimitrescu: Mother Miranda. I regret to inform you that Ethan Winters, has escaped that fool Heisenberg. Because he is in my castle, and has already proven too much for my daughters to handle! When I find him—No, Mother Miranda. Yes, of course I understand the importance of the ceremony. I won't let you down.
+
+[She neatly hangs up, easily picks up the dresser with the mirror and smashes it against the wall.]
+
+Lady Dimitrescu: (angerly) To hell with the ceremony! That man will pay for what he's done…
+
+[She leaves. Ethan enters her room and finds her diary.]
+
+We were all called by Mother Miranda to decide the fate of the child's father.
+Just thinking of that “family” meeting makes me shudder. To think I am treated like a sister to those miscreants!
+Especially Heisenberg! That riffraff wouldn't know proper manners if they slapped him in the face!
+I would have sliced him to ribbons if Mother hadn't stopped me.
+Why… Why does she treat me the same as them!?
+She gave me this castle. obedient daughters, everlasting life, did she not?
+Am I not her favorite? Am I not special?
+I need a drink.
+
+[Also Ethan picks up Dimitrescu's Key hanging on the wall. He notices a crib.]
+
+Ethan: Rose, where are you?
+
+[Ethan opens the door… and sees Lady Dimitrescu. Because of her gigantic height, she has to duck to enter the room.]
+
+Ethan: Oh, shit.
+
+Lady Dimitrescu: There you are. All this for a child that isn't even here!
+
+Ethan: What the hell do—
+
+[Dimitrescu grabs him by the neck.]
+
+Lady Dimitrescu: You ungrateful, selfish wretch! You come into MY house—(throws Ethan into the wall) You lay your filthy man-hands on MY daughters—(throws Ethan again) And now you even try to steal my property? How dare you!?
+
+[She punches Ethan through the floor. She yells in his wake.]
+
+Lady Dimitrescu: Rest while you can, because I will hunt you, and I will break you!
+
+Ethan: Go ahead, do your worst!
+
+Cat and Mouse
+[Ethan walks through the empty corridors of the part of the castle under construction. Many passageways are blocked by bars and it is necessary to lower a lever to raise the door. When Ethan lifts another door, something… cuts off his arm.]
+
+Ethan: Aah, shit!
+
+[It’s Lady Dimitrescu. From her fingers stick out huge razor-sharp blades.]
+
+Lady Dimitrescu: Like I'd let you get away. (grabs him) You'll be sliced to ribbons—(throws him)—before you ever see that child!
+
+[Ethan tries to escape from her, which is quite difficult - the corridors are very similar to each other and it's not easy to find the right path.]
+
+Lady Dimitrescu: You will learn what it means to insult house Dimitrescu.
+
+[Ethan grabs his severed hand and pushes the lever. The door starts to slowly open… and Lady Dimitrescu is coming!]
+
+
+Lady Dimitrescu: Time to die! Ah, such a nimble little mouse.
+
+[As Ethan runs away from Dimitrescu, he finds a room with a large, elegant statue. The Mask of Sorrow lies on it. Ethan takes the mask and the platform with the statue suddenly begins to rise.]
+
+Lady Dimitrescu: (madly laughs) Running will get you nowhere!
+
+Screw This Castle!
+[As the platform rises, Ethan douses the residual limb with a bottle of healing solution and puts his hand on it, hoping it will reattach as it did before… And it does. He starts to feel his arm.]
+
+Ethan: Good. Man, screw this castle!
+
+[He goes up to the courtyard and runs to the closed door with the four statues. Placing the Mask of Sorrow on one of them opens the door. Ethan decides to stop by his old fat friend's room one last time to replenish supplies.]
+
+Duke: It's a pleasure to see you safe. How were things?
+
+Ethan: No sign of Rose.
+
+Duke: I'm… so sorry it turned out that way. Well, you'll find your way to her once you're out of this castle. Do you have need of anything for the road ahead? Thanks to your consistent patronage, I've expanded my services. If it's just looking, window shop away.
+
+[Etan upgrades his weapons.]
+
+Duke: As always, a trustworthy, fair exchange. One moment, please. This is all an investment, Ethan. Please come again.
+
+[He leaves the Duke… and immediately encounters the Second Daughter.]
+
+Second Daughter: Trying to work up my appetite, are you?
+
+[Trying to run away from her, Ethan runs into Dimitrescu.]
+
+Lady Dimitrescu: You disgusting outsider!
+
+Second Daughter: Hmm. I guess I should hold back a little.
+
+[For some time Ethan has to roam around the castle, hiding from his pursuers. He finds himself in the bathroom next to Dimitrescu's room and finds her lipstick there. He goes outside and opens another door with Dimitrescu's key. On the second floor, Ethan finds a note.]
+
+Please be aware the Mistress's lipstick is missing.
+If anyone finds it could they please return it to her bathroom.
+It is custom made and therefore very expensive.
+- Grand Chambermaid
+
+[Next, Ethan finds a diary with pictures.]
+
+One day since treatment.
+The three girls have stopped moving.
+They seem almost dead.
+An insect flew out of the eldest's mouth.
+It appears to be a common fly.
+Two days since treatment.
+All three bodies are covered in flies.
+It appears the flies are consuming their flesh.
+When I opened a window some of the flies dropped dead to the floor. It would seem the cold petrifies them. I quickly closed the window to avoid weakening the insects further.
+Four days since treatment.
+All three bodies have almost been completely consumed by the insects. All that is left is a dark, writhing human-shaped mass of creatures.
+It is just after noon and the insects have started to change color. Those around the face turned pale and those around the lips turned a deep crimson.
+Six days since treatment.
+The mass of insects have transformed into human bodies again.
+All three girls awoke, looking at me like newborns.
+I sense a bond between us. Like mother and daughters.
+I have already decided their names:
+Bela, Daniela, and Cassandra.
+
+[Ethan continues to explore the house, fighting zombies, and enters a room with a piano. He finds another diary.]
+
+Scientific name: None
+Size: 5 - 6cm
+Similar body structure to blow flies, although there are differences in the head.
+They are carnivorous and vigorously consume meat.
+In order to catch unsuspecting prey, they'll gather using pheromones to mimic a human.
+They are produced when a Cadou lays eggs in its host, but the flies themselves are unable to reproduce.
+They are weak to sudden drops in temperature.
+Especially if the temperature drops below 10°C (50°F), their metabolism lowers and they go into a dormant, cryptobiotic state.
+Similar to the cryptobiosis of Tardigrade or Polypedilum vanderplanki?
+
+[Ethan walks up to the piano and plays the tune by the sheet music. A drawer slides out of the piano and contains an Iron Insignia Key. Ethan goes down to the basement where he was playing cat-and-mouse with Lady Dimitrescu. He walks into the opening doorway and, fighting off the zombies, solves the riddle of the braziers. Upon opening the coffin he finds Azure Eye. Ethan goes back into the house, to the second floor.]
+
+Second Daughter: Play with me some more.
+
+[Running away from the Second Daughter Ethan runs into a room with a big statue in the center. There he finds the Silver Ring and Mask of Pleasure. He gets out of the room through a hole in the fireplace, but the Second Sister still finds him.]
+
+Second Daughter: I was worried my sisters had gotten to you first.
+
+[Ethan pushes back the cabinet behind which the crack in the wall is hidden. He sets a mine on the crack, and when Second Sister passes by she not only takes damage from the explosion, but also lets a destructive light into the room.]
+
+Second Daughter: You've ruined the hunt!
+
+[Ethan without a word shot her with his shotgun.]
+
+Second Daughter: You bastard! My body! What? No! You're done! You will not get away! You're my prey… mine…
+
+[She turns into stone and crumbles like the First Sister.]
+
+Ethan: Crazy witch.
+
+[He takes some useful items in the room like ammo, medicine and Mounted Animal Skull. He unscrews the skull from the stand and uses it instead of the recently taken mask to unlock the door. Lady Dimitrescu is still looking for him.]
+
+Lady Dimitrescu: You disgusting outsider!
+
+[He manages to avoid her, solves some puzzles and opens a closed door with the Iron Insignia Key.]
+
+Third Daughter: So you finally came to see me! Everyone falls for me in time.
+
+[Ethan opens a hatch to the courtyard and starts shooting the Daughter.]
+
+Third Daughter: Ugh! Ow, so mean! You really want to kill me!? Why are you doing this!? Ugh, damn! A dream. This is a dream. I don't wanna… die…
+
+[She turns into stone like the rest of the Daughters.]
+
+Ethan: I'm sick of bugs.
+
+[With a bit of exploring and puzzle solving he finds Mask of Joy. Then he goes up to the attic where he finds the diary.]
+
+I heard there was something called “the Dagger of Death's Flowers” somewhere in this castle.
+It's apparently an antique from the Middle Ages that's coated in a concoction of poisons from across the continent. It's said to have been crafted to kill demons and monsters.
+It sounds fascinating but… no one knows where it is.
+
+[After searching the attic a bit, Ethan finds an old sniper rifle. He goes to the roof of the castle, where he is attacked by zombies with wings, as epic and stupid as that sounds. After fending them off and taking a ride on the zip-line Ethan finds the last, fourth mask - Mask of Rage.]
+
+Ethan: OK, I should be able to get out with these.
+
+[He takes the elevator down to the second floor, where Lady Dimitrescu is already waiting for him.]
+
+Lady Dimitrescu: Stupid manthing! You won't live long, even if you run!
+
+[He runs away from her and, remembering to resupply in the Duke's convenient store, places the found masks on pedestals in the main hall. Behind the door is… another door leads to a small tower of the castle, which turns out to be an old chapel. In a coffin at the far end of the chapel is a coffin in which Ethan finds a masterfully crafted dagger. But as soon as he takes it, Lady Dimitrescu grabs him by the arm.]
+
+Lady Dimitrescu: You've ruined everything!
+
+[She plunges her sharp blade claws into Ethan's stomach. He responds by thrusting his dagger into her. The dagger appears to inflict tangible damage on her. Lady Dimitrescu throws Ethan out the window and he loses the dagger. Meanwhile Lady Dimitrescu grows wings…]
+
+Ethan: Oh shit!
+
+[Lady Dimitrescu tins into a giant creepy monster.]
+
+Monster Dimitrescu: Flesh, bones, I will devour all of you!
+
+[She grabs Ethan and flies with him to another part of the castle, then drops him at the bottom of a large staircase and sits at the top of it.]
+
+Ethan: Looks like your outside matches your inside now, psycho witch.
+
+[He pulls out a sniper rifle and shoots at the monster's only vulnerable point - the body of Dimitrescu herself.]
+
+Monster Dimitrescu: You'll die a painful death!
+
+[She changes her location.]
+
+Monster Dimitrescu: I will destroy you! (madly laughs) You're a lucky man, Ethan! Besides Miranda, you're the only one to ever see me in this form. Too bad you'll pay for it… with your life! I will never forgive you! Too late for regrets! I'll crush you, you scum! I'll tear you limb from limb! Disgusting garbage! How dare you talk about saving your daughter when you've murdered mine!? You human pest! You would take everything from me!? I'll crush you! You can't escape! Like hell you'll kill me! Eat you… I'll eat you! Agh, just give up! Your daughter belongs to us, now! Rose is our only hope! We won't hand her over to the likes of you! Not enough blood! More! More blood! I need your flesh! You've got nowhere else to go, Ethan! Come now, don't be shy. Show me your terror! Now… time to die! I’ll eat you up, every last morsel! Die! Die! Damn you, Winters!
+
+[The final stage of their fight takes place at the top of the tower. Because of its enormous weight Monster Dimitrescu breaks through the floor and she and Ethan fall down.]
+
+Monster Dimitrescu: It's too late… you'll never see your Rose again… Succumb to your despair!
+
+[Ethan, having landed on Dimitrescu, survives. She does not.]
+
+Monster Dimitrescu: Curse you!
+
+[She slowly turns into stone and crambles like her daughters. Ethan finds Crystal Dimitrescu on her corpse.]
+
+Ethan: You're the one who's cursed.
+
+[Not far from where they landed, Ethan finds a strange vessel. When he picks it up, a way out opens.]
+
+Ethan: Looks like I'm getting outta this place.
+
+[The vessel appears to be a Dirty Flask. Ethan decides to keep it.]
+
+Ethan: Rose…
+
+[Ethan continues to search for his daughter. He walks into a nearby house and finds a note.]
+
+I finished that item that was requested.
+Please deliver it to the house with the red chimney. Go through the caves to the ruins, then down into the village.
+
+[Ethan comes out of the house and looks around. The way to get to the caves is blocked - the bridge turns out to be up, so he knocks the lock off the gate with a knife and enters the caves.]
+
+CHAPTER 5: What The Hell Is Going On Here?
+[As he walks through the dull lit tunnel, Ethan hears a voice. A woman is reciting a kind of prayer. He walks through the door and sees an old woman with a staff whom he has met before.]
+
+Old Woman: As the midnight moon rises on black wings, we await the light at the end… In life and in death, glory to Mother Miranda.
+
+Ethan: Hey, remember me? I almost died up at that castle. Tell me what is going on around here?
+
+Old Woman: How can a man be “almost” dead? That's a question for the wise.
+
+Ethan: You know what I mean. And I still haven't found Rose. Where did Mother Miranda take her?
+
+Old Woman: (laughs) You're too late! Or maybe…”almost” too late? The child will be sacrificed. Life for life.
+
+Ethan: What kind of sick medieval shit is this? She's just a baby!
+
+Old Woman: The crests of the four bloodlines may open the path you seek..
+
+Ethan: Will you please stop talking in riddles? I just want to find my daughter.
+
+Old Woman: It's only a riddle if you don't know the answer. (laughs)
+
+Ethan: (looking at carvings on the wall) Wait a second, that looks familiar. Hey! Hey, wait!
+[The Old Woman leaves. Ethan looks at the carvings one more time. There’s a monster head representing House Dimitrescu, a mermaid representing House Moreau, a horse in a horseshoe representing House Heisenberg and finally the Sun and the Moon representing House Beneviento. In the center… Umbrella logo. Ethan picks up a Winged Key from a little box nearby the wall and moves on. He gets out of the cave and walks out to a wide circular area and the mountains.]
+
+Ethan: Is this…?
+
+[He finds a Ceremonial Site. In the center is a massive circular slab of stone, resembling a hatch. On either side of it sit two kings on standing stone thrones. Ethan notices that the symbol in the center of the hatch looks familiar. It is the logo of Umbrella. Ethan continues his journey and finds a half-destroyed, snow-covered castle swarming with Lycans. Ethan kills them, opens a dilapidated gate and gets to the altar, in the left corner of which the Duke has set up his store.]
+
+Altar
+Duke: There you are. I had a feeling you would pop up here.
+
+Ethan: It was all worthless.
+
+Duke: Is that so? I assume you've picked up something of value.
+
+Ethan: Not sure if it's of value, but…
+
+[He takes a Dirty Flask out of his pocket.]
+
+Duke: Why—you have your daughter right in your own hands.
+
+Ethan: What are you saying?
+
+Duke: Take a closer look.
+
+[Ethan first looks at the Duke with surprise, then with fright. He begins to clean the Flask of dirt and sees first the inscription “Head” and then…]
+
+“Rosemary W. Head”
+
+[He drops the Flask on the snow in horror.]
+
+Duke: That flask seems to contain her head.
+
+Ethan: No… Wh-Wha-?
+
+Duke: Rose is—
+
+Ethan: Don’t say another word! This—this is impossible! This just can't be…!
+
+Duke: Your daughter's essence is still intact. Her powers are truly unique.
+
+Ethan: Who—who could even do this?
+
+Duke: She can be saved you know?
+
+Ethan: Saved? From this? Are you insane!?
+
+Duke: There's a house with a red chimney on the western side of the village. Go and seek out the man who lives there. Then we can continue our conversation.
+
+Ethan: Quit holding out and get to the damn point!
+
+Duke: You don't have to trust my words, but do you have any better options? Your choice. The customer is always right, after all.
+
+Ethan: (angerly) You'll pay if I find out this is a lie.
+
+[The Duke laughs.]
+
+Ethan: Fucking joker…!
+
+[Ethan places the Flask in one of the four holes on the altar and sees a vision.]
+
+Ethan: What the hell?
+
+[He decides to shop for some supplies.]
+
+Duke: Naturally. Oh, Lady Dimitrescu! Beautiful even in death. That waistline… yes! This simple modification can be done in just a moment. Please come again. Oh good. I was just thinking of ways to pass the time. I see, anything else? Thank you for your patronage!
+
+Searching the Village
+[After opening the gate, Ethan comes out to the very village square where he once opened the stone door that led to the castle. He finds a diary.]
+
+I heard a scream from the house with the chimney.
+I was going to take a look but the way was blocked by debris. Going to have to take the long way around. Who would have thought the hole in the stable walls would come in handy.
+If I'm not back by morning… you should go to Luiza's house alone.
+-Father
+
+[Ethan finds a strange photo with a handwriting on the other side “Look out the window”. He looks and sees a code that opens a strongbox nearby. There he finds Jack Handle and a new pistol, an M1911. After fighting several Lycans, he uses the Jack Handle to lift the tractor and crawl under it. Ethan finds himself in another part of the village, more densely populated with Lycans. After a short wander, Ethan encounters a larger foe, a muscular Lycan with swords strapped to his arms. Ethan lures him onto a mine and finishes him with a headshot. Soon Ethan finds a door with a guitar carved out of wood on it. The door turns out to be closed. A note is pinned next to it.]
+
+To whom it may concern,
+Due to the Luthier's long absence, I am keeping hold of his house key.
+Please find me if you need it.
+Regards, Josef Simon
+(Beneviento's Gardener)
+
+[Ethan finds a Well Wheel and uses it in the village square. When he picks up the bucket, he finds the wooden head of the animal and adds it to the recently found body. He gets a figure of a goat. From the other well he pulls out a Necklace with Two Holes. Ethan finds the Church of Miranda and some military equipment there. He reads a note in the notebook.]
+
+Operation Date: 2.9.2021
+Recorded By: NH
+1135 - Arrived at site. No sign of EW or RW
+1210 - Infiltrated village.
+Engaged with number of bioweapons
+Found evidence of EW. RW location unknown.
+1310 - Established base in church.
+Plan of operations:
+LB/TD/K9 - Search laboratory
+NH/UE - Analyze mold samples.
+Alpha - Infiltrate factory.
+
+[With a bit of exploring Ethan finds Luiza’s Necklace and a note.]
+
+“The Winged Key is just a single piece. Three more parts are needed to make it whole.”
+
+[Along with the note in the box was a second half-key, which Ethan attaches to his key and gets the Four-Wings Key. He also finds the diary in the box.]
+
+February 1st
+Sacrificed two goats to Mother Miranda.
+February 3rd
+Offered wool to Mother Miranda.
+She instructed I find her a list of drugs and tools in the next few days.
+What for, I wonder?
+February 8th
+No messages from Mother Miranda.
+Yet the livestock won't stop their ruckus.
+February 9th
+I was instructed to take the items to the cave church at sunrise.
+But what I saw was… frightful.
+The great Four Lords were there and Mother Miranda was holding a child.
+She whispered something and touched the child…
+I can't explain it well but… the child… turned into a white crystal?
+Then… then… she…
+I couldn't help but speak up and I asked her why she did such a thing.
+Mother Miranda just smiled at me.
+“This is the chosen child.
+She will return to her original form no matter what befalls her.”
+Then she gave each lord a part of the crystal in a flask and they left.
+I forgot to bow to Mother Miranda before I fled.
+I'm still shaking.
+What did she do?
+What is that child?
+
+Ethan: Damn it… Better see Duke again.
+
+Questioning the Duke
+[He runs to the Altar.]
+
+Duke: How was it? Did you learn anything?
+
+Ethan: I found these feathers. Now tell me how to fix this like you said you would.
+
+Duke: Settle down. First you must use that key and collect all of your little Rose's flasks.
+
+Ethan: Where are the rest of them?
+
+Duke: There are four in total. You have the one, and the other lords have the rest.
+
+Ethan: Lords?
+
+Duke: Mother Miranda is the cold, calculating ruler of this village. Four lords serve under her. The first you've already met, the lady Dimitrescu. The second lives deep in a valley of mist, the doll maker Donna Beneviento. (we see the doll we met before) None of her playmates have ever come back from that dank, old estate. The third is Moreau, a being of twisted flesh that lives in the reservoir past the windmills. (we see the deformed freak we met before) It's said that he is not the only monster that lives in those waters. The fourth and most dangerous is Heisenberg. He works in his factory on the village outskirts. And the project? Let's just say parts of the human imagination are better left alone.
+
+[He marks all the locations on Ethan’s map.]
+
+Duke: If you truly wish to save your daughter, you must first gather the four flasks. I'll do you a personal favor. I've marked the Lords' locations on your map. Some treasures still lurk in this village. I'm sure each one will prove of great use to you.
+
+Ethan: Why are you doing all this?
+
+Duke: Why it's all part of our first class customer service. Please do come again soon…
+
+[Ethan recalls that in his frantic pursuit of his daughter, he had forgotten about food. After killing some fish in the river and catching a chicken, he turns to the Duke.]
+
+Duke: Shall I choose something for you? Ah yes, I have you! Find some quality ingredients and bring them to me. You kill it, we cook it! Hand over ingredients. We've gathered all the ingredients! Now… Here it is. Please, join me!
+
+[Ethan chooses the recipe and the Duke cooks it so perfectly that the dish permanently increases Ethan’s health.]
+
+Ethan: Not a bad dish.
+
+[He decides to sell and upgrade some of his stuff.]
+
+Duke: I'm buying this because of our relationship, you know. I'm surprised you'd part with this so early. I hope this one makes itself useful. I am skilled at all sorts of weapons modifications, and will do them for a small fee. Have a wonderful adventure!
+
+[After gathering everything for the new journey, Ethan opens the door with the Four-Wing Key and enters a snowy forest.]
+
+
+CHAPTER 6: Playing with Dolls
+[Ethan gets through the woods with a gun at the ready. There are dolls hanging from the trees, and bloodstains on the snow. After a while, Ethan hears the familiar voice of his wife calling out to him.]
+
+Ethan: What?
+
+Mia: Ethan! Come with me. There's something I have to tell you.
+
+[She disappears right before his eyes.]
+
+Ethan: Mia? What's going on?
+
+A Tomb Among Graves
+[Ethan continues walking down a narrow alley that resembles a path in a cemetery. Soon he sees his wife again.]
+
+Mia: Rose feels different. Ethan, you have to fix her…
+
+Ethan: What the hell is this?
+
+Mia: Everyone leaves me… even Rose… I don't want to be alone…
+
+Ethan: This can't be real…
+
+[Ethan walks out onto a beach with a tombstone in the center. The place he wandered into actually turns out to be a cemetery. There is an inscription on the tombstone.]
+
+“—a Beneviento
+1987 - 1996”
+
+Ethan: Am I losing it?
+
+[He approaches the tomb near the tombstone. There is an inscription next to it.]
+
+“Give up your memories.”
+
+[Ethan sticks a family photo in the hole and the door opens.]
+
+Ethan: What's going on?
+
+[Ethan goes inside and sees the elevator. He gets on it and goes up several floors. Suddenly the lights go out and a handwriting appears next to the button.]
+
+“Come with me, Ethan”
+
+[Ethan gets off the elevator and leaves the tomb. Walking up the mountain path he sees a large mansion…]
+
+House Beneviento
+[Ethan begins to explore the massive mansion with his gun at the ready. The mansion turns out to be empty. Ethan finds an elevator and decides to use it. In the basement he finds a doll making workshop. In the center of the workshop, a doll sits on a chair holding the Flask with part of Ethan's daughter in it. When he approaches the doll, the lights go off and the doll disappears.]
+
+Doll: I've been waiting for so long… I'd make a much better daughter than Rose. Please won't you stay with me forever? (laughs)
+
+Ethan: What?
+
+[The light turns on again.]
+
+Ethan: Wait, where's my gun?
+
+[All his weapons are gone… and there is now a combination lock on the door. Ethan notices a human size doll on the table. He examines it and finds a Silver Key.]
+
+Mia: (via radio) Whoa, that's a kick! Can you believe it? S-She's so energetic, it's crazy!
+
+[Ethan continues to examine the doll. He finds a Winding Key and then a Blood Covered Ring. He uses the Silver Key to unlock the door with a huge picture of this key. In the room, he washes the ring open and discovers that it is an exact copy of Mia's wedding ring. On the inside of the ring there is an inscription 052911 - I assume that is the date of their wedding. Ethan enters the combination into the code lock. Continuing to explore the house, Ethan finds the very same wedding music box that was kept in his home.]
+
+Ethan: Why is this here?
+
+[He uses the Winding Key and fixes the music sequence. He get Tweezers and uses it to pull out something that was stuck in the doll’s mouth. It’s a piece of film.]
+
+Mia: (via radio) (frightened) Oh god, no… I, I can't tell Ethan anything but this.
+
+[Ethan uses the film to fix the sequence of film on a stand in the study according to this list.]
+
+Our Happy Family
+1. Rose's best friend in the whole wide world.
+2. She really likes this fairytale.
+3. The most important thing in the world to us.
+4. A wedding gift from grandma.
+5. Proof of Ethan's everlasting love for me.
+
+[Ethan watches the resulting film on the projector… and it turns out to be something else. He sees a well with a ladder in some catacombs. After the film is finished, the screen falls down, the cabinet slides away, and there is a door behind it. The room turns out to be a storehouse of dolls. There are scissors in the hands of one of them. Ethan takes them and cuts through the bloody bandages blocking the way. He gets to another part of the house where he sees the phone not working. Ethan walks by and the phone starts ringing. Ethan picks up the phone.]
+
+Mia: Please Ethan, listen to me. I didn't want to keep it from you.
+
+Ethan: Mia?
+
+Mia: I didn't want to lose you again—I didn't want to destroy this family.
+
+Ethan: Mia, what are you talking about?
+
+Mia: I love you both so much I had to. I had to do it.
+
+[She hangs up. Ethan goes back to the doll and cuts the bandages on her chest. Underneath them he finds Brass Medallion. The lights flicker.]
+
+Mia: (via radio, crying) Rose…
+
+[Ethan goes to the door with the puzzle lock and inserts the Medallion. After solving the puzzle, he opens the door and goes down into the creepy old basement where he finds the well with the stairs. He goes downstairs and finds the Breaker Box Key among the broken dolls. Ethan goes upstairs… there are no lights in the whole house…As he walks, a child's crying comes from somewhere… he notices traces of blood on the floor. Mia's voice comes from somewhere. She is on the verge of hysterics.]
+
+Mia: It'll be fine. It'll be fine. It'll be fine. It'll be fine. It'll be fine. It'll be fine.
+
+[Ethan follows the blood. Soon he encounters… with a huge deformed baby crawling down the hallway. Ethan is terrified and runs away from it and hides in a locker. After a few eerie minutes, the baby crawls away. Ethan quietly walks to the elevator and opens the breaker box. He finds Relief of a Child… but there’s no fuses! He goes to the room with the mother and the baby on the door. He inserts the found image of the child and the door opens. There he finds fuses, but after taking them out the light goes out again. The baby begins to haunt Ethan. The gleefully laughing ugly creature with its giant, tearing-like mouth causes Ethan to panic and he hides under the bed. When the creature leaves he runs to the elevator. The child chases him, but Ethan manages to get inside at the last moment and slams the grate shut right in front of the ugly monster, who has no choice but to threaten Ethan with his big mouth. Ethan returns to the house. He notices that there are a lot of dolls around. When he goes out into the living room, it is filled with dolls. A woman in black teleports to Ethan.]
+
+Woman in Black: Don't leave… I can't let you…
+
+[She controls the Doll.]
+
+Doll: Ooh, you're still alive, huh?
+
+[The dolls in the room attack Ethan.]
+
+Doll: (madly) You better find me quick, before my friends murder you! Tick-tock! Your life's on the line!
+
+Ethan: Wait!
+
+[He runs after the Doll.]
+
+Doll: Try and find me, haha!
+
+[Ethan finds the Doll. She bites him then Ethan tries to pick her up.]
+
+Doll: Everything would be better if Rose wasn't born
+
+Ethan: Fucking monster!
+
+[He sticks a pair of scissors into the doll's head. Blood gushes out of it. She madly laughs and flies away. Ethan finds the Doll the second time and sticks his scissors in her again. The Doll screams in agony.]
+
+Doll: You do this to Rose too?
+
+[She flies away but Ethan quickly finds her.]
+
+Doll: You are never going to get out of here!
+
+[Her face splits, exposing her brain and the worms inside. She laughs madly, and Ethan stabs the scissors into her again.]
+
+Doll: Stupid idiot! What are you doing to my cute friends!?
+
+[Ethan delivers the final blow to the Doll right in the brain. The Doll screams and the screen goes white.]
+
+Ethan: It's… over?
+
+[As it turned out, in reality, Ethan killed the Woman in Black. She is lying on the floor with her doll next to her. The woman turns to stone and disintegrates. In her remains, Ethan finds a key.]
+
+Ethan: Mia… I’ll make things right.
+
+[He hears a sound.]
+
+Ethan: What?
+
+[A pedestal with part of Rose rises from the floor.]
+
+Ethan: Good, I need to get out of this place,
+
+[He uses the key he found on the Woman in Back corpse and combines it with his Four-Wing key and gets the Four-Winged Unborn Key.]
+
+Ethan: So that's who was behind all this.
+
+[He takes the Legs Flask.]
+
+Ethan: That makes two…
+
+Back to the Village
+[He leaves the mansion and returns to the Village, the inhabitants of which have increased! More precisely, enemies… Ethan solves some puzzles and collects Luthier's Key that helps him open a new part of the village. He finds a new shotgun W870TAC, A Photo of Strange Bird and a handful of ammo and medicine. Searching the houses Ethan finds another diary.]
+
+November 10th
+Mistress Donna is now Mother Miranda's adopted daughter. In all my years, I've never been this overjoyed.
+Ever since childhood she has always feared others, due to the scar across her face.
+After her parents' death she locked herself away and would only talk to Angie, the doll her father made her.
+I am forever thankful to Mother Miranda's infinite compassion.
+November 27th
+Mistress Donna seems happy. It might be my imagination, but I feel like her doll Angie is even more lively than before.
+She came to me in the garden today and used Angie to talk with me. We had a mighty fine conversation.
+Something about receiving a gift of power from Mother?
+November 29th
+Mistress Donna gave me yellow flowers and told me to plant them in the garden.
+I planted them in front of Miss Claudia's grave. I don't know if it was the scent of the flowers, but I felt light headed. Then, like a dream, I saw my departed wife.
+I mentioned this to Donna and she seemed thrilled by it. She told me to go to the house tomorrow and see her. She said I could see my family once more.
+I'm not sure what she meant by that, but she's kind.
+
+[Ethan returns to the Altar and places the Leg Flask in one of the holes. He approaches the Duke. He plays with a cute little doll.]
+
+Duke: Does this look familiar to you…?
+
+[Ethan sighs and pulls out his wallet and bag to resupply.]
+
+Duke: Ooh! Where did you get your hands on such a thing? I saw you eyeing that one! Please come again.
+
+[Ethan continues to explore the village. He finds a Broken Slab in the square and a couple of upgrades to his weapons. Near the tomb of Beneviento he encounters a large monster with an axe, but with a bit of wits and mines, a sniper rifle and a shotgun, he successfully deals with him. He uses the Broken Slab on the grave. It looks like Claudia Beneviento was buried here. The grave slides open and Ethan gets Berengario’s Chalice. He runs to the Duke and quickly sells it for a mighty 53000 Lei!]
+
+Duke: Now this is something to splurge on!
+
+[Ethan also eats some Dukes cooking that is so good he feels much more healthy. The power of home cooking, guys!]
+
+Duke: Securing goods is more important than anything. Anything, my friend. Please come again.
+
+[After restocking, Ethan opens a new door with a mermaid over it… The adventure promises to be interesting.]
+
+CHAPTER 7: Mommy Issues
+[As soon as Ethan goes inside he is attacked by a huge beast. It bites his leg and tears him with its claws. Ethan screams in pain. As he manages to get out, he runs into a nearby house. The beast can't get through the doorway and Ethan shoots it in the head with his gun. After sustaining some damage, the monster retreats. Ethan searches the house and finds a note on a corpse… it’s Julian.]
+
+The wounds are severe. I won't last much longer.
+I can hear it shuffling about outside.
+It barely flinched when I shot it.
+I feel like it's toying with me.
+That… isn't a wolf.
+Still, I won't lie down like a dog!
+If I can get to the old watermill I can stop it. I can protect you.
+It's so close…
+Damn, I’m so cold. My legs won't work.
+I’m so sorry Luiza. Please forgive me.
+
+[After some more exploring Ethan finds an interesting thing that can help him talk to the beast - a GM 79 Grenade Launcher. Ethan comes out of his hiding place to start a conversation. It took him six rounds to explain to the monster his wrong position in this world. A little way forward, Ethan stumbles upon a slimy barrier, which, however, can be destroyed. Ethan walks on, finds an elevator, and goes down into the mines.]
+
+Mines
+[After wandering around the old mine, Ethan is surprised to see the Flask with part of his daughter's body on a pedestal. He quietly sneaks over and grabs it. Moreau standing nearby and doesn't notice anything. After Ethan takes the Arms Flask, the pedestal lowers and the creature… vomits.]
+
+Moreau: Oh, Mother Miranda… If it's for you, I'd do anything!
+
+Ethan: I'll just be taking this…
+
+Moreau: (frightened) Wait, wait,wait! Wh-What are you doing with Mother's special child!?
+
+Ethan: She's not hers.
+
+Moreau: Oh? You have something to say?
+
+Ethan: What do you mean, “Mother's special child"?
+
+Moreau: Mother wants her baby back.
+
+Ethan: Don’t screw with me!
+
+Moreau: Wait, wait, wait! Please, please! If, if you take it, then the others will laugh at me… B-But if, if I do better than them…
+
+Ethan: What do I care?
+
+Moreau: Wait, just a little longer, ple—!
+
+[He starts laughing suddenly.]
+
+Ethan: What's so funny?
+
+Moreau: You're stupid! You talk too much! It's all over, I plugged the way in.
+
+Ethan: Wh-What're you…?
+
+[The way Ethan sneaks to the Flask is growing with slime.]
+
+Moreau: This is MY territory! And I won't let you leave!
+
+Ethan: Shit! Damn freak!
+
+[Ethan runs from the slime.]
+
+Moreau: (from afar) W-Wait! Don't go! Dirty little sneak thief. I-I won't let you have it.
+
+Ethan: How do I get out of here?
+
+[Ethan begins to search for a way out in the tangled tunnels of the mines. After fighting several Lycans, he finds a way out as well as a Boat Key and gets out of the mines in the area of the mill. There he find a note.]
+
+Leave the boat key in the shack in the mine.
+Hans is dead, so no more fishing for a while.
+I mean, we all know his death was no accident.
+He was eaten by a giant fish! Boat and all!
+
+[With a heavy heart, Ethan starts the boat's engine and gets in.]
+
+Reservoir
+[After sailing a bit, Ethan sees the giant fish.]
+
+Ethan: What was that?
+
+[He moors at a small dock in a cave and goes on his way. The cave turns out to be damp and dark and empty, however… Ethan finds a lot of equipment there.]
+
+Ethan: What the hell? A research post, or something…? What the fuck are they doing here?
+
+[Someone pounces on Ethan from behind! He manages to throw his attacker off, but he pulls out a gun.]
+
+Ethan: Get off of me!
+
+Soldier: Stay the fuck down!
+
+Chris: Ethan. I gotta say, I'm surprised you made it this far. It'd be a shame if something happened to you now.
+
+Ethan: Sure, Chris. Why not? You killed Mia! Now do me and finish the job!
+
+Soldier 2: (walks in) Hey Cap. I'm getting some serious motion readings out here. We should move on.
+
+Chris: (quietly) What kind of readings? What's moving?
+
+Soldier 2: Unknown, but my guess is we've been here too long, and Miranda knows it.
+
+Ethan: Hey. Hey! Did you say Miranda? How are you involved?
+
+Chris: Leave it alone, Ethan. You are out of your depth. (to Soldier 2) What about the sample analysis?
+
+Soldier 2: It's definitely related to the mold.
+
+[Something is making noise outside and Soldier 2 walks out to check on it.]
+
+Chris: You stay out of our business, Ethan.
+
+Ethan: What business? I don’t—
+
+[The giant toad jumps to the party! It burst in the dock!]
+
+Chris: (pushes Ethan aside) Watch out!
+
+[The giant toad breaks through the flimsy floor of the dock and Ethan falls into the water, though he quickly manages to surface on a nearby wooden planking. The deformed creature named Moreau comes up with him.]
+
+Ethan: Shit! Stay back!
+
+Moreau: You… The exit's underwater… you're done!
+
+Ethan: I don't have time for this.
+
+Moreau: It's too late… Miranda is already preparing the ceremony!
+
+Ethan: Miranda sent you to slow me down? You're pathetic.
+
+Moreau: Don't be cruel! It's not fair! I should be with her! Not you!
+
+Ethan: What are you talking about?
+
+[The creature vomits.]
+
+Ethan: What the fuck is wrong with you?
+
+Moreau: I can't hold it in anymore! Oh God. Oh, Mother why? Why!?
+
+[He falls into the water and turns into the giant toad. Ethan pretty easily runs away from it.]
+
+Ethan: What am I supposed to do? He said the exit's underwater. If I can drain the water…
+
+[He pulls the lever that should open the flood gate.]
+
+Ethan: Shit, there's no power.
+
+Get The Power
+[Ethan is running around the dam trying to find the way to restore the power. He finds a note in an old car.]
+
+This crank is old and busted up.
+It feels like it's going to snap any second.
+I hope it doesn't break. The only other one we have is over at Windmill Two.
+
+[Ethan walks out to some kind of mechanism that starts the mill's blades. He twists the crank, but it breaks off.]
+
+Ethan: Ugh, seriously…?
+
+[He has to go down to the flooded part of the village. As Ethan walks across a handmade bridge, the transformed Moreau tries to grab him.]
+
+Ethan: I'm not looking to be fish food.
+
+Moreau The Giant Toad: Up and down!
+
+[Ethan pushes the cart to drop it on Moreau's head, but misses.]
+
+Ethan: Damn.
+
+[To raise the bridge he has to lower the switch… which is covered in slime.]
+
+Ethan: It stinks.
+
+[After playing with bridges that barely work because of the water, Ethan manages to get to the far side of the flooded village. He is continually attacked by Moreau.]
+
+Moreau The Giant Toad: I'm the best! Watch me, Mama! I'll do better next time, Momma…
+
+[Ethan uses a crane to lift a sunken house.]
+
+Ethan: Caught myself a big one.
+
+[When he climbs into it, the escape routes overgrow with slime. Moreau approaches.]
+
+Ethan: I need to get out of here!
+
+[Ethan manages to get to the second mill. He climbs to the top and twists the crank to start the blades, then climbs on them and slides down the zip-line to the first mill. With a new crank he starts the first mill. Electricity comes back on the wires.]
+
+Ethan: OK!
+
+[He happily runs to the dam control panel, solving a puzzle and floods the water.]
+
+Ethan: Got it!
+
+[He walks to the Duke’s shop which is nearby.]
+
+Duke: (reading a book) Ah, yes, yes… As always, a trustworthy, fair exchange.
+
+[Ethan enjoys freshly cooked food as well as weapon upgrades.]
+
+Duke: Finished! I'd love for you to enjoy, as well. I wouldn't mind having that again. I've gotten some new stock! I saw you eyeing that one! Have a wonderful adventure!
+
+Out of the Pool
+[Ethan returns to Moreau.]
+
+Moreau The Giant Toad: (crawling) My precious water! No!
+
+[Ethan follows his slimy friend and starts exploring a once drowned village. He finds a diary.]
+
+October 1, a sunny day.
+Mother Miranda brought me 5 peoples from the village. Just like I askeded.
+I made them sleep with some liquid and then I put Cadou in their tummies.
+I am looking forward to the Cadou to grow in their tummies.
+October 2, a cloudy day.
+4 of the people from the village are dead this morning.
+1 is almost a lycan.
+I sent it to my lab on the mountain.
+I failed again. Mother wants strong vessels but I cannot get any.
+I will need more people from the village.
+
+[Ethan comes out of the house and is attacked by Moro, who breaks through the walls of the houses.]
+
+Moreau The Giant Toad: I'll make you proud, Mother. Watch me!
+
+Ethan: I guess I gotta do this.
+
+[He fights Moreau.]
+
+Moreau The Giant Toad: Get out of my way! Take, take this! Stop! You bastard! Why do you hate me? You're the reason Mother doesn't love me. (farts) I've, I've been saving this one. Oh, why? Stop picking on me! Don't look at me that way! Please Mother Miranda, I'm trying. I'm not stupid! D-Don't run. Ugh…this… isn't fair… Listen to me! Nooooo!
+
+[Moreau drops live wires into the remaining water. Ethan sees this and hides where there is no water.]
+
+Ethan: Can't get caught in that.
+
+Moreau The Giant Toad: Stop! Ha ha! I don't want to die. Oh it hurts so much. Don't look at me that way!
+
+[Finally Ethan soaked enough bullets in Moreaus’s fat body to defeat him.]
+
+Moreau The Giant Toad: Damn you! H-Help me! Mother! Maaaaaaaaaaaa—!
+
+[He puffs up and explodes, splattering blood and guts all around him, including Ethan. Rummaging through the vile remains, Ethan finds Crystal Moreau.]
+
+Ethan: In death as he was in life. Disgusting. The exit's up ahead…
+
+[He enters the mine where, apparently, Moreau lived and finds a diary.]
+
+Mother Miranda gave me a Rose jar.
+No one likes me which is why I thought they would leave me out again.
+But Heisenberg said that was why we each get a Rose. The ceremony cannot happen without us all there.
+Mother didn't seem to care though…
+Mother said Rose is a vessel.
+With a vessel Mother can get her real child back.
+Even though she has been dead for a very long time.
+But if Mother does then… what will happen to me?
+I'm not her real child…
+Would she abandon me?
+No! I don't want that!
+No! No! No! No! No! No! No!
+Not No! No! No! No! No! No!
+No! No! No! No! No! No! No!
+No! No! No! No! No! No! No!
+No! No! No! No! No! No! No!
+No! No! No! No! No! No! No!
+No! No! No! No! No! No! No!
+No! No! No! No! No! No! No!
+Not No! No! No! No! No! No!
+No! No! No! No! No! No! No!
+No! Not No! Not No! No! No!
+No! No! No! No! No! No! No!
+
+[Ethan finds another piece of key and gets the Six-Winged Unborn Key. At this point, the TV turns on. A symbol appears on the screen - a horse in a horseshoe. This is the symbol of the House Heisenberg.]
+
+Heisenberg: You're better off than I thought.
+
+Ethan: Who's that?
+
+Heisenberg: Oh come on, we just met a while back! Not that it has a matters…
+
+Ethan: You're the last asshole in my way, aren't you?
+
+Heisenberg: You've got fight, I'll give you that, Ethan. But what's the plan when you have all four flasks?
+
+Ethan: What're you trying to get at?
+
+Heisenberg: I could lend you a hand.
+
+Ethan: Trying to get on my good side?
+
+Heisenberg: Don't get cocky. I'd kill you if you weren't worth the trouble… There's a stronghold not too far outside the village. Go there and get my flask. Do that, and you pass. First, head back to the graveyard. (disconnects)
+
+Ethan: Self-centered prick.
+
+CHAPTER 8: Fun Factory
+[Ethan continues to explore Moreau’s nest and find a diary.]
+
+Mother Miranda gave me a mountain.
+Now I can do lots and lots of Cadou experiments.
+This is my secret special laboratory.
+I did 3 Cadou experiments today.
+But they all went pop and made a mess.
+I put in the Cadou and then I tried putting wolf blood from a needle into the spine.
+The person wriggled a lot and then killed my assistant.
+I could not hold it down so I put it in a cage.
+Now I have to feed it.
+
+[In a chest nearby Ethan finds an old revolver M1851 Wolfsbane. It can kill a large beast with just two shots in the head. He returns to the village. Heisenberg placed arrows to help Ethan get to the cemetery. Something's not right here… Ethan decides to replenish his ammo supply.]
+
+Duke: (looking at a jar with Cadou) Ah…my apologies. Please do take a look at my new stock. This is Lord Moreau's? I suppose it's what they call "the beauty of the grotesque"? These hands are more dexterous than one might think. Hmm? What? Ah, it's fine. All finished. Securing goods is more important than anything. Anything, my friend. I can hardly wait for the next ingredients! Ah, yes, yes… I saw you eyeing that one! To hunger… is to be alive. Thank you for your patronage!
+
+[Having bought everything he needs and eaten well, Ethan continues to follow the arrows. On one of them, the last one, written "Good luck!" When Ethan enters the old workshop he is attacked by a huge monster with an axe. The battle is going to be fierce. Ethan tries to stay away from the monster and pelt him with bombs and uses a sniper rifle. After defeating the monster, Ethan gets Giant Crystal Axe. In the next room, a butchery, he finds a diary.]
+
+July 8th
+Today's the day the jolly merchant stops by. He always gives me old newspapers. I know Miranda forbids them but news of the outside world is always so fascinating.
+There was one thing that piqued my interest in the last one. It was an article about some medicine company? I don't remember the name but their emblem looked familiar.
+It was the same symbol on the Giant's Chalice.
+I'm pretty sure I saw the same one painted on the walls in the cave too.
+That radiating umbrella image really stands out. What's some outsider company emblem doing here? I wonder if it had anything to do with that man that stayed here all those years ago?
+…Nah. I'm over thinking it.
+
+[Once out of the tunnels, Ethan walks to the statues of the kings on the throne, and from there to the raised bridge in the half-destroyed castle. Ethan uses the found crank and lowers the bridge. He gets on a boat and sails to the caves.]
+
+Where’s He Hidin’?
+[In the caves, Ethan stumbles upon military equipment again. He reads the notes on the laptop.]
+
+DNA sequencing complete. 99.95% match to Dulvey mutamycete. The deviation of 0.05% can presumably be attributed to artificial changes by humans. Which means this is probably the source.
+Further investigation into how The Connections managed to find and extract the mold is needed.
+The fungal colony is spread out under the entire village.
+When you take the Baker incident into account, the hosts of the mutamycete are part of a network of consciousnesses.
+If that network is linked to here then we could assume this organism here is data storage?
+If that's the case, then what “data” is Miranda after?
+
+[After slogging through the roots and the zombies chasing him, Ethan makes his way to the surface and sees a huge sign in the main square. The sign reads, "The show must go on!” Ethan sighs and follows it. He wanders through forests and caves and soon comes to a dilapidated castle. A lowered iron gate stands in his way.]
+
+Ethan: How do I get this door open?
+
+[After destroying several Lycans, Ethan pulls the levers on either side of the gate and lowers it. Ethan continues on his way and soon finds a stronghold with massive wooden doors.]
+
+Ethan: This must be their den.
+
+[Ethan makes his way to the top of the stronghold. He encounters a beefy Lycan.]
+
+Ethan: OK, big guy!
+
+[He kills it, sneaks through a narrow passageway where through holes in the stone wall you can see Lycans devouring corpses and finds the diary.]
+
+The King's orders finally arrived… “Withdraw.”
+It is most vexing that we must abandon the border stronghold to those heretics. If I had but a little more time, I know I might be able to turn the tides of this battle.
+Nay… I should not put on airs. It is my curiosity that ties me to this place.
+There are a number of ruins in the vicinity. Which the locals say are very ancient.
+The ceremony site with four giant statues. The caves with murals carved on the walls. The stone plinth they call the Giant's Chalice.
+Where did the people who built them come from? Where did they go? It irks me that we must abandon this place without knowing.
+
+[Soon a huge Lycan with a hammer, which Ethan had seen before and thought was Heisenberg, jumps on him.]
+
+Ethan: That's not good.
+
+[Ethan defeats the Lycan.]
+
+Ethan: Eat shit.
+
+[Ethan goes further and finds another TV set. The symbol of the House of Heisenberg appears on the screen. Near the TV stands… Torso Flask. Ethan touches it and sees a vision. In it, his daughter is surrounded by the local Lords, who look at her and smile. Rose is crying.]
+
+Ethan: W-What?
+
+Heisenberg: (via TV) You're the real deal, Ethan. Well done.
+
+Ethan: Quit hiding, asshole. I'm not letting you get out of this.
+
+Heisenberg: (via TV) (laughs) Cool your jets. Just a little bit more and you're all wrapped up. I'll lend you a hand, so in exchange…
+
+Ethan: In exchange what?
+
+Heisenberg: (via TV) First of all, come to me. Put all the flasks in the Altar, and I'm sure you'll figure the rest out. See you, Ethan.
+
+Ethan: Goddammit.
+
+[He leaves the fortress by boat through the flooded basement. The basement is appears to be another laboratory. Ethan finds a note.]
+
+Cadou Implantation Notes.
+Subjects: 174-181
+Subject 174: Mihai M
+Characteristics:
+21, male, Silversmith
+Scars from pneumonia
+Results: Low affinity. Cadou failed to grow.
+Body transformation, drop in cognition.
+(Another lycan)
+Sent to pasture.
+Subject 177: Bernadette B
+Characteristics:
+21, female, no occupation
+No history of illness.
+Results: Death
+Subject 181: Alcina D
+Characteristics:
+44, female, noble descendant
+Not from the village
+Hereditary blood disease
+Results: Very high affinity. NO loss of cognition.
+Arbitrarily able to control body transformation.
+Applied cognition control procedure.
+Sent for observation.
+
+[Ethan returns to the Altar. He places the field jar with part of his daughter on a coaster and carries the coaster to the Ceremonial Site, where he scatters in the center of the stone hatch. The hatch begins to descend, and a giant bridge to the castle rises out of the water. Ethan goes down on an elevator, the key to which are his daughter's parts.]
+
+Heisenberg: (via loudspeaker) Don't worry about the kid, Ethan. It’ll be fine. Just get your ass across the bridge!
+
+[Ethan crosses to the other side of the bridge. Not far away, behind a barbed-wire fence is a large factory.]
+
+Heisenberg: (via loudspeaker) Ah, Ethan Winters. Welcome. I didn't think you'd make it past Donna or Moreau, but I suppose you survived worse back in America, hm?
+
+[The factory gates creak open in front of Ethan.]
+
+Heisenberg: (via loudspeaker) I like you. I'd like to speak to you about Rose and Miranda. Oh come on in. Don't worry, it's not a trap.
+
+[Forgetting that communication with Heisenberg is done unilaterally, Ethan asks a question.]
+
+Ethan: What’re you planning?
+
+[And of course no one answers him. Ethan enters the factory. Down in the basement he finds a certain wall covered with an old rag. When he removes the rag, he sees that the wall is covered with many pictures of the inhabitants of this cursed village.]
+
+Ethan: What the hell..?
+
+[Among the photographs he unexpectedly discovers a photo of his wife.]
+
+Ethan: Mia!?
+
+[Heisenberg silently approaches Ethan.]
+
+Heisenberg: Truth hurts, don't it?
+
+[Ethan turns around in fear, pointing his gun at him.]
+
+Heisenberg: (calmly smoking a cigar) Let me guess. You're thinking take me out like the others, and then you get to go and save Rose, right?
+
+[Ethan puts his gun down for some reason.]
+
+Ethan: I'm healing my daughter.
+
+Heisenberg: Look. y-you've got this all wrong—
+
+[There is the sound of a chainsaw coming from the cellar.]
+
+Heisenberg: Dammit, I'm talking here! (opens a hatch) Shut your fucking hole! (to Ethan) Sorry about that.
+
+[He puts a chair next to the open hatch.]
+
+Heisenberg: Take a seat.
+
+[Only a brain-dead idiot would sit in a chair placed like this, but our hero is not looking for easy ways.]
+
+Heisenberg: Listen, Ethan. You're being played.
+
+Ethan: What are you talking about? You think this is a game?
+
+[Heisenberg throws a knife at the wall and forces Ethan into the chair.]
+
+Heisenberg: I said sit! Lady super-sized bitch… (throws a knife in the photo with his powers) Ugly-ass psycho doll… (throws the knife) ...and that moronic freak. Don't you get it? It's a test, to see if you're strong enough… ...to be part of Miranda's family.
+
+Ethan: I don't WANT to be part of Miranda's family—
+
+Heisenberg: Neither did I! But here we are. And I'm next in line, right? Kill me, move up the chain! Well, fuck that!
+
+Ethan: I don't give a damn about your personal issues! I just want to fix my daughter!
+
+Heisenberg: (laughs) So do I! Do you have any idea how powerful that kid is? Even Miranda's scared of her—
+
+[The chainsaw noises are heard again.]
+
+Heisenberg: Last time, you freak, I swear to god… You and me, Ethan. Together we go save Rose, and then we can use her to grind Miranda into paste.
+
+Ethan: My daughter is not a weapon! Fuck you!
+
+[Heisenberg knocks a chair out from under Ethan and holds his hand over the hatch.]
+
+Heisenberg: Last chance. You don't want to find out what's in that hole.
+
+Ethan: I'll take my chances.
+
+Heisenberg: Your funeral.
+
+[He lets Ethan go and he falls into the basement with some freak with a chainsaw, though the freak himself isn't around yet. It appears after a few moments. He turns out to be a big man with a propeller on his chest.]
+
+Ethan: Dammit! (shots at the freak) Shit!
+
+[He runs for his life.]
+
+Ethan: A dead end! Dammit!
+
+[He jumps into a garbage hatch and falls into a scrapyard.]
+
+Scrapyard
+Ethan: What was that thing? This place is messed up. I've gotta get upstairs.
+
+[Ethan, without much surprise, discovers the Duke's store at the scrapyard.]
+
+Duke: Welcome, welcome! You're sure to find something new. Shall I choose something for you? Hoho - you've brought in something special. You'll be slaughtering things in droves! Till next we meet.
+
+[Ethan continues to explore the factory, fighting Lycans and zombies. In the old workshop, he finds a document.]
+
+Mechanical Soldier: Soldat
+ver. 1.00
+Fully-grown male corpse used.
+Removed heart and implanted Cadou.
+Muscle stimulation via electric shock was successful.
+Brain dead so no high cognitive ability.
+Only moves by destructive instinct, then stops.
+Mechanical Soldier: Soldat
+ver. 1.01
+Attached headgear to the cranium.
+Electrodes confirm stable brainwaves.
+Experiment One: lycan fight.
+Was dismantled and eaten within three minutes.
+Issues with destructive and murderous capabilities.
+Mechanical Soldier: Soldat
+ver. 1.10
+Replaced lower part of arm with drill.
+Not enough output for effective movement.
+Need live bodies perhaps?
+Mechanical Soldier: Soldat
+ver. 1.15
+Implanted Cadou reactor into the chest.
+Output greatly increased.
+Experiment Two: lycan fight
+Destroyed three lycans in one minute.
+Good results but issues with reactor durability.
+May stop functioning if the reactor is destroyed.
+
+Ethan: Did he do this too? Can’t surprise me anymore.
+
+[Ethan fights this Soldat and picks up a cog.]
+
+Ethan: Could use this.
+
+[He fixes the backup generator with this cog. The factory comes to life. The conveyor begins to move. A siren sounds from everywhere. Heisenberg's voice is heard from the loudspeaker.]
+
+Heisenberg: Oh Ethan, such a disappointment.
+
+[A Soldat attacks Ethan. Heisenberg continues.]
+
+Heisenberg: I thought we could join forces against that bitch Miranda. Truly, truly disappointing. She took me. Took us. To be her children. She locked us away in the village. Decades of being forced to serve her. Can you even understand that humiliation? I'm not like my siblings. I want nothing more than to be free of that bitch. So I need power. I need enough power to destroy her. These are the fruits of my power. The strong will destroy the weak. That's the way of the world! You should have never refused me, Ethan.
+
+Ethan: What a freak.
+
+[He continues through the factory fighting Soldats and finds a recorder in a surgery.]
+
+Heisenberg: (on record) Medical log, revitalization surgery. This is my… 18th attempt. Subject is Oskar the stable boy, 20 years old. He fell down the well while drunk. Body's in good condition. Chest incision complete. Now to remove the heart and vital organs, and implant the control device. Excellent. Cadou has begun adhering to the nervous system, It's progressing even faster than before. It seems upping the ratio, of meta-albumin in the artificial blood was the right choice. Now to pass a current through the brain stem using 6600V. Come on… it has to work this time. Yes… Yes! Hahaha! Wonderful! My creation! At last! I'll get that bitch yet! Hahaha! …Ending recording.
+
+[Ethan continues and stumbles upon a freak with a propeller in his chest.]
+
+Ethan: You again!?
+
+[He runs for his life and eventually finds yet another Duke's shop.]
+
+Duke: I've expanded my services. Please, come take a look. You wish to make a purchase? I'm buying this because of our relationship, you know. Food is life. Good day, then! Got a long way to go.
+
+[Eating his full Ethan continues.]
+
+Heisenberg: (via loudspeaker) Miranda thinks we're nothing but children. Oh she doesn't care for us, no. She's long lost all her humanity. I must destroy her…
+
+Ethan: I don't give a shit about your family drama.
+
+[He encounters some freaks vaguely resembling Big Daddies.]
+
+Ethan: Another one?
+
+[He kills them both and finds a note nearby.]
+
+Soldat Enhancement: Soldat Jet
+Attached a jet pack and head stabilizers to a Soldat. Greatly improves mobility.
+Experiments prove limited flight capabilities.
+No long-distance flight, but now possible to navigate rugged terrain.
+Soldat Enhancement: Soldat Panzer
+Attached aluminum alloy shielding to a Soldat to protect chest reactor and exposed flesh.
+Experimentation proves he is against regular firearms.
+Armor doesn't hold up against strong blasts.
+Further development needed.
+
+[When Ethan walks out into the long corridor he gets sucked in by a powerful fan. Ethan barely has time to blow into the fan to turn it off, but the sudden stop causes one of the blades to come off and nearly cut off Ethan's head.]
+
+Ethan: Shit, that was close.
+
+[Ethan goes inside the broken fan and soon finds an elevator.]
+
+Heisenberg: (via loudspeaker) Soon, she'll start her ceremony with your Rose. If that happens, it's all over. For your kid, and for the whole village. But don't worry, I'll stop it. I'll use Rose to kill Miranda. Haha, poor papa. You're the only one who doesn't see your kid's power.
+
+Ethan: Take Rose? Heh, I'd like to see you try.
+
+[Ethan goes down in a huge freight elevator with The Duke and continues to rip and tear in the corridors of the factory.]
+
+Heisenberg: (via loudspeaker) You really are a tough one. But I'm tired of chit-chat. Time to die! You can hear it, can't you? Someone's waiting for you.
+
+[Ethan finds a document.]
+
+Prototype: Sturm
+Used a cheap turboprop engine, but he's impossible to control. All he does is charge.
+Too much power output from the reactor?
+Completely invincible head on.
+But the dumbass managed to chop his own damn arms off on the propeller. Also issues with overheating from running for long periods of time.
+Conclusion: A complete failure.
+
+[Ethan fights one on one with the propeller guy…]
+
+Ethan: I don't have time for this bullshit. Out of my way!
+
+[…and kills him.]
+
+Ethan: Now stay down.
+
+[He found a diary in the next room.]
+
+Miranda is abominable.
+Her deceit knows no bound.
+We're merely a bunch of failed Cadou experiments to her.
+I was just lucky I had more affinity to the stuff than the other poor shmucks in the village.
+So she still calls me her “son.”
+What a joke. I'll never forgive her for what she did to me.
+That crazy bitch has never been right in the head.
+She can't see a difference between “experiment” and “family.”
+Miranda didn't just change my body.
+She took my dignity.
+If I don't kill her then my life will never be my own.
+Still… she may be crazy but she's also powerful. She can turn into anyone using the Megamycete.
+The trick is that brat. Rose. If I could access her power then maybe…
+Speaking of, the kid's dad. Ethan has a pretty interesting body himself.
+Maybe I could get him to help me out…
+
+[After a while, Ethan finds himself in a room with all sorts of shit flying, which he has to fight off. Heisenberg uses the debris as a stepping stone and goes down to Ethan.]
+
+Ethan: What the-?
+
+Heisenberg: Not bad, not bad, Winters. You're persistent, but I've got a rebellion to lead… …So stay out of my way.
+
+[Ethan tries to shoot Heisenberg with little to no effect. Heisenberg transforms into a huge pile of crap, resembling Knack.]
+
+Monster Heisenberg: Don't. Come. Back!
+
+[He pushes Ethan to the lover levels of the factory.]
+Don’t Come Back!
+Ethan: That bastard. Damnit, again?
+
+[Ethan searches the surroundings to find the way to the top. Soon he meets Chris who easily disarms our hero.]
+
+Chris: Gimme that.
+
+[He gives Ethan a few therapeutic kicks.]
+Chris: I told you to leave it alone, Ethan. You are in the way.
+
+[Disassembles Ethan's gun and throws it away.]
+
+Ethan: What do you care, Chris? You killed my wife, you son of a bitch!
+
+Chris: You think I’d kill Mia? That wasn't her! It was Miranda.
+
+Ethan: …What?
+
+[Chris turns the light on revealing a small tank next to him.]
+
+Chris: She's a bioweapon. She changed her appearance and pretended to be Mia. It seems she also survived being shot, so now I'm here to finish the job.
+
+Ethan: Bullshit! Why didn't you fucking tell me right away!?
+
+Chris: Because I knew you would want to be involved! And this job is hard enough without civilians getting in the way.
+
+Ethan: Why us, Chris? What the hell is going on?
+
+Chris: All right, Ethan. All right. I guess I owe you an explanation. Hand me that wrench. Long story short, Miranda's fucking insane. And this village, all these monsters and freaks… this is her life's work. Some sort of crazy experiment with the mold.
+
+Ethan: The mold. Like Louisiana. Goddammit. All this time, I thought I could save my family… I can't escape from here… I can't do anything!
+
+Chris: (starts the tank) That might not be true. Take a look at this. My men sent those pictures a few minutes ago.
+
+[Ethan sees a blurry picture on his smartphone.]
+
+Ethan: Miranda.
+
+Chris: Keep looking.
+
+Ethan: (notices the Flasks) Rose. Holy shit, we've gotta go!
+
+Chris: Relax! My men are monitoring the situation.
+
+Ethan: But they have my daughter!
+
+Chris: You don't get it, Ethan. You don't stand a chance against Miranda by yourself.
+
+[He destroys the door with a shot from the tank.]
+
+Chris: I will stay down here and finish planting explosives. You take that elevator, and I'll meet you topside. I promise you, we will get your daughter back. Together.
+
+Ethan: Damn straight we will. And when I find Miranda… (reloads) she's a dead woman.
+
+Chris: All right, Ethan. Then you take this—and do me a favor… Try to stay under the radar.
+
+Ethan: (to himself) Can't turn back now.
+
+[He reads an email in the squad's notebook.]
+
+To: Hound Wolf Squad
+The sweep of the factory is complete.
+No proof of any connection with the organization. Guess this just wasn't our lucky day.
+I did manage to get my hands on a number of documents disclosing some of Miranda's experiments. Which support our previous theories.
+She seems to have infected herself with the mutamycete, which has granted her a number of abilities.
+Including “mimicry.”
+She can control her cells and transform herself to look like anyone or anything.
+She disguised herself as Mia and infiltrated the Winterses’ home.
+Her objective was clearly to kidnap Rose.
+Maybe she thought she could control Rose easier if she looked like her mom.
+When we attacked, it put a little damper on her plans. so she mimicked a corpse.
+She then revived herself in the transport truck, killed everyone onboard, and took off with Rose.
+Things didn't go the way she had originally planned, but in the end. she still got what she wanted.
+…Until now.
+It’s time to rendezvous and blow this place sky high.
+This might turn into a fight with Heisenberg, but I think I found something useful. He left one of his little toys laying around and it's even made from a metal/polymer composite, which he can't control. Time to turn the tables.
+— Alpha
+
+[Ethan climbs onto the tank and knocks on the cladding.]
+
+Ethan: Metal/polymer composite, huh? Time to fight fire with fire!
+
+[He gets in the cockpit and starts driving.]
+
+Ethan: I'm coming Rose!
+
+[He rides with the tank in a huge freight elevator to the top and kicks the door open with a shot. Heisenberg jumps out to him in his Knack uniform.]
+
+Monster Heisenberg: You're like a goddamn cockroach! You think you can take me on?
+
+[Ethan shoots at him with the machine guns.]
+
+Monster Heisenberg: Fine, this will be my warm-up before I kill that bitch. Let's settle this, mano a mano. Your corpse will be another addition to my army! This is the best! That one hurt! I promise! Haha! So this is the power of fatherly love, huh? Like that cannon huh? Impressed. Cower in the face of my steel glory! Guess I do have to thank that bitch Miranda for this. I'll kill her with the power she gave me. That's what I call being a good son, haha! Do you know how I felt spending years under the bitch's thumb? The villagers are nothing but a bunch of worthless peons! I’m goddamn freedom fighter! I'll use your cute little daughter to become more powerful than ever! The clock is ticking Ethan! Play time's over! Quit acting so full of yourself! I’m tired of your shit!
+
+[He almost kills Ethan with his chainsaw, but then he notices an explosion in the factory.]
+
+Monster Heisenberg: No, no! My metal army! I'm going to murder that boulder-punching asshole, but you're first. Now die like the world's watching you! Too bad I'm your only fan! Here we go Ethan, the final stretch! Well what do you think? It's hopeless, right? Just give up. Flesh and blood will never win against me! This isn't David and Goliath. It's Ethan and a bloody demise, haha! Come on!
+
+[He uses his powers to pull his shit together (and Ethan with it.)]
+
+Monster Heisenberg: So long, Ethan Winters! You really should have taken my deal. You'll meet Rose in the afterlife! Rose's power is mine! Right after I murder Miranda! Your funeral!
+
+[Ethan takes one last shot at Heisenberg.]
+
+Monster Heisenberg: No, no! This can't be the end for me! I… must… kill her!
+
+[He dies and Ethan takea Crystal Heisenberg. Alpha (Chris) calls Ethan.]
+
+Chris: Ethan!? I heard explosions. What the hell happened?
+
+Ethan: I dealt with Heisenberg. Now I'm going to find Miranda and get Rose back.
+
+Chris: Not without me. It's too dangerous. Wait there, you hear me? Ethan?
+
+[Ethan hears a baby.]
+
+Ethan: Rose?
+
+Chris: Ethan? Ethan, respond!
+
+[Ethan looks around and notices his wife.]
+
+Ethan: Mia… but!?
+
+Mia: Our child… she's so important, isn't she?
+
+Ethan: She's everything to me.
+
+Mia: (laughs) And mine to me. With Heisenberg gone, you've lost your lead. What are you going to do?
+
+Ethan: (takes aim) I don't know, but I'm saving Rose.
+
+Mia?: You never know, do you? Even when I took Mia's place in your home. Poor Ethan.
+
+Ethan: (screams) Who are you? Where's Rose!?
+
+[Fake Mia laughs and covers herself with black feathers. Ethan start shooting.]
+
+Ethan: Miranda!
+
+Miranda: Enough. Remember Eveline and her power over the mold? Rose is her successor. No… Rose is Eveline's true, complete form.She will grow to fully control the masses. And I must have her.
+
+Ethan: (screams) Fuck you, you crazy bitch!
+
+Miranda: Calm yourself. Rose will be saved. The Megamycete catalogs all of us. However, she will be reborn as my daughter.
+
+Ethan: She's my child! Not yours! Where are you? Show yourself!
+
+[Miranda transforms into the old woman with a staff.]
+
+Miranda: Why did Rose come to be? Was it because of her parents? And you are truly a special case. But I've learned all I can from you. Your worth as a lab rat has run out.
+
+Ethan: Miranda, you coward! Come out and face me!
+
+[Miranda pierces Ethan’s stomach with her root.]
+
+Miranda: Don't worry, Ethan. Your death will come quick. You will join the Megamycete's records.
+
+[She rips the heart from Ethan’s chest.]
+
+Miranda: I will make sure to sample your blood for later. Once dawn breaks the ceremony will be complete, and I will become her true mother. Bound for eternity in blood.
+
+[Ethan lies on the ground… dead.]
+
+Miranda: I've waited so long. But dreams really can come true. Vessel or not, I can't wait to see my true child again.
+
+[She flies away.]
+
+CHAPTER 9: Another Hero
+Soldier: (via radio) Captain, I've confirmed the death of Ethan Winters. I wasn't able to retrieve the body, but I've recorded evidence.
+
+Chris: Share your screen and I'll go over the situation. My team and I were careless. Yesterday we took down the transformed Miranda But we didn't kill her.
+
+Soldier: (via radio) Who knew she could take being a corpse?
+
+Chris: Since Miranda could've infected Ethan, I forcefully took him and Rose with us. But the vehicle they were riding in was attacked. When I got to the wreck, Ethan and Rose were gone. The last time I was able to contact Ethan… I heard Miranda's voice. She murdered him. And she is not gonna get away with it. Goddammit, when does it end?
+
+Soldier: (via radio) What's that, sir? The mission?
+
+Chris: All of it. Three years, trying to put this thing in the ground. (takes a drag on a cigarette) Three years too long.
+
+Soldier: (via radio) We'll get her, Captain. The squad's ready for you.
+
+[Chris gets out of the jeep and sees a plane flying by.]
+
+Chris: So BSAA got here already. They didn't waste any time.
+
+Soldier: (walks in) Mission adjustment?
+
+Chris: No. It doesn't change anything. Terminate Miranda, and rescue Rose. That's the mission, and failure is not an option.
+
+Soldier 2: Let's have some fun, people! Like old times!
+
+Chris: Let's move out!
+
+Soldier: Roger!
+
+Soldier 2: Yes, sir!
+
+Soldier 3: OK!
+
+Soldier 4: You got it!
+
+Chris: Canine, I want to know what the hell BSAA is doing here. Find out what you can.
+
+Canine: Roger that. I'm on it.
+
+Mission Begins
+Soldier: (via radio) Been a while since we fought together, Captain. When was it last, the desert?
+
+Woman Soldier: Doin' nothin' but recon's gotten me outta shape.
+
+Chris: But thanks to your recon, we know Miranda's plan.
+
+Soldier: (via radio) Couldn't quite believe it when I heard, she'd turned herself into Mia, though.
+
+Soldier 2: (via radio) Taking five shots to the head's nothing to sneeze at either. Spooky…
+
+[Chris walks through the snow-covered forest and encounters his comrades-in-arms, who have taken up a sniper position. One of them hands Chris a sniper rifle so he can see a building burning in the distance.]
+
+Soldier 3: Hey Alpha, look at this.
+
+Chris: BSAA…they've gone too far.
+
+[Several soldiers land outside the building. The roots grab the helicopter. It struggles to break free and flies away, but soon crashes.]
+
+Chris: Christ.
+
+Soldier 3: It looks pretty rough down there. How are you planning on reaching the objective?
+
+Chris: First we're going to have to take that thing out.
+
+Soldier 3: I've got your back, Boss. Let's get to work.
+
+Chris: Everyone watch for hostile bioweapons.
+
+Soldier: (via radio) Roger.
+
+[Some lycans attack the squad.]
+
+Chris: Made contact with a group of hostile bioweapons.
+
+Soldier 2: (via radio) There're more than we thought. Watch out. Western route is clear. Moving out.
+
+Chris: Roger that.
+
+Soldier 2: (via radio) BSAA craft spotted. Two guards… heh, I can take 'em.
+
+Chris: Don't get cocky.
+
+[Chris enters the burning village.]
+
+Soldier 2: (via radio) What the hell is that thing? It's all… mutamycete…
+
+[A bunch of roots burts out of the ground.]
+
+Chris: That's probably where Miranda is. Let's go. Large, mutated bioweapon sighted.
+
+Soldier 2: (via radio) The mold might be releasing infectious particulates. Keep your masks on. Didn't expect to see the BSAA going so hard.
+
+Woman Soldier: (via radio) They had eyes on Miranda, too. Probably felt they needed to intervene.
+
+Soldier: (via radio) Hey Boss. It’s me. I'm at the location preparing for support fire. Might be a minute.
+
+Chris: Roger.
+
+Woman Soldier: (via radio) Tundra here. Leaving some supplies in one of the houses, Captain, Help yourself.
+
+[Chris rushes through the burning village killing Lycans with military grade weapons.]
+
+Chris: Umber Eyes, I need some backup.
+
+Umber Eyes: (via radio) I see you. Two hundred to the point.
+
+Soldier: (via radio) I've never heard of a mutamycete colony growing so huge.
+
+Umber Eyes: (via radio) Hey I got eyes on you, Boss. Keep going.
+
+Soldier 2: (via radio) My mom saw this shit, she'd think she'd died and gone to hell…
+
+Chris: I've reached the target location. Damn this is big. All right Lobo, marking the target!
+
+Lobo: (via radio) Roger that, Boss.
+
+[Chris uses a laser tag and targets Miranda's Castle covered with roots.]
+
+Lobo: (via radio) Bingo, alright! Reloading now, just a minute. There's a swarm headed that way.
+
+[Chris throws some grenades and blows the swarm to dust.]
+
+Lobo: (via radio) OK, Captain. I'm reloaded. Read when you are. Mold is rapidly expanding. There must be something stimulating it.
+
+[Chris tags the castle again.]
+
+Lobo: (via radio) Another hit! Hah, looks like it's about to collapse. Hold your horses. I'm reloading. It's them. Watch your perimeter, Chris.
+
+[Chris fights off the Lyncans again.]
+
+Umber Eyes: (via radio) BSAA guys are engaging the bioweapons. You're right, Captain, they must be after the Megamycete too.
+
+Lobo: (via radio) How many are there? Everyone OK?
+
+Umber Eyes: (via radio) They're coming from the mold. There's no end to them…
+
+Tundra: (via radio) …Gimme a break!
+
+Lobo: (via radio) Is the target locator working?
+
+Canine: (via radio) Dammit, these things are using weapons!
+
+Umber Eyes: (via radio) Heh, sure they're thinking the same about you. Bioweapon numbers are increasing. We need to finish them off quick. Five more from the mountains. East side.
+
+Tundra: (via radio) I'm nearby. I'll handle 'em.
+
+[Chris destroys the castle.]
+
+Lobo: (via radio) Boom! Haha, take that!
+
+Chris: Good, The Megamycete must be below. I found a way down. I'm going in. The rest of you stay back.
+
+Lobo: (via radio) Captain, I've compared the mold at the village with a sample from the Bakers' and… there's no sign of the genome editing we saw in the E-series. The stuff originated here…
+
+Into the Heart of Darkness
+[Chris encounters a large root monster with a huge morning star.]
+
+Chris: Guarding the Megamycete, huh?
+
+[He shoots the creature.]
+
+Chris: Dammit, I'm getting nowhere. Lobo, I got a tough guy here! I'm gonna need backup!
+
+Lobo: (via radio) Boss, you're underground!
+
+Chris: There's an opening in the roof. Use it!
+
+Lobo: (via radio) OK, I'm moving out. Hold on 'til I get there!
+
+[Chris fights the monster for several rough minutes.]
+
+Lobo: (via radio) I'm overhead, Boss.
+
+Chris: Good! I'll signal with the locator!
+
+Lobo: (via radio) Give a guy a break…
+
+[He smashes the monster with a mighty military laser.]
+
+Chris: Nice! Thought so!
+
+Lobo: (via radio) Reloading now, just a minute. OK, Captain. I'm reloaded. Ready when you are. (Chris uses the laser) Hold your horses, I'm reloading. I'm reloaded. Where should I point next?
+
+Chris: Hostile bioweapon eliminated.
+
+[He gets a Giant Crystal Mace.]
+
+Chris: I'll keep going. The rest of you, stay above ground.
+
+Canine: (via radio) So if Miranda was the fake Mia, where's the real one?
+
+Lobo: (via radio) I doubt she saw any further use for her. I don't get any of this. How did Miranda even know Rose exists? A moldy, dittle bird told her, maybe?
+
+Chris: We can figure that out later. Focus on the plan.
+
+[He steps out into a vast cave with a heart hanging from the wall.]
+
+Chris: I found it. It's the Megamycete. Alpha to squad. I've located the Megamycete.
+
+Canine: (via radio) So now we can end this mess after all…
+
+Chris: (preparing a bomb) And about damn time.
+
+[He throws the bomb into the heart and it sticks to it.]
+
+Chris: N2 explosive's armed. There's enough there to blow the whole village sky-high
+
+Ember Eyes: (via radio) Let's get out of here and blow the damn place.
+
+
+Chris: Not before I end Miranda. I'm not taking any more chances. I'm going in.
+
+Ember Eyes: (via radio) Roger that, standing by. Captain, I have eyes on Miranda at the ceremony site.
+
+Chris: Keep your distance. Do not move until I give the order.
+
+Ember Eyes: (via radio) (sighs) I know it's too late now but we really should have told Ethan the plan.
+
+Chris: There wasn't time and we didn't expect Miranda to act so soon.
+
+Ember Eyes: (via radio) Even so, you should have told him.
+
+Chris: Yeah.
+
+[He walks into a room that looks like an ancient laboratory.]
+
+Chris: This must be Miranda's lab.
+
+[He reads some books.]
+
+Subject Name: Salvatore Moreau
+Cadou Affinity: Low
+Brain Functions: Surprisingly low.
+The Cadou has caused drastic changes to internal organs, transforming them into organs similar to fish-like gills and a swim bladder.
+Another subject with irregular cell division causing him to transform into a giant fish.
+The subject is unable to control this transformation.
+Too many defects. An unfit vessel for Eva.
+
+Subject Name: Alcina Dimitrescu
+Cadou Affinity: Most favorable
+Brain Functions: Normal
+Regeneration rate is incredibly fast. The subject can heal any external wound within seconds, and grow her nails into claws in mere moments. Rapid regeneration also means an increased body size.
+Note: Due to a hereditary blood disease the subject must ingest human flesh and blood on a regular basis to maintain regeneration properties.
+I suspect that if the subject's regeneration is not properly balanced then she may mutate uncontrollably.
+An unfit vessel for Eva.
+
+Subject Name: Karl Heisenberg
+Cadou Affinity: Incredibly favorable
+Brain Functions: Normal
+Has electric organs similar to the electric ray, Narke japonica. These electric organs are connected to the subject's nervous system.
+Can therefore pass and control electricity throughout the entire body, allowing control of magnetic fields which is used to move metal.
+Splendid specimen, but still an unfit vessel for Eva.
+
+Subject Name: Donna Beneviento
+Cadou Affinity: Favorable
+Brain Functions: Normal, although severe mental illness
+Physically she is no different from a regular human, however, she can secrete a signal producing substance which controls plants infected by the mutamycete.
+When humans absorb the pollen from a particular flower she can cause them to have hallucinations.
+However, she is mentally underdeveloped
+and has divided her Cadou among her dolls in order to control them from a distance.
+An unfit vesel for Eva.
+
+Chris: So they're using this to control the bioweapons.
+
+Dear Miranda,
+My deepest apologies for not meeting you in person.
+I would love nothing more than to visit your quaint village once more, however, I am incredibly busy.
+Then again, I suppose for an immortal woman such as yourself, you no longer remember this poor half-dead medical student in the snow.
+I have always cherished the revelations I came to 15 years ago when I stayed in your village.
+I was inspired by your research. To think, one could transform a human by infecting them with an organism. Positively visionary.
+I knew that with that knowledge I could achieve my own vision for the next step in human evolution.
+Even after two world wars, and humanity on the cusp of another, my conviction never wavered.
+I realized, however through the many nights of intellectual talks you and I shared, that your conviction differed from mine.
+You hoped to bring back a single dead person.
+While I aimed to change the world.
+Your experiments on the mold would not have aided me in my endeavor to achieve an exponential infection. I thought a virus would be more effective.
+This is why, my dear, I had to leave you.
+I still regret never telling you goodbye.
+My apologies for reminiscing. I actually have news that I thought might please you.
+I have found the key to evolution!
+The “progenitor,” a virus found in Africa.
+I plan to start a company with friends and colleagues, dedicated to the virus' research. I will call it Umbrella.
+Just like the symbol in the cave that we spoke about.
+I am one step closer to making my vision a reality. I hope you will be able to achieve your goal someday, too.
+You taught me so much and for that I will be forever in your debt.
+Sincerely, your life-long student,
+Ozwell E. Spencer
+
+Chris: Spencer… here? No way…
+
+My Eva…
+It's been one hundred years since I lost you to the Spanish flu. I was so powerless back then.
+But now… Now I can bring you back to life from the Megamycete.
+I had to test your new vessel's regenerative abilities.
+I took her apart and revived her in the Megamycete regulator, the Giant's Chalice.
+All that is left is to merge her with the Megamycete.
+The ceremony can finally begin!
+After I lost you I was so stricken with grief that I wandered into a cave to die… I so wanted to be with you again. And that's when I found it.
+The Megamycete! Completely by accident!
+When I touched the black substance my mind was overcome with knowledge.
+The Megamycete breaks down and absorbs the consciousness of those who have perished.
+I knew that if your consciousness was in there too then there would be a way to bring you back.
+I just needed the right vessel…
+When I returned to the village I implanted
+the villagers with mold from the Megamycete.
+That way I could control them, experiment on them.
+I have experimented on hundreds of people just to find you the perfect vessel.
+I even tried to increase the efficiency of finding a vessel by creating a parasite I called Cadou…
+Yet none of my experiments came to fruition.
+There were some, like Alcina, who were close to being perfect, but most turned into lycans.
+I was once approached by an organization who said they would assist me. I gave them some of the mold and your DNA.
+But all they created was another defect, Eveline.
+Then again, not a complete failure. I learned of Rose thanks to them and I knew she would be the perfect vessel.
+There was some interference, but I was able to verify her suitability. Now my research is finally complete.
+Eva… I have waited too long to see you again.
+
+[Chris shoots down the lock on the small dungeon with a machine gun and enters it… there is a woman inside… Mia.]
+
+Chris: Show me your hands! (via radio) Umber Eyes, this is Alpha. Where is Miranda right now?
+
+Ember Eyes: (via radio) Still at the ceremony site. Whatever she's doing, she's staying put.
+
+Chris: Goddamn. It really is you. I'm glad you're safe, Mia. Why are you here?
+
+Mia: I was caught…and used in experiments…
+
+Ember Eyes: (via radio) Wait, did you say Mia? Mia Winters?
+
+Chris: In the flesh. What's the situation up there?
+
+Ember Eyes: (via radio) Kind of a war going on. Nothing we can't handle.
+
+Chris: Don't get distracted. Stick to the mission. I'm headed to the ceremony site.
+
+Mia: Wait! You can't leave me here! You promised, dammit! You said you'd keep us safe! We did everything you asked. We moved over here, everything! And I didn't care, so long as we were together. (angerly) So you tell me, where is my husband? Where is my daughter!?
+
+Chris: Ethan is… He's gone. I couldn't save him. But I can save Rose.
+
+[An earthquake shakes the cups and bottles on the table.]
+
+Chris: Come on, it's not safe here after all.
+
+Mia: What do you mean, he's gone?
+
+Chris: He's dead. I'm sorry, Mia, but we have to leave. We have to destroy this village.
+
+Mia: No! You're wrong… I tried to keep this a secret, but… You don't understand how special he is.
+
+CHAPTER 10: Nothing But Mold
+[The screen goes black… Ethan slowly wakes up and stands from the snowy ground.]
+
+Ethan: What's going on…?
+
+[He hears a child’s laugh.]
+
+Ethan: Is someone… there? It's…cold… H-H-How d-did I get here? God… it's freezing… Shit… my body…
+
+[He falls again. He’s barely holding up.]
+
+Girl: You're so dumb.
+
+Ethan: Eveline? How are you here!?
+
+Eveline: You're dead.
+
+Ethan: Dead? I mean, Miranda, she—No, I still have to save Rose.
+
+Eveline: Wrong. It wasn't Miranda, you were always dead.
+
+Ethan: What are you saying? I can still…
+
+Eveline: See? Miranda didn't kill you. You mean you didn't think it was weird. No matter how much you got hurt? Remember?
+
+[Ethan recalls the events at Baker’s house.]
+
+Eveline: Three years ago, the Baker house. You were murdered by Jack. You died there, three years ago.
+
+Ethan: Th-That's impossible… No way…
+
+Eveline: You shouldn't even be able to walk around.
+
+Ethan: Quit messing with my head!
+
+Eveline:You. Shouldn't. Be. Walking.
+
+Ethan: (screams) Screw you! Then what am I? I…I did all that…
+
+[Eveline laughs.]
+
+Ethan: Rose… Mia… I…
+
+[He’s right hand decaying.]
+
+Eveline: Now do you get it? Your whole body is nothing but mold! (laugh) You can't ever see your family again.
+
+Ethan: Family? F-Family? No! Rose! I have to… save… my daughter!
+
+Eveline: You're already dead… dead! (laughs)
+
+Ethan: I… will… save… Rose!
+
+[The sun in the sky lights up in a bright flash when Ethan says these words. The screen turns white. Ethan awakes in The Duke’s wagon.]
+
+Duke: At last, he awakes!
+
+Ethan: Where am I?
+
+Duke: My carriage, Ethan. You were having a nightmare.
+
+Ethan: Duke?
+
+Duke: Your battle with Heisenberg was a sight to see, but to think Miranda would show herself…
+
+Ethan: How long have I been out?
+
+Duke: Not long 'till dawn.
+
+Ethan: Duke, I need a favor. Take me to Miranda.
+
+Duke: I assumed as much and am already on the way. We should arrive shortly.
+
+Ethan: Thank you.
+
+Duke: (laughs) But, Ethan, are you sure of this? Your body is, well, falling apart.
+
+Ethan: (squeezing his normal right hand) Yes.
+
+Duke: Foolish of me to ask.
+
+Ethan: Speaking of foolish questions, who-what are you?
+
+Duke: (laugh) Even I can't quite answer that! We're here.
+
+Ethan: I owe you one.
+
+Duke: Mister Winters, I'm afraid you can't return to your old world any longer… Are you ready?
+
+Ethan: Yeah. I have to be.
+
+[They arrive to the Ceremony Site. Ethan opens the door of the carriage.]
+
+Ethan: Ugh… I gotta go!
+
+[He buys some supplies.]
+
+Duke: Duke's Emporium has everything you need for your decisive battle. Oho, the assemblage of life and machine! I can feel Lord Heisenberg's essence through it. Amat victoria curam. (Victory loves preparation.) Please, be well.
+
+Ethan: Thanks.
+
+[He runs through the roots.]
+
+Ethan: I gotta keep… going…
+
+[He pushes up the roots and gets to a circular room with a small altar. Miranda. Talking to the sludge stain on it.]
+
+Miranda: Ah, little Eva! My beautiful daughter! Come to me.
+
+[A baby emerges from the sludge.]
+
+Miranda: Eva, is that you? Oh how I've missed you. —What?
+
+[She’s crying with a black sludge.]
+
+Miranda: My power is leaving me!
+
+Ethan: Rose! Miranda!
+
+Miranda: Interesting, your body certainly isn't normal.
+
+Ethan: Give Rose to me! Now!
+
+Miranda: You will see. Once I kill you properly, every—
+
+[Chris shoots Miranda in the head.]
+
+Chris: Get her! Now!
+
+[Ethan quickly takes the child from Miranda's arms. Miranda resurrects and tries to take the child back.]
+
+Ethan: Let go!
+
+Miranda: I've spent a lifetime creating this moment… …and you try to take it away from me? (shows her face stained with blood and sludge) I will take what is due. My desires will be fulfilled! (takes the child)
+
+Ethan: No!
+
+Miranda: Rose is mine!
+
+[She wraps herself with its roots and transforms.]
+
+Ethan: What the fuck!?
+
+[He shoots the witch.]
+
+Witch Miranda: You've fulfilled your purpose, Mr. Winters. You disposed of my false children and awakened the glorious Megamycete. Now, please do not worry for little Rose. I assure you I'll provide her with true happiness. So now you can die peacefully… and permanently.
+
+Ethan: I’m not letting you get away…
+
+Witch Miranda: You understand the love of a parent to her child, don't you? How can you deny me?
+
+Ethan: Why the hell can't you realize Rose is my goddamn kid, not yours?
+
+Witch Miranda: Your time is up! Now die! I shall put you to rest! The Megamycete saved me from the pits of despair! It granted me this splendid power!
+
+Ethan: Yeah, right. All it's done is drive you nuts.
+
+Witch Miranda: After all, everyone dies eventually. O great Megamycete, hear my prayer! None shall interfere in my grand designs! If I combine Rose with the Megamycete, my daughter will be made manifest at last! I've waited a century! A century! All for this day! For my daughter! Die… Why do you interfere? Surely you have no need of Rose now, so close to death?
+
+Ethan: She's my goddamn daughter, you psycho!
+
+Witch Miranda: Here I come! Such vitality… how disgusting. Will this kill you? Die! This is the end. Cease this foolishness! The villagers, these four new children… They could do nothing to assuage my years of loneliness!
+
+Ethan: Ever think the problem might be you, Miranda? You're not capable of real love!
+
+Witch Miranda: This is how you end, Ethan Winters! To ensure I never see your face again, I will feed you to the Megamycete. Every single cell of your being.
+
+[Ethan kills the witch.]
+
+Witch Miranda: My daughter… My Eva!
+
+[She turns into stone and the roots dissolve. Ethan runs to his daughter.]
+
+Ethan: Rose! Shhh-Shhh. It-it's all right, Rose. It's all right.
+
+[But… Ethan, too, begins to turn to stone and crumble. He falls to his knees.]
+
+Chris: (runs in) Ethan! Ethan! Come on, Ethan. Come on, Ethan, wake up!
+
+[The roots start growing again.]
+
+Chris: Oh no.
+
+Ethan: Chris…
+
+Chris: Ethan, you did it! It's finished.
+
+Ethan: I think we finished each other…
+
+Chris: Ethan, we've gotta move.
+
+[He helps Ethan to stand. They run out of the ceremonial site.]
+
+Chris: Keep moving, Ethan! There's a bomb in that thing that'll blow this whole village sky-high! Look at me! When I hit this trigger, we can't be anywhere near it! Dammit, Mia's waiting for you! She's alive, you hear me? Alive!
+
+Ethan: Mia…? I'm so sorry… I love you… Keep Rose safe.
+
+Chris: Hey, hey! Hey… You tell her yourself. Now come on, it's not that much further!
+
+Ethan: (give Chris his jacket, crying) Watch over her. Teach her to be strong…
+
+[He takes the detonator from Chris. Growing roots separate the heroes.]
+
+Chris: Goddammit.
+
+Ethan: (crying) Goodbye, Rosemary.
+
+Chris: Ethan…
+
+[He runs away. Ethan slowly walks toward the ceremonial site. He gathers all his will into a fist and presses the detonator. The scene switches to Mia. Chris enters.]
+
+Mia: Rose!
+
+[They get into a military helicopter.]
+
+Chris: Go. Go! Take us up, now!
+
+Mia: Wait! Where's Ethan!?
+
+Chris: Get moving. We have to get clear.
+
+Mia: No. We can't go! Not without my husband!
+
+Chris: Mia, sit down and strap in.
+
+Mia: Not before you tell me where Ethan is. I know he wouldn't abandon us! Tell me what's going on! Where—
+
+[A massive explosion shakes the helicopter.]
+
+Mia: What was that?
+
+Chris: I told you to sit down.
+
+Mia: No… Where is he? Chris? What have you done—?
+
+Chris: He’s gone! (punches the wall) I tried! He stayed so we could all escape. I'm sorry…
+
+Pilot: Captain, you need to see this. BSAA didn't send soldiers… This is a bioweapon.
+
+[He looks at a dead soldier… his skin is blue.]
+
+Chris: What the hell were they thinking?
+
+Pilot: Orders, Captain?
+
+Chris: Pick up the rest of the squad. Plot a course for BSAA Europe HQ. Someone's gotta pay.
+
+[The helicopter flies towards the sunrise.]
+
+THE END
+
+[On the credits screen Mia continues to read the story from the Village of Shadows book.]
+
+Mia: "Gifts we gave, but more you took," she snarled. "So more, in turn, is due." In a blink the girl was trapped inside a mirror. Her parents, though, had searched all day and, at last, arrived. With rampant rage, Father fought the Witch while Mother's loving touch shattered the dark enchantment. But the Witch was strong and Father yelled, "Save our daughter!" So Mother bore their child to safety as the forest was consumed. Even now, the burnt forest is a grim reminder of Father's sacrifice. To this day, any child who stares too long into the charred wasteland will be haunted by nightmares of getting lost while picking berries.
+
+[CREDITS ROLLS.]
+
+[A girl closes the book. She listens to her mother reading a story to her daughter.]
+
+Mom: Do you think the boy will be able to touch the moon?
+
+Daughter: Nobody can touch the moon. It's too far away.
+
+Mom: Wait, what if he has a rocket ship?
+
+Daughter: OK, then you could touch it. But it would be very, very cold.
+
+[The bus stops. We see it’s number - 8 ROWSPINE/SANTA—]
+
+Mom: You were being silly. I don't think the moon feels like a killer whale.
+
+Daughter: I think it does, but—
+
+[The girl walks out of the bus. She arrived at the cemetery. She is holding a bouquet of beautiful white flowers.]
+
+Girl: Hey Dad. Happy birthday.
+
+[The tombstone reads - ETHAN WINTERS a kind husband and loving father who put family before all else.]
+
+Girl: Sorry I missed last week. I have a lot of tests coming up. You know how it is.
+
+[Someone in a black SUV honks at her.]
+
+Girl: Talk of the goddamn devil. Duty calls. I love you.
+
+[She walks towards the SUV.]
+
+Man in Black: (via radio) Yeah, I found her… Where else? Today of all days. We have a situation. You're needed… Eveline.
+
+[The girl grabs the man in black by the tie.]
+
+Girl: (angry) Don't you ever call me that again.
+
+Man in Black: (scared) Whoa, whoa. It's just a joke, Rose.
+
+Girl: I can show you things even Chris doesn't know I can do.
+
+Man: (via radio) We have a clear shot.
+
+Man in Black: (via radio) Stand down. I can handle it. She's just a kid.
+
+Rose: (sits in the SUV) Way to keep it together, Rose.
+
+Man in Black: You're a lot like him, you know?
+
+Rose: (smiles) I know.
+
+[The SUV drives away.]
+==> Shadows of Rose DLC <==
+

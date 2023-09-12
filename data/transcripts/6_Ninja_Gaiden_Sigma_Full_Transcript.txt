@@ -1,0 +1,575 @@
+
+
+
+CHAPTER 1: THE WAY OF THE NINJA
+“In the mountains of Autumn, there is one who walks the path of the Ninja...”
+
+[GAMEPLAY]
+
+Ryu (looking at corpse): This Ninja had gaping holes in his defenses... He never would have been able to survive this world anyway.
+
+[GAMEPLAY]
+
+[The door to a sacred altar used to worship local deities. There doesn't seem to be any way to open it at this time.]
+
+[GAMEPLAY]
+
+Tip from Ayane: A Ninja must be able to find his way even when his path is blocked. When facing an obstacle, jump towards it and run vertically up its side until you can grab its upper edge. Move to the left or right and climb up or drop down.
+
+[GAMEPLAY]
+
+Tip from Ayane: Use the R3 button to enter first-person camera mode. A ninja must always be aware of his environment.
+
+[GAMEPLAY]
+
+Tip from Ayane: Don't underestimate the agility that your training has given you. Feats such as running along walls should be simple for you to perform. If you cannot reach your destination with a single leap, make use of the surrounding walls.
+
+[GAMEPLAY]
+
+Tip from Ayane: One of your most useful techniques is the Flying Bird Flip. Jump towards a wall and run up it. then jump off again. This allows you to travel to areas that may first seem unreachable. Repeat the Flying Bird Flip to climb certain shafts and passages.
+
+[GAMEPLAY]
+
+Tip from Ayane: Some ledges or platforms above you can be reached simply by jumping towards them and running straight up. A Ninja must know the appropriate technique to use in every situation. Remember that unnecessary acrobatics may backfire on you.
+
+Tip from Ayane: Deflect your opponents’ attacks by holding down the block button. You will not live long without a good defense.
+
+[GAMEPLAY]
+
+[A suit of armor of the type that is often used for ceremonies, it is not something that a Ninja would wear. A part of its faceplate is missing. It appears to be holding something...]
+
+[GAMEPLAY]
+
+Tip from Ayane: Use right and left on the directional button to select an item, and press down to use it. You may heal you wounds without taking your mind off of your task.
+
+[GAMEPLAY]
+
+[There is a message engraved on the tablet in the dragon's mouth]
+
+"The sacred underground paths of the Dragons record all that occurs In the world of men. We have not forgotten those who live on the surface of the Earth...”
+
+[GAMEPLAY]
+
+Tip from Ayane: While in a blocking stance, tilt the left stick to roll your body. This is called the Reverse Wind technique. With it you can avoid even the most fierce of enemy attacks.
+
+[GAMEPLAY]
+
+???: I see you have made it this far.
+
+[After battle]
+
+???: The Dragon Sword... so уоur father is still In the sacred wilderness.
+
+Ryu: Yes. He has entrusted me with the sword while he continues his training. He never seems satisfied with the power he wields.
+
+???: Someday you will come to understand the pursuit power. Perhaps beginning with your training here. And what of the sister blade, the Dark Dragon? Has he left you in charge of protecting it as well?
+
+Ryu: It remains in the village under the protection of my father’s clan. They will ensure that the sword remains untouched... Its dark power sealed.
+
+???: It is shame that such a sword must go untouched. Such power unused... Alas, I am not of the Dragon Lineage. The sword is not of my concern.
+
+Ayane: Master Murai! The Hayabusa village...! Master Ryu...
+
+[GAMEPLAY]
+
+CHAPTER 2: THE HAYABUSA VILLAGE
+“The village is burning. Before long, Ryu hears the screams of his brethren...”
+
+[Letter from Murai]
+If you wish to find the Dark Dragon, you must simply start killing. It is said that the Dark Dragon's power grows as chaos and destruction grow in this world. There is no need for you to spare the subjects of the Vigoor Empire. You go there for revenge, do you not? The Dark Dragon revels in killing and destruction, if you provide these things, it is certain to call out to you. That is your destiny as a Dragon Ninja. Be aware of this as you enact your revenge!
+
+Tip from Ayane: When entering water, continue to hold the left stick. You will run on the surface. You must perfect this skill. If you let go of the left stick you will fall in the water.
+
+[GAMEPLAY]
+
+Ayane: A dark samurai... Clad in black armor... Master Ryu... Do not attempt to fight it...
+
+[GAMEPLAY]
+
+[A statue of the diligent old man Muramasa, a legendary blacksmith. There are folk tales of people who have approached the statue and walked away with various items and weapons...]
+
+[GAMEPLAY]
+
+Murai: My network of Ninja have uncovered the reason for the attack. The samurai who burned the village was Doku, Lord of the Greater Fiends of the Vigoor Empire. It appears as though the Vigoor Emperor seeks the power of the Dark Dragon Blade.
+
+Ryu: Doku...
+
+CHAPTER 3: SKIES OF VENGEANCE
+“The Hayabusa Village has burned, and the Dark Dragon Blade is gone. Ryu has stowed aboard an Airship headed for the Vigoor Empire. His goal: vengeance...”
+
+Ayane: The Holy Vigoor Empire... a strange dictatorship veiled in secrecy. Its exclusionist foreign policy makes for very few ways to enter the country. One of the only remaining routes is by airship to the capital city of Tairon.
+
+Radio: We’ve received reports of a hostile malefactor crossing the Vigoor border. A search will be conducted immediately. Maintain course and velocity. I repeat, maintain current course and velocity.
+
+[TECHNIQUE SCROLLS]
+
+-COUNTER ATTACKS
+Contains the Counter Attack techniques "Gleaming Cross" and Fiend's Bane Kick" which allows Ryu to counter enemy attacks immediately after blocking them.
+
+-GUILLOTINE THROW
+Contains the technique "Guillotine Throw", in which Ryu grabs the enemy's neck while jumping and uses his momentum to toss the enemy for high damage.
+
+-IZUNA DROP
+Contains the technique "Izuna Drop", an air attack in which Ryu grabs his enemy in mid-air and slams them down on the ground for massive damage.
+
+Tip from Ayane: You must strengthen your weapon. Awaken its Inner power to a greater level, and you will be able to perform devastating new techniques.
+
+Tip from Ayane: When casting Ninpo, shake the controller. The force of this will add to the strength of your Ninpo attacks.
+
+[A report from a junior officer lies on the captain's desk]
+
+“This is regarding the incident on February 22nd in which all of the locks were deactivated. The source of the problem was found to be a malfunction of the primary power supply unit in the aft cabin. Voltage irregularities by the aging of the unit caused the failsafes to kick in, activating emergency power. In this type of situation, all locks aboard ship are de-activated as a safety measure. I recommend that we upgrade our electrical system as soon as possible.”
+
+The door is locked and won’t budge. There is a card slot next to the door. An ID Card of some sort must be necessary.
+
+CHAPTER 4: IMPERIAL CITY INFILTRATION
+“Ryu has escaped from the crash of the Airship. Spread out before him is the city of Tairon, capital of the Vigoor Empire...”
+
+Ayane: You must go now to Han’s Bar. You should be able to spot it easily due to its garish neon sign. Han's Bar is a well-known watering hole, as well as the center of Vigoor’s underground intelligence. There you may find clues about Doku’s whereabouts.
+
+Tip from Ayane: When in doubt, look to the color blue for the path.
+
+A group of Ninjas dressed in black garb act with wicked intent in Tairon. They are members of the Black Spider Clan, and they act behind the scenes to hinder our progress. Do not let them leave Tairon alive.
+
+[The History of Vigoor I]
+...ever since, these monsters have come to be known as Fiends. The majority of them are mutations of human beings, existing in a condition of living without a soul due to their of corruption by evil...
+
+[The History of Vigoor II]
+...however the extraordinary power of the Fiends is incomparable to that of humans; in fact the highest level of Fiends exists in a state that can only be described as having transcended physical boundaries of form. Looking back through the pages of history, it is quite probable that many of the most powerful members of the Vigoorian ruling class in fact belonged to this classification. It is not surprising, then, that the Fiends have been seen as gods...
+
+[The History of Vigoor III]
+...it is said that sometimes Fiends may rise up from dead bodies; in fact there Monks of the Vigoor Order during Middle Ages who labored for years to recreate this phenomenon...
+
+[The History of Vigoor IV]
+...the vast majority of records dealing with the Fiends date from the Middle Ages or earlier. During recent times the Fiends have greatly decreased in numbers; so much so that for member of the general Vigoorian public to come into contact with a Fiend has become an extremely rare occurrence...
+
+Soldier on motorcycle: Do you have a ticket for the party?
+
+Rachel: I'm Rachel, hunter and slayer of Fiends. So that was a Fiend. You don't see them much nowadays... It’s hard to believe they were ever human, isn't it?
+
+Ryu: Human?
+
+Rachel: Anyone with susceptibility to the curse, whether they are a saint or a sinner, can succumb to it and become a Fiend.
+
+Ryu: So what does that make you?
+
+Rachel: Complex. And you?
+
+Ryu: I'm looking for a Greater Fiend named Doku. Do you know him?
+
+Rachel: Why are you looking for him?
+
+Ryu: I’m going to kill him.
+
+Rachel: You have no idea what you're up against do you? If he could be killed I would have done it myself long ago. He was the one that took my sister from me. (hears something) It’s gonna be a busy night.
+
+???: You seem to have quite a way with the ladies, my friend. Don’t mind me, I’m just passing by. By the way, Good luck with that Doku guy. Sounds like you're going to need it. Oh, and I know Rachel quite well. She'll be just fine.
+
+CHAPTER 5: THE FIEND HUNTER
+“Searching for the whereabouts of her twin sister, Rachel the Fiend Hunter heads alone to the Dworku Monastery. She senses the presence of Fiends lurking In the shadows...”
+
+[GAMEPLAY]
+
+Rachel: In an age when chaos ruled all, the bloodlines of all the Ancient Tribes were mixed, and their traits were passed on to the Fiends. Then there were the twin Fiend sisters: Nicchae, Fiend of Destruction, and Ishtaros, Fiend of Creation. The bloodline they began invited the Awakening of an entire new race of Fiends. Those who have Awakened to become Fiends may only find freedom in death. Only in death...
+
+[GAMEPLAY]
+
+CHAPTER 6: THE CITY OF FIENDS
+“Tairon Is full of mysteries: strange creatures called Fiends and Rachel the Fiend Hunter. However, Ryu still has no clues to the whereabouts of Doku...”
+
+[GAMEPLAY]
+
+Tip from Ayane: If you wish to follow Doku, first investigate the Monastery. It is located in the Dworku district across the drawbridge.
+
+[The Emperor, Lord of All Creation]
+...the Vigoor Emperor is the figurehead of the commoners, and his absolute authority as the Holy leader of our Vigoorian Order cannot be denied. He controls all, physical and ethereal, regardless of time or place…
+
+[GAMEPLAY]
+
+Tip from Ayane: I have brought a legendary weapon to Tairon, a weapon known only by a select few. I have hidden It in a dark alley, in a location where only a Ninja will be able to reach it. I suggest that you find it and make use of it.
+
+[GAMEPLAY]
+
+Tip from Ayane: Run along the wall, jump to another wall, and keep running to reach higher areas. This is the continuous wall running technique. Practice until yоu have perfected it.
+
+[GAMEPLAY]
+
+Rachel: Not bad. So what exactly are you? You’re much more powerful than just a human.
+
+Ryu: My strength comes from training, not from some curse in my blood.
+
+Rachel: Are you so sure of that? I was convinced once that my blood was pure... but then I saw what my pure blood was capable of. I watched as my twin sister was cursed and twisted into a Greater Fiend. Now I know the path I walk is narrow.
+
+Ryu: Doku.
+
+Rachel: Не led her down the path of evil, and she succumbed. Fiends are pitiful beings, destined to live forever, slaves to the forces of evil. And there is only one way to release them...
+
+Ryu: ...to kill them.
+
+Rachel: That’s why I became a Hunter, to kill my sister, to kill Alma. Beneath this monastery, there is...
+
+[GAMEPLAY]
+
+Ryu: Was that a Fiend as well?
+
+Rachel: I’ve never seen one like that before... something’s strange... there’s so many of them...
+
+Ryu: Ayane. Running errands for Murai again. I see.
+
+Ayane: The boldness of the Fiends is the work of the Dark Dragon. It is a cursed blade, bestowing an unfathomable strength on those wicked enough to wield it. As we speak, its power is growing.
+
+Rachel: That would explain the stirring in my blood...
+
+Ayane: Blood. It dominates all humankind, assisted by the power of the Fiends.
+
+Ryu: Ayane, take care of Rachel.
+
+Ayane: Understood.
+
+Rachel: Ryu! I’ve heard there is a hidden path under the Monastery that leads to the Emperor’s Palace! Doku will also be there...
+
+Dark Disciple: Gamov... so the Dark Dragon grows in power with each killing.
+
+Gamov: Of that there is no doubt, My Excellency.
+
+Dark Disciple: Then I have arrived just in time.
+
+Gamov: Yes. My Excellency. As always provide you with only the most reliable information.
+
+Dark Disciple: The Blade grows stronger and faster than I had expected.
+
+CHAPTER 7: THE MONASTERY
+“It is said that there is a secret path leading to the Palace of Zarkhan underneath the Dworku Monastery...”
+
+[GAMEPLAY]
+
+[THE DIARY OF THE INCREDIBLY DUMB MONK]
+
+FIRST COMBINATION:
+A diary written by a monk: "It is the 27TH day of the 12TH month, I have received the Book of the Eons as a birthday gift from His Majesty the Emperor. It is a great honor. I shall place it in the safe that no one will take it." At the end of the entry, there are notes reading LEFT, RIGHT, RIGHT, LEFT.
+
+SECOND COMBINATION:
+On the last page there is a hastily scribbled message: "I cannot believe it. Someone has opened the safe. The Book of the Eons I had received from the Emperor himself was stolen. In order to prevent this from ever happening again, I shall change the combination. The date of my daughter's birthday should suffice." At the end of the message, there are notes reading RIGHT, LEFT, RIGHT, LEFT. A message was found on one of the previous pages: "It is the 14TH day of the 10TH month, my beloved daughter's birthday. I remember her birth as if it were yesterday. What a glorious event that was!"
+
+THIRD COMBINATION:
+On the last page there is yet another scribbled note: "My safe has been tampered with again! I have no choice but to change the number once again; this time I shall use my granddaughter's birthday. December 23RD, yes, I think that's right. No one will break into my safe again!" At the end of the entry, there are noted reading LEFT, LEFT, RIGHT, LEFT.
+
+LAST COMBINATION?
+On the last page, there a faint barely readable entry: "That safe is worth about as much as a dog turd."
+
+[GAMEPLAY]
+
+Ryu: Chilly air can bу left from below. Could this be related to the underground passage that Rachel spoke about?
+
+[GAMEPLAY]
+
+[A giant switch is embedded in the floor of the shaft. A strong impact with a weapon should be able to depress it.]
+
+CHAPTER 8: ALMA, GREATER FIEND
+“Rachel continues searching for her sister in Vigoor’s capital. She is suddenly confronted by an inhuman form: Alma the Greater Fiend finally makes her appearance...”
+
+[SUKE’S DIARY]
+
+January 24th
+The woman that I saw tonight in Vigoor... she was extremely beautiful... I must persevere to keep my wits about me. Perseverance... patience...
+
+February 2nd
+I encountered her again. That woman slays the beasts as if they were flies. The vicious way she fights is so unlike her beautiful appearance. A perfect example of extreme intensity... she is no ordinary female.
+
+February 6th
+During a fight with the MSAT I slipped up and suffered a grave injury. I cannot reach my Black Spider brethren, my provisions are almost all gone, and my life is near its end. Death during an assignment is the wish of every Ninja, but we still have no clues regarding what happened to the evil Dark Dragon Blade. That is my only regret. All that is left is for me to trust my comrades, and accept these last painful moments as my destiny...
+
+February 7th
+Although I have become so weak, I still await my death. Although I know It Is only a matter of time before I perish, I wish I could glimpse that woman one more time...
+
+[GAMEPLAY]
+
+Gamov: So strong! So beautiful! How wonderful both of you sisters are!
+
+Rachel: Gamov!
+
+Gamov: Oh yes... The older one has quite a temper. Alma is such a nice and innocent girl. Lord Doku seems to be quite pleased with her.
+
+Rachel: You bastard!
+
+Gamov: It seems my evaluation was correct, as always.
+
+[GAMEPLAY]
+
+Rachel: Alma!
+
+CHAPTER 9: HIDDEN UNDERGROUND
+“A dark underground world, leading deeper and deeper. Does the path to Zarkhan truly exist?”
+
+[GAMEPLAY]
+
+Tip from Ayane: When underwater, pay close attention to the breath gauge. If you run out of breath your strength will soon be sapped.
+
+[TARO'S DIARY]
+
+January 28
+I have not seen the young one, Sabu, for several days now. It worries me, seeing as he is so inexperienced.
+
+February 5
+I have heard nothing from Suke yet. I do not believe that a Ninja as powerful as he could have been defeated. However, the unstable look on his face the last time we met was very much unlike his usual manner.
+
+February 8
+I was able to track down Doku, the Lord of Greater Fiends, but I was unable to lay even a finger on him. Burned by an evil blue fire, I accepted my fate. The blade gripped in the hands of that devil was none other than the Dark Dragon Blade, the artifact that, for 450 years, our Black Spider Clan has been searching for. My brothers, hurry! You must not allow the young Hayabusa to possess that awful power...
+
+[GAMEPLAY]
+
+Tip from Ayane: The place reeks with stench of a powerful Fiend. Do not let it overcome you... and be careful.
+
+[GAMEPLAY]
+
+Rachel: I couldn't do it... I can't kill my own sister...
+
+Radio: Internal Affairs National Security Forces:The Dworku Monastery has been attacked and has suffered extreme damage. Request full alert throughout Tairon. The dispatch order has been received from Tairon High Command. This is a Code Orange situation. Set up a curfew for all civilians. Request available information on the target. No new information at this time.
+
+Ryu: So, the Greater Fiends have a soul, don’t they?
+
+Rachel: Yes...
+
+Rachel: They are the ones who retain a spirit even after becoming Fiends. There are only 3 of them: Doku, my sister and another who guards the Emperor.
+
+Ryu: It's not safe for you to be around me. You should go now.
+
+The Dark Samurai: Aah, Rachel. I should kill you now for the pain you have inflicted on Alma, but instead I shall use you to make her even stronger. It will be your blood. The cursed blood of a twin sister, that shall serve to awaken Alma. It is a shame such a fine specimen has to go to waste... you might have become more powerful than even Alma... but no longer...
+
+CHAPTER 10: TAIRON UNDER ALERT 
+“The battle with Rachel's sister, the Greater Fiend Alma, ended without a victor. However, the aftermath of the battle has caused the Vigoor Army to be deployed...”
+
+Tip from Ayane: Tairon is now under alert. You are completely surrounded and the situation is grave, but you should bo able to disrupt the military's organization by attacking the Radio Control Tower next to the Military Supply Base. To reach the Supply Base, you must first cross the drawbridge. That is where your path should lead you.
+
+CHAPTER 11: THE MILITARY SUPPLY BASE 
+“The Vigoor Army is after a renegade element, Ryu. The Military Radio Tower is key to the Army’s organization...”
+
+Tip from Ayane: The military’s communications are down and their organization is in shambles. Now is the time to escape the base. Resistance around the train turntable is low and it is the perfect time to steal a train. The rail runs through the Dworku district!
+
+Tip from Ayane: Your path lies this way.
+
+CHAPTER 12: THE AQUADUCT
+“The Army's organization has crumbled; there is no need for Ryu to stay in the now-silent capital...”
+
+Tip from Ayane: You will soon come to the end of this underground maze. From this point on, carelessness brings only death.
+
+CHAPTER 13: THE PATH TO ZARKHAN
+“Using the Aquaduct, Ryu has arrived at the moat surrounding Zarkhan. However, a great wall blocks his path into the Palace itself...”
+
+Doku: Aaa, the failed protector of the Dark Dragon. Must I take your life yet again?
+
+[SABU'S DIARY]
+
+January 5
+I can't believe my first mission as a full-fledged Ninja is something so important! I feel the pride and honor of the Black Spider Clan. I\'m going to distinguish myself here and rise through the ranks.
+
+January 20
+I think I might not be cut out to be a Ninja...
+
+January 25
+Dear Mother, I have no more strength left, and I will die here, in this forsaken place. Although Ninja are taught patience and perseverance even in the face of death, I just don\'t want to die. Please, please, please...
+
+[GAMEPLAY]
+
+Ryu: Where is the Dark Dragon!
+
+Doku: It Is in the hands of the Holy Vigoor Emperor, your true master. You see, young Ryu, you are not so different from us. Those of the Dragon Lineage like yourself draw their blood from the same Ancient Deities as the Fiends. You most of all should know that your true place is at the Emperor's side. My hatred will not so easily defeated! I will bring about the Awakening! Pitiful woman... your sister must be quite precious to you...
+
+Rachel: The Fiendish... Awakening...
+
+CHAPTER 14: THE ANCIENT TWIN DEITIES
+“Rachel follows Lord Doku, who now takes the form of a vengeful spirit... As she enters the torn fabric of space and time, what horrors await her?”
+
+[GAMEPLAY]
+
+[The surface of the pedestal contains a depression. It looks like was meant to display a tablet of some sort.]
+
+[GAMEPLAY]
+
+CHAPTER 15: THE CAVERNS
+“Although it appears as though Ryu defeated Doku, his vengeance is still incomplete. The Dark Dragon in the hands of the Holy Vigoor Emperor. What will become of Rachel and her sister?”
+
+[GAMEPLAY]
+
+[The Corpse of a Ninja, killed before he was complete his mission. He holding something... (Saru’s Diary)]
+
+[SARU'S DIARY]
+
+February 3
+Everyone here trembles in fear. We witness a person turning into a Fiend. What is happening in this place? Even a Ninja as experienced as myself has no hope against these beasts…
+
+February 10
+I have discovered that the mastermind behind the plot to steal the Dark Dragon Blade is none other than the Holy Vigoor Emperor. Like our master, the Emperor must also be plotting to so something with the Blade...
+
+February 12
+What a disaster… the Dark Dragon Blade is cursed. I have been defeated, not by the enemy, but by the curse...
+
+[GAMEPLAY]
+
+A metalworking mold in the shape of a cog.
+
+A blasting furnace is visible beyond the wall.
+
+[GAMEPLAY]
+
+All the pieces of the stone tablet have now been found. This complete tablet can be placed on the pedestal at the Twin Serpents Plaza in Tairon.
+
+[GAMEPLAY]
+
+[The mold on the other side of the wall has been filled with molten iron.]
+
+[GAMEPLAY]
+
+CHAPTER 16: THE FIENDISH AWAKENING
+“All events thus far have lead up to one place: the depths of the Palace of Zarkhan. Will Ryu be able to discover the path inside?”
+
+[GAMEPLAY]
+
+[The corpse of a Ninja, killed before he was able to complete his mission. He holding something... (San's Diary)]
+
+[SAN'S DIARY]
+
+January 30
+I have gathered some new information. According to the ancient legends of this place, "he who offers the lost stone tablet to the Twin Serpents may gain entrance to Zarkhan." The tablet, now apparently split into three pieces, is said to have been scattered throughout Vigoor. I was able to learn the locations of the pieces: One is at the Twin Serpents Plaza in Tairon. One is in the Archive on the Monastery. One is near the Stone Circle in the Magma Cavern. I must gather the fragments and then begin my approach to Zarkhan.
+
+February 5
+I'm hungry… (yes that's what it says!)
+
+[GAMEPLAY]
+
+Dark Disciple: Where is Ryu?
+
+Gamov: He's wandering around here somewhere, My Excellency. Who knows what he's up to...
+
+Dark Disciple: And the Dark Dragon?
+
+Gamov: To put it simply, it seems that the Dark Dragon, now free of its seal, is gradually absorbing the chaos of the battlefield and becoming a truly evil blade. It is not surprising that we did not know its true capacity, as the Ancients were so careful to conceal it. Now it is a weapon of extraordinary power, the likes of which have never been seen throughout human history. Whoever posses it...
+
+Dark Disciple: Do I sense greed in your voice?
+
+Gamov: Of course not, Excellency.
+
+Dark Disciple: Good, that is wise. You will be rewarded handsomely, I assure you.
+
+[GAMEPLAY]
+
+[The message engraved on the tablet is now complete.]
+
+“Offer me up before the twin-headed serpent; use me as a key to open the path. There is another who travels the paths formed in the bowels of the Earth by Dragons. These paths together far away places, making them but a few steps away.”
+
+[GAMEPLAY]
+
+Doku's Spirit: Alma... with your own flesh and blood as sacrifice, receive now the Awakening! Now, the time of the Awakening is truly at hand!
+
+[GAMEPLAY]
+
+Rachel: Al.. ma..
+
+Doku's Spirit: This is not over.
+
+CHAPTER 17: VENGEFUL SPIRIT
+“The fate of the sisters has been decided. Ryu now head to the depths of Zarkhan, determined to fulfill his vengeance one and for all...”
+
+[GAMEPLAY]
+
+Marbus: Welcome to the hellish depth of the Fiend Realm. The question is: "Can you defeat me?"
+
+[GAMEPLAY]
+
+Tip from Ayane: Ancient fish like a shrouded phantoms: you must harness the fury of your Flail to destroy them. Just remember to keep you wits about you.
+
+[GAMEPLAY]
+
+[The corpse of a Ninja, killed before he was able to complete his mission. He is holding something... (Gen's Diary)]
+
+[GEN'S DIARY]
+
+January 14
+I have arrived in Vigoor in search of the Dark Dragon Blade, leading a group of my comrades.
+
+February 18
+I have succeeded in infiltrating the Imperial Palace. I must accept that my comrades have all been slain...except for Dai, yes, he must certainly still be alive. I am sure he is hurrying to meet me at this moment, with the key to the Palace Core firmly I hand. I must join up with Dai as soon as possible, then plan out our attack on the Emperor.
+
+February 29
+While it may be true that the Dark Dragon Blade is formed out of dragon bones, one of the greatest delicacies in the ancient world, our master's plan to grind it up and use it for herbal tea is ridiculous. Of course I cannot tell anyone this, and therefore I must take this laughable secret with me to the grave...If we are forced to die for such goals as this, our Black Spider Clan will not last much longer. The Vigoor Emperor will gather his power and become the Devil on Earth, enslaving the human race for millennia to come...I have not been able to contact Dai, but it does not matter. His fate must be similar to mine...
+
+[GAMEPLAY]
+
+Doku's Spirit: Receive the curse. Become a Fiend...
+
+CHAPTER 18: THE CORE
+“Doku's hate continues to slowly transform Ryu into a Fiend. Feeling the blood of the Fiends pounding in his veins, the Dragon Ninja stands before the gates to the source of all evil, the Core of the Imperial Palace!”
+
+[GAMEPLAY]
+
+Ninja: So... you are... Ryu Hayabusa... Over the corpses of my Black Spider Clan brethren, I was able to make it this close to the Core. But I can not go on. Though it dishonors me, I give you this... Go to the Core. You must reclaim Vigoor. The equilibrium is collapsing... Master, I have failed... Forgive me...
+
+[This Ninja looks like he has survived many battles. Who could have injured such a man so badly... He holding something... (Dai's Diary)]
+
+[DAI'S DIARY]
+
+February 1
+As a member of the Black Spider Clan, I will fulfill my mission and gain the respect of our clan leader. I have promised so to Gen, and I will not break that promise.
+
+February 21
+I have been badly wounded, but I have obtained the key to the Core. I do not have much longer; I must get this to Gen...
+
+February 29
+With this last bit of strength in me, I have made it this far. However, I cannot find a way to pass though this door...
+
+[GAMEPLAY]
+
+Ayane: What will he discover at the end of his journey? Appeasement for his vengeful heart? Or something else... The true battle is only just beginning...
+
+[GAMEPLAY]
+
+Marbus: My servants, return from the Underworld, and take care of this puny insect once and for all!
+
+[GAMEPLAY]
+
+Marbus: You're as weak as I thought.
+
+[GAMEPLAY]
+
+Marbus: How do you like this?
+
+[GAMEPLAY]
+
+Marbus: That's it, it's time for me to take you on personally!
+
+[GAMEPLAY]
+
+Holy Vigoor Emperor: Enough of this, your insignificant life ends here.
+
+[GAMEPLAY]
+
+CHAPTER 19: THE DARK DRAGON BLADE
+“Ryu has defeated the evil Vigoor Emperor, and the Dark Dragon Blade is out of the reach of the Fiends. Now, Ryu must quickly escape the depths before the caverns come crashing down on him!”
+
+[GAMEPLAY]
+
+Rachel: Ryu! Ryu!
+
+[GAMEPLAY]
+
+Dark Disciple: Ryu, I expected nothing less! However, the power of the Dark Dragon is wasted on you!
+
+Gamov: Don't you see? The Dark Dragon is now truly an evil blade. His Excellency the Dark Disciple has been waiting for this very moment!
+
+Dark Disciple: You've done well, Gamov.
+
+Ryu: Murai.
+
+Murai: The Dark Dragon is mine! No objection, I presume...
+
+[GAMEPLAY]
+
+Rachel: Ryu...
+
+Ryu: It's over...
+
+THE END
+
+The story continues in
+Ninja Gaiden Sigma 2
+

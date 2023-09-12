@@ -1,0 +1,64 @@
+
+
+
+“In America”
+
+[Opening. A lone wayfarer and his white horse walk slowly towards a small town on the frontier. As he walks, a text appears on the screen.]
+
+“The year was 1849, in the small town called Hicksville where the pioneers worked hard during the Gold Rush Era. One day a group of outlaws known as the Wingates came into town, killed the sheriff, and took over the town. The Wingates raided the town everyday and terrified the people of Hicksville. Then came a lone gunman, in the windy afternoon with a sunset behind him, to save the town to ave the people of Hicksville from the Wingates.”
+
+TOWN OF HICKSVILLE
+
+Bandit Bill
+Weapon: Rifle
+Reward: $10000
+
+[The Lone Gunman walks through town shooting bandits with two pistols. Soon Bill himself comes out into the noise. He turns out to be cunning and lies down on the ground as the Gunman returns fire. However, the Gunman still manages to kill him.]
+
+THE BOULDERS
+
+Cutter
+Weapon: Boomerang
+Reward: $12000
+
+[The Lone Gunman goes out on the prairie. There, bandits with dynamite are waiting for him, as well as agile, jumpy gunfighters. The Gunman takes out his shotgun and quickly dispatches them. Soon Cutter comes out to the Gunman with two boomerangs in his hands. The Gunman pulls out two machine guns and quickly kills him before the boomerangs turn him into mincemeat.]
+
+COMANCHI VILLAGE
+
+Devil Hawk
+Weapon: Fire Ball
+Reward: $25000
+
+[After leaving the prairie, the Lone Gunman finds himself in the village of Comanchi. The Indians are very unfriendly to the representative of the people who enslaved them, so they begin to communicate with weapons. Soon the Lone Gunman finds their leader. The chief of the tribe shoots several fireballs, but the Gunman deftly dodges and kills him.]
+
+DEATH MOUNTAIN
+
+Ninja
+Weapon: Darts
+Reward: $20000
+
+[After leaving the village and climbing the mountain, the Lone Gunman encounters unexpected enemies - Japanese ninjas. They have fortifications in the mountain from which they shoot at him with dart tubes. Because of the mountainous terrain, there is little room for maneuvering. Soon the Gunman encounters the clan leader. The Ninja is able to disappear into thin air and move quickly, but the Gunman’s marksmanship leaves his enemies no chance.]
+
+CHEYENNE RIVER
+
+Fatman Joe
+Weapon: Bomb Gun
+Reward: $20000
+
+[The Lone Gunman walks along narrow forest paths and bridges over the river. Bandits are everywhere and the Gunman's finger won't move from the trigger. He finds Fatman Joe at the exit of the forest. Fatman Joe actively shoots bombs, but he is clumsy and the Gunman easily stuffs him with bullets.]
+
+FORT WINGATE
+
+Wingate
+Weapon: Machine Gun
+Reward: $30000
+
+[The Gunman slowly treads the abandoned fort. Around him are tombstones and there is a dark and mysterious atmosphere. Bandits are crouching around every corner and peeking out of every window. At the far end of the fort the Gunman meets his main enemy. Wingate is armed with a machine gun and actively uses it. His thugs don't stand by and do everything they can to kill the Gunman. However... he is more nimble. He kills the thugs and shoots the bandit terrorizing Hicksville right in the head.]
+
+“Gunman who arrived with a sunset into the town of Hicksville has defeated the Wingates. His bravery and skill has saved this town. Long after the Gunman left the town, people in Hicksville still remembers one brave gunman.”
+
+“The beautiful sunset still reminds people of one brave gunman and how he saved the town of Hicksville.”
+
+[CREDITS]
+
+THE END

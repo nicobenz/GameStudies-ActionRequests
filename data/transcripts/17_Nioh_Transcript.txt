@@ -1,0 +1,929 @@
+
+
+
+To the far cast lies [[wikipedia:Names_of_Japan#Jipangu|Zipangu]], a land brimming with golden palaces and sparkling jewels. [[wikipedia:Kublai_Khan|Kublai Khan]], ruler of the [[wikipedia:Mongol_Empire|Mongol Empire]], sent a [[wikipedia:Kublai_Khan#Invasions_of_Japan|large army there]], but the warriors of [[wikipedia:Names_of_Japan#Jipangu|Zipangu]] used "miraculous stones" to put up a strong defence.
+"[[wikipedia:The_Travels_of_Marco_Polo|The Travels of Marco Polo]]"
+Chapter 6, 174-175
+[Cutscene - Opening]
+The country of Japan finds itself in ruins, as endless wars have led the land being overrun by malevolent demons known as [[wikipedia:Yōkai|yokai]]. With the land divided into two fractions by the [[wikipedia:Battle_of_Sekigahara|Battle of Sekigahara]], a blond haired, blue-eyed samurai named [[wikipedia:William_Adams_(sailor)|William]] looks to make his mark.
+
+[Cutscene - Prologue]
+At the end of the 16th century, England and Spain are locked in a struggle for control of the world. Eventually, they come to leam of the existence of special stones known as [[wikipedia:Amrita|Amrita]], which contain a unique spiritual power that can mean the difference between victory and defeat.
+
+William: [[wikipedia:Amrita|Amrita]]. Some call it a miraculous stone, the [[wikipedia:Philosopher's_stone|Philosopher's Stone]]… The [[wikipedia:Elizabeth_I_of_England|Queen of England]] remains locked in combat… with Spain - the country where the sun never sets - for control of the entire world. Her forces weekend with every battle, the queen and her inner circle turned to deviation and alchemy, hiring pirates like us to find [[wikipedia:Amrita|Amrita]] for them. With that power, they managed to defeat the Invincible [[wikipedia:Spanish_Armada|Spanish Armada]]. But now it seems they want to keep their methods a secret.
+
+“The [[wikipedia:Tower_of_London|Tower of London]] is an imposing fortress built by [[wikipedia:William_the_Conqueror|King William the 1st]] in order to keep London safe. It has since gone on to be used as a prison for traitors and execution grounds for criminals. Londoners believe that if the many crows living within its walls were to abandon it, the tower would collapse and London itself will be destroyed.”
+
+[Cutscene - Prisoner of Fate]
+England [[wikipedia:1597|1597]]
+[[wikipedia:William_Adams_(sailor)|William]] finds himself locked away in a dungeon cell located beneath the [[wikipedia:Tower_of_London|Tower of London]]. The Guardian Spirit known as Saoirse appears to warn him of setting in motion a chain of events that take [[wikipedia:William_Adams_(sailor)|William]] on an ill—fated adventure.
+
+Saoirse: Death comes for you.
+
+William: ...It seems death won't stop chasing me.
+
+APRIL 1598
+[[wikipedia:Tower_of_London|TOWER OF LONDON]]
+ENGLAND
+
+[The hero leave his cell and explore the Tower.]
+
+Saoirse: [[wikipedia:William_Adams_(sailor)|William]], this way!
+
+[Battle with Derrick the Executioner.]
+
+Hooded man: Ah, it’s you. The man with the Guardian Spirit.
+
+William: If I die the secret of the stones dies with me.
+
+Hooded man: Let me show you what these stones can do. Behold.
+
+BACKGROUND
+[The Black Tower]
+From the time of its creation, the Tower of London has served as both home for Britain's rulers and execution grounds for its criminals. In more recent times it has also become inhabited by large numbers of ravens, ever since it became prohibited to kill them within the Tower. The reason: a certain wizard proclaiming that the killing of crows and ravens would lead to the destruction of England itself Now, every inch of the Tower is riddled with the birds, giving the entire area an eerie, unsettling air.
+
+[Entertainment For The People]
+The citizens have little in the way of leisure activities. Their greatest entertainment takes the form of public executions of criminals. Whether young or old, rich or poor, not a soul in England would spare mercy for those held captive in the Tower of London. With a great hock of meat in one hand and a mug of ale in the other, they would cheer ecstatically when a criminal met his bloody end.
+
+[Cutscene - A Deadly Encounter]
+[[wikipedia:William_Adams_(sailor)|William]] defeats Derrick the Executioner, but is immediately confronted by [[wikipedia:Edward_Kelley|Edward Kelley]] the alchemist. Using the power of the [[wikipedia:Amrita|Amrita]] to perform his mystic arts, Kelley resurrects Derrick and commands him to attack [[wikipedia:William_Adams_(sailor)|William]].
+
+Edward Kelley: It's time for your execution.
+
+[ [[wikipedia:William_Adams_(sailor)|William]] defeats resurrected Executioner with the power of [[wikipedia:Amrita|Amrita]]. In the meantime [[wikipedia:Edward_Kelley|Edward Kelley]] steals [[wikipedia:William_Adams_(sailor)|William]]'s spirit, Saoirse.]
+
+Edward Kelley: So this spirit guide me to the kingdom of gold…
+
+[Cutscene - The Abduction of Saoirse]
+Drawing upon the power of Saoirse. [[wikipedia:William_Adams_(sailor)|William]] is able to defeat the demonic Derrick for a second time. However, in the confusion, Saoirse is taken prisoner by [[wikipedia:Edward_Kelley|Kelley]]. Unarmed and finding himself trapped by the tower guards, [[wikipedia:William_Adams_(sailor)|William]] leaps from the Tower of London into the icy waters of the Thames below.
+
+William: Death is an entry to life.
+[Cutscene - Voyage of the Liefde]
+[[wikipedia:William_Adams_(sailor)|William]] sets out after [[wikipedia:Edward_Kelley|Kelley]] in order to rescue Saoirse. Once aboard the Dutch merchant ship known as the Liefde, [[wikipedia:William_Adams_(sailor)|William]] follows a mystical compass that contains a faint trace of Saoirse's power. After a journey spanning multiple years, [[wikipedia:William_Adams_(sailor)|William]] finds himself in a faraway land to the east known as Japan.
+
+William: The journey was not an enjoyable one. During two years’ of voyage, the Galoof (Faith) was lost, the Trouw (Loyalty) sank, while Hoope (Hope) vanished without a trace. The good news of the Blijde Boodschap (gospel) was nothing but lies… Only Liefde (Love) remained. An ironic twist, for what awaited as in the Far East wasn't love. It was monsters and death.
+
+[[File:nioh-logo.png|350px]]
+William: Before begin my preparations for landfall, I leaf once more through that curious book I had chanced upon. Recorded inside are the memoirs of a sailor who had once paid visit to the land of [[wikipedia:Names_of_Japan#Jipangu|Zipangu]]. Precisely how this document wound up in the hold of this ship when its author clearly belonged to the crew of different boat is beyond me. But here I am, poring over its pages all the same; and not for the first time this voyage, I may add. What fascinated me above all else were the memoir's many accounts of [[wikipedia:Names_of_Japan#Jipangu|Zipangu]]'s diverse armor and weaponry.
+
+[We choose our first weapon.]
+
+William: The sailor from the memoir seems to have spent quite some time in [[wikipedia:Names_of_Japan#Jipangu|Zipangu]], and succeeded in keeping the company of samurai. He writes in detail of establishments in [[wikipedia:Names_of_Japan#Jipangu|Zipangu]] called “dojo” where people, including samurai congregate for instruction in the martial disciplines ust reading the sailor's vivid accounts, I feel as though I am there in the flesh, watching these warriors as they train. The samurai is master of many armaments, and trains for combat in every imaginable scenario. If I were to use another weapon, which one would I choose?
+
+[We choose our second weapon.]
+
+William: The memoir also asserts that the samurai are knowledgeable in the martial arts. First, they know which fighting stance to use in each situation high mid or low. Second, after each attack they ready themselves for their next strike by focusing their Ki, or inner energy. Third, once their Ki is readied the samurai can use purification techniques to rid their surroundings of malevolence. I know not how to explain it, but I feel as though I have some innate ability to grasp all these concepts and hne experimented many times with each technique.
+
+William: The memoir states [[wikipedia:Names_of_Japan#Jipangu|Zipangu]] is home to eight million gods and other deities. Exactly how this figure was derned can only imagine, but as I cast my gaze to the shore. I am struck by the sensation that some mystical power has beon keeping watch over me. It is an energy that reminds me of Saoirse. I pull out the memoir once more, and survey each page until I arrive at the Guardian Spirit that best matches force I am sensing.
+
+[We choose our Guardian Spirit.]
+
+William: The dinghies have been readied for us to make landfall. For all I have read on this country, nothing can truly prepare me for what now lies ahead I put the memoir down, and leave my cabin.
+
+[Cutscene - Shipwrecked in a Strange Land]
+With the Liefde moored offshore, [[wikipedia:William_Adams_(sailor)|William]] takes a small skiff to the island's sandy shores. Upon his arrival, he sees some corpses belonging to the islands natives, their bodies covered with some kind of grotesque creatures.
+
+==KYUSHU REGION==
+===MAIN MISSIONS===
+APRIL 1600
+[[wikipedia:Usuki,_Ōita|USUKI]]
+
+====Isle of Demons====
+“Kuroshima is a tiny island off the coast of [[wikipedia:Usuki,_Ōita|Usuki]] in Kyushu's [[wikipedia:Bungo_Province|Bungo province]]. There is little in the way of usable land, with coastline rapidly giving way to cliffs and mountains. Clinging to its edge is the smallest of fishing villages, its residents eking out subsistence farming on plots carved out from the hills. Their frugal lives stand in stark contrast to the village elder, whose opulent mansion perches atop the islands tallest peak, strangely oversized for the small island which it overlooks.”
+
+[ [[wikipedia:William_Adams_(sailor)|William]] landed on the island and begins to explore it.]
+
+[Cutscene - Into the Fire]
+In the cargo hold of a sailing ship on the island, [[wikipedia:William_Adams_(sailor)|William]] finds the remains of some unfortunate prisoners who were left behind. Suddenly, he is attacked by a giant Onryoki that was born from the restless spirits of the dead.
+
+[Cutscene - Hattori Hanzo the Ninja]
+[[wikipedia:William_Adams_(sailor)|William]] slays the Onryoki, and escapes from the ship just as it bursts into flames. There to greet him is a mysterious ninja known as [[wikipedia:Hattori_Hanzō|Hattori Hanzo]], who agrees to help [[wikipedia:William_Adams_(sailor)|William]] find [[wikipedia:Edward_Kelley|Kelley]] after seeing him slay the Oni. Determined to see his quest through to end. [[wikipedia:William_Adams_(sailor)|William]] accepts Hanzo’s offer.
+
+William: Who are you?
+
+Hattori Hanzo: A foreigner... Your skill against Oni is impressive.
+
+William: As is your skill in English.
+
+Hattori Hanzo: My name is [[wikipedia:Hattori_Hanzō|Hanzo Hattori]]. And you are...?
+
+William: Call me [[wikipedia:William_Adams_(sailor)|William]]... I'm here in pursuit of someone.
+
+Hattori Hanzo: An enemy perhaps...? Hunting a person down in a stranger land will not be easy. If you lend me your strength in fighting Oni, I will help you in return. Well then… Dawn is breaking. Come.
+
+Hattori Hanzo: Now that Overlord [[wikipedia:Toyotomi_Hideyoshi|Toyotomi Hideyoshi]] is dead, two powerful samurai are locked in a struggle to succeed him. One of them is [[wikipedia:Ishida_Mitsunari|Ishida Mitsunari]], the man [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]] chose as his successor. The other is my master, Lord [[wikipedia:Tokugawa_Ieyasu|Tokugawa Ieyasu]]. [[wikipedia:Tokugawa_Ieyasu|Lord Ieyasu]] has sent me here to Kyushu to lead the western warlords’ campaign, as they have their hands full dealing with the monsters that have recently appeared near the harbor. [[wikipedia:William_Adams_(sailor)|William]], you skill with a blade would be great help. And I suspect every demon you slay will bring you a step closer to your quarry. Let us begin by paying a visit to [[wikipedia:Kuroda_Yoshitaka|Lord Kanbei]] of Bizen, one of [[wikipedia:Tokugawa_Ieyasu|Lord Ieyasu]]'s allies.
+
+Mission Complete
+Hattori Hanzo: So much for that foreign merchant I've been tracking. I was hoping to capture him and use him as a bargaining chip, but he's dead now... One reaps what they sows.
+
+BACKGROUND
+[Character - William]
+William is an Irish-born English sailor. While still a boy, he lost both parents in the Irish war with England, but also met his Guardian Spirit Saoirse; the two have been inseparable ever since. Overcoming these early tragedies, William grew to be a strong and capable young man and threw in his lot with an English navy privateer-a pirate ship in all but name. Saoirse's special ability to locate powerful Amrita spirit-stones allowed him to flourish as a pirate for a time, but when he stumbled upon a secret military project to weaponize Amrita, he was imprisoned in the Tower of London.
+
+Just before William escaped the Tower of London, the alchemist Edward Kelley stole Saoirse from him. Determined to get Saoirse back, William followed Kelley doggedly across perilous seas all the way to Japan. But nothing he had heard about this fabled "country of gold" had prepared him for the realm of supernatural peril and death it proved to be.
+
+[Character – Hattori Hanzo]
+Hattori Hanzo is a ninja in the service of [[wikipedia:Tokugawa_Ieyasu|Tokugawa Ieyasu]]. His real name is Masanari. "Hanzo" is a name inherited by each successive head of the ninja clan in Iga province. Although his father was known as "Hanzo the Oni", the current Hanzo has more of his father's skill as a ninja than his prowess as a military commander. He is a master of intelligence, concealment, and sabotage, and leads an army of several hundred ninja who lurk in the shadows waiting to carry out secret orders from their lord. As one of the few people in Japan with knowledge of foreign languages, Hanzo also guides the newly arrived William in his search for Kelley.
+
+[Character - Derrick the Executioner]
+Derrick is the Tower of London's executioner. He himself had committed a crime deserving the death penalty, but was pardoned on the condition that he take on his current position. He has ended the lives of over 3000 people in the years since then, including political prisoners and dissidents, in grisly public spectacles that often featured his gigantic axe. A brutal man to begin with, he grew more and more violent over the course of his duties, and although he obeys the orders of Kelley and his associates faithfully, he no longer speaks. In fact, he shows no sign of emotion or intelligence at all. As well as decapitation, he also executes people by hanging, and even invented a device for hoisting people off the ground rather than dropping them from above. His name is still used for that type of crane even in our day.
+
+[Character - Edward Kelley]
+Edward Kelley is an English alchemist. Having mastered the secret of turning lead into gold, he uses Amrita to turn humans into monsters and reanimate corpses. He has a Guardian Spirit named Uroboros and is able to disappear, disguise himself as another, and steal other people's guardian spirit to use for his own purpose. On the orders of John Dee, he stole Saoirse who is able to detect Amrita from William, and set out for Japan, a land full of high-quality Amrita lying fallow. He is cruel and determined, willing to do anything to achieve his goals. He thrives in the chaos of war, taking sadistic pleasure in human suffering.
+
+[Guardian Spirit - Kato]
+Fire elemental. Legend has it that a she-wolf hit by a shooting star in the first month of her pregnancy will give birth to a Kato. These fire-eating hounds are said to cause the forest fires sparked by lightning strikes. Harbingers of house-fires and other misfortunes, Kato are venerated as servants of the God of Fire.
+
+[Guardian Spirit - Saoirse]
+Aquatic guardian spirit that resembles the Merrow of Celtic legend, with feathered wings and a fish's tail. Saoirse can warn of impending danger and sense Amrita. She has been with William since he was a child, and is both friend and family to him now — or perhaps something more. Her name is pronounced “SEER-shuh” and means "freedom" in Gaelic.
+
+[Enemy - Dweller]
+Dwellers are humans turned into yokai by the foul miasma in the depths of a mine. They were objects of loathing and terror for miners, and legends about them circulate wherever a mine with a long history is found. Their grotesquely altered forms inspire instinctive revulsion in all who can bear to view them.
+
+The pickaxe carried by many Dwellers is the last trace of their former lives as miners. The sight of a Dweller swinging its pickaxe wildly as they attack in unsettling enough, but one without its axe is even more terrifying. In this state they abandon all pretense to humanity, scrabbling on all fours and leaping at intruders like savage beasts.
+
+[Enemy - Yoki]
+A human turned fiend by the power of Amrita. Also known as a form of oni, a muscular, horned humanoid dwelling in the mountains. The Shuten-doji is the most famous; so too are the oni who are fought by Momotaro, the Peach Boy. Every February in Japan, a ritual called Setsubun is undertaken where citizens scatter beans to drive away oni and pray for good health.
+
+The power of Amrita is double-edged sword. If used improperly, or with evil intent, it has the power to transform the user into a fiend. A fiend is far stronger than a human, but devoid of rationality, they can only follow their instincts to attack any who happen across their path.
+
+[Boss - Onryoki]
+Pronounced “on RYO key”. A huge red Oni born from a pack of angry ghosts. Half of its face is contorted in anger, the other twisted with grudge. The faces of countless vengeful ghosts appear across its body, letting out shrieks that send terror down the spines of all within earshot.
+
+Filled with fury and grudge, the sight of a living human sends it into a berserk rampage. Its preferred attack, using iron balls and chains draped over its body, is powerful enough to defeat even highly experienced samurai.
+
+The two horns on its head emit a weird glow. It is said that horns represent the source of power of an oni, meaning they lose their strength if their horns are damaged. But only the most powerful and precise strike could hope to shatter them…
+
+====Deep in the Shadows====
+Kuroda Kanbei: Welcome, Hanzo. It is good of you and your friend to come. Sir [[wikipedia:William_Adams_(sailor)|William]], was it? I am told that you have a certain measure of skill in dealing with [[wikipedia:Yōkai|yokai]] and monsters. It is with these abilities in mind that I have a favor to ask. My son, [[wikipedia:Kuroda_Nagamasa|Nagamasa]], has gone off to defeat a band of rogues, and I have not heard from him since. I would go to his aid myself, but my body is not what it once was. Will you go and save my son in my stead?
+
+“In the north of Kyushu, beneath the mountains of Nakatsu, lies a complex warren of limestone caves created by eons of erosion. Bold rogues make their home in its shallowest levels, but even they fear to tread into its deepest depths.”
+
+''[ [[wikipedia:William_Adams_(sailor)|William]] jumps into the depths of the caves.]''
+
+[Cutscene - Feline Intervention]
+[[wikipedia:William_Adams_(sailor)|William]] sets out in search of [[wikipedia:Kuroda_Nagamasa|Nagamasa]] at the request of [[wikipedia:Kuroda_Yoshitaka|Kuroda Kanbei]]. Just then, Nekomata, who is neither Guardian Spirit nor Oni, appears before [[wikipedia:William_Adams_(sailor)|William]]. Nekomata claims to know [[wikipedia:Kuroda_Nagamasa|Nagamasa]] well and agrees to lead [[wikipedia:William_Adams_(sailor)|William]] to him. With his newfound ally beside him, [[wikipedia:William_Adams_(sailor)|William]] descends deep into the cave.
+
+William: A cat-clock. Hanzo’s ways are curious indeed.
+
+Cat: I know of the Guardian Spirit called [[wikipedia:Kuroda_Nagamasa|Nagamasa]].
+
+William: Hm? Even cats speak in these lands...!
+
+Cat Spirit: Allow me to possess you.
+
+[The cat ghost flies over to [[wikipedia:William_Adams_(sailor)|William]] and merges with him.]
+
+Cat Spirit: We are Nigitama, Guardian Spirits, born from the light of human faith and belief. The Aratama, fiends, are born from the darkness of human grudge and anger. The world of living perches atop this delicate balance between light and dark. Long years of strife have fueled the fiends’ power and now [[wikipedia:Yōkai|yokai]] prowl the Earth. Now you should thank me for allowing you to converse in the tongue of this land.
+
+[Our hero sighs and goes to explore the caves.]
+
+MAY 1600
+NAKATSU
+BUZEN PROVINCE
+
+Cat Spirit: I sense the presence of a strong one. If you follow it, it may lead to [[wikipedia:Kuroda_Nagamasa|Nagamasa]].
+
+Cat Spirit: This looks like a bat cave. Normally, they’re afraid of people, but things are different now…
+
+Cat Spirit: The evil energy seems stronger up ahead. I just hope [[wikipedia:Kuroda_Nagamasa|Nagamasa]] is okay.
+
+[Cutscene - Darkness Descends]
+[[wikipedia:William_Adams_(sailor)|William]] continues his journey into the cave feared by even the toughest bandits. Lying in its darkest depths is an Oni known as Hino-enma, which lures humans to its lair in order to trap them and feed off the blood from their still- living bodies.
+
+[After the fight...]
+
+ Kuroda Nagamasa: I thank thee, truly! have been confident in spear-work, but this marks the first time I faced a [[wikipedia:Yōkai|yokai]].
+
+[ [[wikipedia:William_Adams_(sailor)|William]] holds out his hand to [[wikipedia:Kuroda_Nagamasa|Nagamasa]]. He takes it and turns into a huge blue bull-spirit.]
+
+[Cutscene - The Rescue of Kuroda Nagamasa]
+[[wikipedia:William_Adams_(sailor)|William]] rescues [[wikipedia:Kuroda_Nagamasa|Kuroda Nagamasa]] from the clutches of the Hino-enma, [[wikipedia:Kuroda_Nagamasa|Nagamasa]] offers his thanks, and [[wikipedia:William_Adams_(sailor)|William]] obtains the Guardian Spirit known as Fuse-Ushi. Although not the wisest of samurai, [[wikipedia:William_Adams_(sailor)|William]] takes a liking to [[wikipedia:Kuroda_Nagamasa|Nagamasa]] and his easy-going nature.
+
+Kanbei's Thoughts: Years of war have ravaged my homeland, and now it is infested by [[wikipedia:Yōkai|yokai]]. Now the country is riven in two, and battle looms between the clans Ishida and Tokugawa. For the sake of this land and its people, we must make it our last.
+
+[We are teleporting to the house to [[wikipedia:Kuroda_Yoshitaka|Kanbei]], where a celebration is taking place on the occasion of the rescuing of [[wikipedia:Kuroda_Nagamasa|Nagamasa]].]
+
+[Cutscene - Okatsu the Kunoichi]
+A banquet is held in [[wikipedia:William_Adams_(sailor)|William]]’s honor at the Kuroda clan's mansion. However, [[wikipedia:William_Adams_(sailor)|William]] leaves the party early, eager to his pursuit of [[wikipedia:Edward_Kelley|Kelley]]. In the courtyard, he meets Hanzo’s kunoichi, Okatsu, who brings word of trouble befalling the [[wikipedia:Tachibana_clan_(samurai)|Tachibana clan]].
+
+Drunk samurai: Drink! Drink! Drink the night away!
+
+Nagamasa: (to some samurai) Damn that Ishida and his schemes that pulled my father down! I will join [[wikipedia:Tokugawa_Ieyasu|Master Ieyasu]] and make him pay!
+
+Kuroda Kanbei: [[wikipedia:Kuroda_Nagamasa|Nagamasa]]. Calm down. We have a guest.
+
+William: (seeing the dragon spirit, entwine [[wikipedia:Kuroda_Yoshitaka|Kanbei]]) I don’t have time for this.
+
+Drunk samurai 2: Calm down. Everything has taken care of.
+
+[William sighs and goes outside.]
+
+Hattori Hanzo: [[wikipedia:Kuroda_Yoshitaka|Lord Kanbei]], I suspect you knew the [[wikipedia:Yōkai|yokai]] did it all along.
+
+[ [[wikipedia:Kuroda_Yoshitaka|Kanbei]] smiles mysteriously. Sitting on the porch of the house, [[wikipedia:William_Adams_(sailor)|William]] see the rabbit spirit. The rabbit runs to a good-dressed girl.]
+
+Girl: A golden-haired samurai? Rarer a sight than a [[wikipedia:Yōkai|yokai]]. Inform Master Hanzo that strange things are afoot in Tachibana of Buzen.
+
+William: Who are you?
+
+Girl:...I dislike a company of drunk samurai.
+
+William: Hey! I’m no samurai!
+
+Girl: So a common drunk. Even worse.
+
+Mission Complete
+Kuroda Kanbei: Sir [[wikipedia:William_Adams_(sailor)|William]], I can't thank you enough for saving [[wikipedia:Kuroda_Nagamasa|Nagamasa]]. You have my utmost gratitude That said, though my fellow countrymen and I have some familiarity with foreign names I'm afraid I cannot help but find yours difficult to pronounce. Might I suggest calling yourself Anjin from now on? It means pilot in Japanese, fitting for a seafarer such as yourself. I am sure those of this land will find that easier to understand.
+
+BACKGROUND
+[Character - Hattori Hanzo]
+Hanzo sees ninja potential in William and teaches him the basics of ninjutsu. William's years as a pirate left him with highly developed survival skills, and his willingness to use any means to accomplish his ends is another ninja—like trait.
+
+Hanzo keeps a cat inside his garments and uses it instead of a clock, checking the time by closely examining the dilation of the cat's pupils. In fact, this cat is possessed by a Nekomata, an exceptionally long—lived Guardian Spirit, but as Hanzo cannot see spirits he does not realize this.
+
+[Character - Okatsu]
+Okatsu is a female ninja or "kunoichi" under Hattori Hanzo. Trained in the same Iga ninjutsu as Hanzo, she accompanies William on his travels. Kunoichi are as skilled as warriors and spies as male ninja, but are also able to masquerade as powerless women to encourage targets to let their guard down, or disguise themselves as maids to gather information. Okatsu's mastery of every aspect of the ninja is said to rival even her teacher Hanzo's and makes her a strongly trusted figure.
+
+[Character - Kuroda Nagamasa]
+[[wikipedia:Kuroda_Nagamasa|Kuroda Nagamasa]], sometimes known as "Kichibei", was a general under the Toyotomi clan. The son of [[wikipedia:Kuroda_Yoshitaka|Kuroda Kanbei]], [[wikipedia:Kuroda_Nagamasa|Nagamasa]] was entrusted to [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]] as a child hostage. When [[wikipedia:Kuroda_Yoshitaka|Kanbei]] was captured by enemy forces, however, Oda Nobunaga suspected him of treachery and ordered [[wikipedia:Kuroda_Nagamasa|Nagamasa]] killed. It was only quick thinking on the part of Takenaka Hanbei that saved him. After coming of age, [[wikipedia:Kuroda_Nagamasa|Nagamasa]] made his name fighting alongside his father [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]] at Shizugatake and during the conquest of Kyushu. As a leader on the front lines, his opinions often clash with those of Ishida Mitsunari, who provided support from the rear. Since he also believes that his father's removal from the centre of power was due to slander by Mitsunari, he bears a grudge against him.
+
+[Character - Kuroda Kanbei]
+[[wikipedia:Kuroda_Yoshitaka|Kuroda Kanbei]] is a general under the Toyotomi clan. His real name is Kiyoaki, and towards the end of his life he adopted the name "Yoshitaka." He is the father of [[wikipedia:Kuroda_Nagamasa|Kuroda Nagamasa]] and served [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]] as staff officer providing battlefield assistance. After the Honnoji Incident, when [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]] found himself in a tight spot, [[wikipedia:Kuroda_Yoshitaka|Kanbei]] successfully led a massive retreat known as the "Chugoku Rollback." This and other accomplishments earned him a reputation as an unparalleled military strategist. [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]], however was wary of [[wikipedia:Kuroda_Yoshitaka|Kanbei]]'s brilliance, and gradually forced him away from the centre of power and all the way to Kyushu. [[wikipedia:Kuroda_Yoshitaka|Kanbei]] was captured and imprisoned by enemy forces in his youth, and the damage done to his body has never fully healed. He walks with a stick and is physically in decline, but his ambition to be ruler of the whole nation remains as unclouded as ever, and he is watching current events with keen interest.
+
+[[wikipedia:Kuroda_Yoshitaka|Kanbei]] is sensitive to social and political change and knowledgeable about other countries. He showed no timidity in dealing with William in an age where foreigners were a rare sight in Japan; he even recommended that William adopt the name "Anjin" (pilot), since his real name would be so difficult for Japanese to pronounce. [[wikipedia:Kuroda_Yoshitaka|Kanbei]] continues to watch William closely, sensing in him the possibility of changing the course of Japanese history.
+
+[Character - Senji Tome]
+Senji Tome is the granddaughter of the current Senji Muramasa, legendary swordsmith of Ise province. She has been initiated into the Muramasa teachings and is a remarkably skilled blacksmith and appraiser. With Muramasa's whereabouts currently unknown, she is running the forge in his absence, continuing the tradition of fine Muramasa blades. It is said that if a Muramasa sword is thrust into the river, fallen leaves will spontaneously be drawn to it and sliced in two. This mysterious power may be what sparked the rumours that Muramasa are "evil" swords that can draw their victims to them.
+
+[Guardian Spirit - Fuse-ushi]
+Fuse-ushi is a bull spirit that protects believers from misfortune. Bovines have long served alongside humans, providing their strength in agriculture and other ways to support our lives. For this reasons, some civilizations actually ban the consumption of their meat and venerate them as a sign of thanks. Pat its stomach as a sign of respect, and the Fuse-ushi will absorb negative Ki. The great [[wikipedia:Kuroda_Nagamasa|Kuroda Nagamasa]] decorated his helm with a bull ornament in hopes of becoming a fierce warrior with a heart as gentle as the Fuse-ushi.
+
+[Enemy - Skeleton Warrior]
+Yokai taking the form of armored skeletons. Warriors who are unprepared for their death when it comes, or who take their own lives, return as these angry spirits to roam the battlefield and assault the living indiscriminately.
+
+Being half-decayed skeletons, Skeleton Warrior lack stamina, but they feel no pain and will not stop fighting until they are completely destroyed. They often attack in groups armed with swords and spears, so care must be taken not to become surrounded by them.
+
+[Enemy - Kappa]
+Kappa are diminutive yokai with green skin, a dish-like depression on their heads, and a turtle—like shell on their back. They generally lurk but they often emerge onto dry land as well. In the water Kappa are faster than fish, and they are known to commit evils like seizing children playing in rivers by the leg and dragging them under, or stealing the "shiri—kodama" soul from people's behinds and leaving them listless shells of their self.
+
+Cowardly by nature, Kappa flee underwater at the first sign of danger. They are rumored to have a taste for cucumbers, and to wither and die if the water in the "dish" on their head dries up. Other legends say that a treasure lies concealed inside their shells and can be claimed if the Kappa is slain before it can escape.
+
+[Enemy - One-Eyed Oni]
+A gigantic Oni with a single eye in the center of its face. Oni with two eyes were originally human or at least born of ugly human passions in some way. One-eyed Oni, however, are said to be the wild, bestial side of mountain gods and local spirits personified.
+
+Apparently, these yokai aren't smart enough to use weapons other than their fists or great rocks which they throw at their victims. However, as they are more than twice as large as a person, their sheer physical strength allows them to smash overconfident foes flat with a single blow.
+
+[Enemy - Nurikabe]
+The yokai known as Nurikabe take the form of a giant living wall. They are said to most enjoy simply standing where no wall should be and enjoying the unease and confusion of travelers. If left alone, they will not move, but if harassed they extend long arms to strike back in rage. Slow-moving but with immense strength and stamina, Nurikabe are formidable foes.
+
+Nurikabe often block the way to valuable items or alternative routes to destinations, although whether they do so knowingly or not is unclear. Once a Nurikabe is angered, there is no alternative but to defeat it, but it is said that the right gestures can charm them into a more amiable attitude.
+
+[Boss - Hino-enma]
+A yokai taking the form of a young woman. Deceives humans and drinks their blood. The name Hino-Enma literally means "flying bad luck", and she is believed to cause all manner of troubles and misfortunes. She is believed to have been born from the angry soul of an innocent woman senselessly struck down in the heat of a battle.
+
+Drinking the blood of men to replenish her life force and beauty, she hides her aggression - and insanity. Her malevolence is well enough known that her name has been used as an idiom since times of old. Obsession is a cruel mistress.
+
+Enchants men to immobilize them, then sucks their blood and Ki life-force. The insidious part is that your mind may remain clear while your body freezes like a stone. When you face the Hino-Enma, make sure to carry effective measures for paralysis.
+
+====The Spirit Stone Slumbers====
+Hattori Hanzo: The head of the Tachibana family, [[wikipedia:Tachibana_Muneshige|Lord Muneshige]], has been missing ever since he left to battle monsters. If we can aid him, it would be a boon for our campaign. Okatsu has already arranged a meeting with his wife, the Lady [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]]. [[wikipedia:William_Adams_(sailor)|William]], let us leave for Tachibana Castle at once.
+
+“Dazaifu Tenmangu Shrine was originally erected to placate an enraged spirit hell-bent on revenge. But that was long ago, and now its halls have been invaded by lawless rogues and ferocious [[wikipedia:Yōkai|yokai]]. Rumors abound of a particularly unsettling cry emanating from the vicinity at night...”
+
+[Cutscene - A Council with Lady Ginchiyo]
+Welcoming William to the Tachibana clan is a woman named Ginchiyo, the wife of the clan's ruler, Muneshige. She states that her husband set out to slay some Oni, but has yet to return. William speaks with Okatsu, who has snuck into the mansion disguised as a handmaiden, in order to learn the details.
+
+Lady Ginchiyo: Let me get to the point. Oni are preventing my husband, [[wikipedia:Tachibana_Muneshige|Lord Muneshige]], from returning from Dazaifu. Was he overcome? Or has he simply fallen into the arms of his mistress Lady Yachiko...? Where could he be?
+
+[William turns around and sees Rabbit-Spirit behind one of the servants.]
+
+MAY 1600
+DAZAIFU
+
+[Walking around the rain-drenched courtyard of the temple, [[wikipedia:William_Adams_(sailor)|William]] comes across a [[wikipedia:Yōkai|yokai]] named [[wikipedia:Nue|Nue]]. After defeating him, he enters the temple itself.]
+
+Fuku: I never would have expected a foreigner to be able to repel my familiar! My name is Fuku. I am an Onmyo mage I protect this area. Nice to meet you. That creature is my familiar, you tangled with it a little while ago. It still seems upset, but you may be able to quell its anger.
+
+Lady Ginchiyo (in armor): You have made it this far, sir Anjin... But I must accompany you now, as this is Tachibana's problem. I won't hold you back. I have the famed sword Raikiri, the Lightning-Cutter, and I know how to use it.
+
+[Cutscene - Hiding in Plain Sight]
+Vast ruins lie beneath the grounds of Dazaifu. Deep within the remains, William finds who he believes to be Muneshige, but is actually Kelley in disguise.
+
+Tachibana Muneshige: [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]]? Thank goodness.
+
+Lady Ginchiyo: Damn you...!
+
+[ [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] trying to attack [[wikipedia:Tachibana_Muneshige|Tachibana Muneshige]]. [[wikipedia:William_Adams_(sailor)|William]] defends him.]
+
+William: Hey! What the hell are you doing?
+
+Lady Ginchiyo: Who are you?
+
+Tachibana Muneshige: Heh heh. Even if you hate each other, 'til death do you part.
+
+[[[wikipedia:Tachibana_Muneshige|Lord Tachibana]] transforms into [[wikipedia:Edward_Kelley|Edward Kelley]].]
+
+William: I found you.
+
+Lady Ginchiyo: M'lord! M'lord...
+
+Edward Kelley: Well, well. I never expected you to follow me all the way to these godforsaken islands.
+
+William: You will return what you took from me! Now!
+
+Edward Kelley: Sorry. This spirit's part of my collection now.
+
+[After the fight...]
+
+[Cutscene - Reunited at Last]
+Following a heated battle, William defeats Kelley, thereby freeing Muneshige's Guardian Spirit. Kelley then extracts a large amount of Amrita from the ruins and flees, taking Saoirse with him once more. Grateful for helping find her husband, Ginchiyo shares with William the Guardian Spirit known as Raiken, and presents him with the famous sword Raikiri.
+
+Edward Kelley: This spirit guided me to the [[wikipedia:Amrita|Amrita]]. Hm. I think its time to move on now.
+
+Voice: Life and death form a circle.
+
+Lady Ginchiyo: That Guardian Spirit seems important to you. Take this sword, Raikiri. It wants you to wield it.
+
+''[ [[wikipedia:William_Adams_(sailor)|William]] touches the blade and sees [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] thoughts.]''
+
+Ginchiyo's Thoughts: After [[wikipedia:Tachibana_Muneshige|Lord Muneshige]] led his forces overseas, [[wikipedia:Toyotomi_Hideyoshi|Overlord Hideyoshi]] came to me. Even had I refused him, if would have meant suicide... And then what would have happened to [[wikipedia:Tachibana_Muneshige|Lord Muneshige]] and the people of Tachibana... I've lost a child. I haven't long to live. But… Joining forces to serve my Lord Muneshige and the people brings me great joy.
+
+Mission Complete
+Tachibana Muneshige: Master Hanzo... I cannot thank you enough for your help, but unfortunately, I cannot assist Lord Tokugawa. I would sooner take my own life than turn my back on the debt I still owe [[wikipedia:Toyotomi_Hideyoshi|Lord Hideyoshi]]. Now… Sir Anjin, was it? Your skill with a blade is tremendous. Let introduce you to my master, the finest tactician you will ever meet.
+
+
+BACKGROUND
+[Character - Tachibana Ginchiyo]
+[[wikipedia:Tachibana_Ginchiyo|Tachibana Ginchiyo]] is the wife of [[wikipedia:Tachibana_Muneshige|Tachibana Muneshige]]. [[wikipedia:Tachibana_Muneshige|Muneshige]], who she had known from childhood, is the adopted son of Tachibana Dosetsu, said to have been so fierce that he killed a god of lightning with his sword when a thunderbolt fell near him. [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] inherited not only her father's legendary sword "Raikiri" (lightning slicer), but also his ferocity as a warrior: she shows no fear whatsoever before the likes of yokai. The bond between Ginchiyo and her husband is loyal and firm, and their combined military prowess is feared even by the blood-soaked warriors of Kyushu.
+
+[Character - Tachibana Muneshige]
+[[wikipedia:Tachibana_Muneshige|Tachibana Muneshige]] is a general under the Toyotomi clan. A super leader of men, he is trusted not only by his advisors but also by the residents of his domain. He was born to the Takahashi, a family loyal to the Otomo clan, but was adopted into the Tachibana clan when he married [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]], daughter of Tachibana Dosetsu, the clan's leader at the time. He has since become head of the clan himself. Dosetsu was known for his valour, said to even have the backing of the gods of lightning, but [[wikipedia:Tachibana_Muneshige|Muneshige]] is easily Dosetsu's equal in this regard. He was forced into a difficult stand by the northward advance of the Shimazu clan, but when Hideyoshi arrived to take the entire island of Kyushu he was able to turn back the tide. Later, his reputation as the most honourable and bravest warrior in the west saw him recruited as a direct advisor to Hideyoshi.
+
+[Character - Fuku]
+Fuku is a female Onmyo mage. Well versed in natural philosophy, astronomy, and the calendar, she has mastered the mythical Way of Onmyo. She can manipulate the four Onmyo elements of earth, water, wind, and fire - not unlike those of alchemy - and also summon magical servants known as "Shikigami" to de her bidding. Rumour has it that she can call down the Twelve Celestial Generals from their homes in the stars and even slay the pestilential gods that cause natural disasters - but the truth is shrouded in mystery...
+
+[Character - Edward Kelley]
+Arriving in Japan just before William, Kelley disguised himself and began working behind the scenes to fan the flames of conflict across the archipelago. He sees Saoirse as nothing more than a tool and travels the country using her ability to detect and gather Amrita.
+
+[A Forgotten Faith]
+Dazaifu Tenmangu Shrine was established as a place of Imperial worship. But over the course of time, this mission came to be forgotten. Now there is no trace of those who once tended and venerated its god, leaving it in its current state.
+
+[Dazai: God of the Heavens]
+Long ago in Bizen of Kyushu, there died a once powerful minister banished for crimes he did not commit. After his death, misfortune after misfortune bedeviled the ancient capital. The minister's furious spirit was judged the culprit, and a shrine to appease it was erected in Dazai: the great Dazaifu Tenmangu Shrine Word of this powerful onryo spread through the populace, who venerated it as Tenjin- God of the Heavens-for its ability to harness lightning.
+
+[Guardian Spirit - Raiken]
+Pronounced "RYE-ken". Written with the characters of "thunder" and "dog", these holy hounds are venerated as protector spirits. Trespassers struck down by lightning on holy ground were actually punished by these creatures. Although extremely different to approach, they are fiercely loyal to their masters in the rare cases when humans have befriended them. Normal dogs fear thunder, but Raiken actively marshall it to protect their masters. Every Raiken has a mate, and their true power is revealed when they are paired.
+
+[Enemy - Sentry]
+Sentries are statues that move through the power of a spirit-stone. Carved in the form of ancient warriors, they are placed out of sight at tombs, sacred domains, and the like as guards. When they detect an intruder, they immediately attack.
+
+Sentries move slowly, but a single blow from their massive swords can be fatal. They are also very hard to destroy, being made of stone. It is not clear exactly how they are triggered into action or how to stop them, so the safest course of action is to give them a wide berth.
+
+[Enemy - One-eyed Imp]
+One-eyed Imps are Yokai who look like a little boy with a single large eye in the center of their face. Because of their unassuming size, they do not get in the way much, and some are even quite friendly. However, those who underestimate them as weak yokai with only the power to frighten might get a nasty shock if they venture too close.
+
+Against opponents bearing Amrita, One-Eyed Imps use their long tongues as a whip to attack. Each blow from their tongue steals some Amrita, which the One-Eyed Imp uses to grow larger and more powerful. If they must be fought, it is best to defeat them before this transformation advances too far.
+
+[Boss - Nue]
+Pronounced NEW-ay. A yokai chimaera. Its fanged mouth terrorizes its prey with an eerie cry. Nue is wreathed in dark smoke, making it difficult to discern its overall appearance. Its ability to summon thunder has earned it the alternate name of Raiju, the thunder-beast.
+
+Possesses a monkey's face, a tiger's torso, and snake for a tail. Its mane is quilled and sharp enough to cut any who approach, In addition to fierce claw and fang attacks, it can hurl itself bodily with enough force to smash a stone wall. There are many legends of Nue appearing in Japan, unleashing lightning and causing all sorts of disasters.
+
+One legend holds that a fearsome cry heralded the appearance of a Nue over the royal palace in Kyoto every night, draining the young emperor of vitality. No medicine could cure him, but after the samurai Minamoto Yorimasa felled the Nue with an arrow, the emperor recovered at once. Yorimasa was bestowed with a beautiful sword called Shishi-Oh, King of Lions, as a reward.
+
+===SUB MISSIONS===
+====Death to Bandits====
+Hattori Hanzo: I believed the bandits hired by those foreign merchants were defeated, but it seems I was wrong. Some still remain at large, terrorizing the villagers. [[wikipedia:William_Adams_(sailor)|William]], you are skilled at slaying will you now turn your skills to the service of your fellow man? These remnants are but a motley rabble. Strike down their and the rest will surely lose their will to fight.
+
+Mission Complete
+Hattori Hanzo: Marvelous work, just as I expected. The villagers were overjoyed. They certainly have met with a string of misfortunes of late... Let us hope this was the last.
+
+====Wreathed in Flame====
+Okatsu: Do you remember the village where you met Master Hanzo? It seems that some mysterious new power is at work there now. I heard from the village elder that the whole area is like a hellscape! Please, return to the village and save it before anything worse happens.
+
+Mission Complete
+Okatsu: A [[wikipedia:Yōkai|yokai]] wreathed in flames! Who could have imagined such a thing? Thank you for helping. The village elder was more grateful than he could express in words. Although, as he left, he was muttering something about needing more sacrifices...
+
+BACKGROUND
+[Enemy - Oni-bi]
+Oni-bi resemble floating balls of fire. They are formed when the elemental power of fire, water, wind, lightning, or earth coalesces around the will of a dead soul. They must be distinguished from the souls known as Hitodama that burn on once their bodies are no more; Oni-bi are yokai, plain and simple.
+
+Oni-bi literally means "demon fire", but they can be made of water, wind, lightning, or earth as well. Striking an Oni-bi with a weapon like a katana will temporarily give that weapon the elemental power of the Oni-bi.
+
+[Enemy - Wheelmonk]
+A [[wikipedia:Yōkai|yokai]] like a wheel with a gigantic face attached to it. The wheel is big enough to be used on an oxcart, and while the face has a certain degree of freedom to leap from it they remain tied to it by their hair. Wreathed in flames and scowling hideously as they roll around, the face resembles a visitor from another world, and has long struck terror into the hearts of those who witness them.
+
+They have awful destructive power and attack by ramming their bodies engulfed in flames or by spitting fire from their mouths. Depending on where they appear, they can also start fires in the surrounding area, which can rapidly grow into raging infernos.
+
+====Finders, Keepers====
+Kuroda Nagamasa: Sir Anjin, I have a rather embarrassing request. The famed sword [[wikipedia:List_of_National_Treasures_of_Japan_(crafts:_swords)|Heshi-Kiri-Hasebe]], treasure of the Kuroda clan, has gone missing! I recall feeling a fumbling at my waist while I was grappling with that demonic harlot in the cave, but she didn't have it. It must have been some other demon… I beg you, please find the sword and return it to me!
+
+Mission Complete
+Kuroda Nagamasa: Yes! That's all right! The treasure of the Kuroda, bestowed upon my father by [[wikipedia:Oda_Nobunaga|Lord Nobunaga]] himself... How could I ever faced my father again if I'd lost it? deepest gratitude, Sir Anjin! Uh, and don’t tell my father, okay?
+
+BACKGROUND
+[Character - Kuroda Nagamasa]
+[[wikipedia:Kuroda_Nagamasa|Nagamasa]] is a good person who wears his heart on his sleeve, and gets along well with new people. He does have some of his father's political genius, being involved in the plotting of the Mohri clan, but he prefers to face his enemies face-to-face like a warrior. He is driven by a constant, urgent desire to live up to the expectations of his father and earn his approval through great deeds.
+
+====Kanbei and the Overlord====
+Kuroda Kanbei: Sir Anjin, could I ask you to such for the sword [[wikipedia:List_of_National_Treasures_of_Japan_(crafts:_swords)|Heshi-Kiri-Hasebe]], treasure of our clan? I had entrusted it to that oaf [[wikipedia:Kuroda_Nagamasa|Nagamasa]], but he just to wailing that he'd lost it again-I believe already found it for him once? The fool probably dropped it in the cave during that fight with the [[wikipedia:Yōkai|yokai]]. I would ask you to to the clan's aid retrieve the sword once rue. Rumor has it that around the time the sword was lost, dead begin to roam the cave. Be on your guard.
+
+[After defeating all the enemies [[wikipedia:William_Adams_(sailor)|William]] find famed [[wikipedia:List_of_National_Treasures_of_Japan_(crafts:_swords)|Heshi-Kiri-Hasebe]] and touches it. He hear [[wikipedia:Kuroda_Yoshitaka|Kuroda Kanbei]]’s thoughts.]
+
+(After defeating the last yokai...)
+
+Kanbei's Voice: No matter how much time may pass, my grudge shall never fade...
+
+Kanbei's Thoughts: Twenty years since being held captive in that pit... [[wikipedia:Oda_Nobunaga|Overlord Nobunaga]], killed sixty thousand without mercy. [[wikipedia:Toyotomi_Hideyoshi|Overlord Hideyoshi]]'s lust for power. Must rulers always abandon reason for madness? And next is either [[wikipedia:Ishida_Mitsunari|Lord Mitsunari]], or [[wikipedia:Tokugawa_Ieyasu|Lord Ieyasu]]. Yet time is short. I fear I may not live to [[wikipedia:Kuroda_Nagamasa|Nagamasa]] triumph...
+
+Mission Complete
+Kuroda Kanbei: Hmm... So a [[wikipedia:Yōkai|yokai]] like a monk was wailing and holding [[wikipedia:List_of_National_Treasures_of_Japan_(crafts:_swords)|Heshi-Kiri-Hasebe]]? I know not how to interpret that, but perhaps this sword is a greater responsibility than we Kuroda can bear. Here. Take it with you, if you will pardon my presumption in making the offer. This is the Kuroda clan's finest treasure. Use it well.
+
+BACKGROUND
+[Character - Kuroda Kanbei]
+[[wikipedia:Kuroda_Yoshitaka|Kanbei]] thrived under the Oda and Toyotomi clans in an age of violent upheaval. Seeing that the flames of war were set to rage again, he kept a close eye on Ishida and Tokugawa. He remains hopeful of conquering Japan himself and is prepared to spring into action if the right opportunity appears. However, he cannot hide his deteriorating health, and much of his hopes now rest with his son [[wikipedia:Kuroda_Nagamasa|Nagamasa]]. [[wikipedia:Kuroda_Yoshitaka|Kanbei]] never speaks of his love for his son, but he is proud of how [[wikipedia:Kuroda_Nagamasa|Nagamasa]] is turning out and has come to feel that his own true role is to watch over him.
+
+[Guardian Spirit - Mizuchi]
+Pronounced "MEE-zoo—chee," this dragon serves as guardian spirit of those who harbor great ambitions. Though they normally reside in the abysses of deep rivers, it is believed that upon their death they ascend to the heavens and transform into celestial dragons. True or not, this belief was so widespread in the Warring States period that many aspiring warriors fervently venerated the Mizuchi.
+
+[Enemy - Biwa Boku-Boku]
+Pronounced "BEE-wa BOH-koo BOH-koo. A yokai taking the form of a monk playing a biwa lute. The biwa is the [[wikipedia:Yōkai|yokai]] itself; the "monk" is simply a reflection of [[wikipedia:Hoichi_the_Earless|Hoichi]], the biwa player whose unwise dealings with restless Heike warrior spirits cost him both his ears. Lures intruders deeper into places of evil with its eerie melodies.
+
+The second half of the name is said to refer to Bokuba, a famous biwa lute in ancient Japan. Tunes played on Bokuba had the power to summon and bewitch spirits and [[wikipedia:Yōkai|yokai]] like the vengeful Heike warriors who attacked Hoichi, and even to call Revenants fort from their bloody graves.
+
+[Enemy - Mujina]
+Mujina are badgers transformed into crafty and cunning [[wikipedia:Yōkai|yokai]]. Like foxes and tanuki, stories of them disguising themselves as humans to do mischief have circulated since ancient times. They enjoy hiding inside treasure chests and springing out to surprise whoever opens the lid.
+
+Mujina love playing pranks and causing trouble, and are not necessarily malicious by nature. They may move strangely to see how a startled person reacts, but if that person responds with the same movement, they will leave the area, satisfied with their newfound playmate.
+
+====A Request from Ginchiyo====
+Okatsu: Lady [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] sent a message to request that you accompany her personally on her search for a gift for [[wikipedia:Tachibana_Muneshige|Lord Muneshige]]! M'lady seems to have taken quite a liking to you... Please don't do anything uncouth and disappoint her.
+
+“These ruins, located deep within the mountains and surrounded by sheer cliffs, are believed to have been constructed by a clan. Even after the clan's demise its great shrine and underground catacomb remain impressive, but with no one around to care for them they have fallen to ruin, and now house nothing other than [[wikipedia:Yōkai|yokai]]. At this point, not even grave robbers are willing to approach it.”
+
+Mission Complete
+Okatsu: Lady [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] was delighted. But it seems she gave the present not to [[wikipedia:Tachibana_Muneshige|Lord Muneshige]] but to his mistress, Lady Yachiko! I wonder what it can have been? M'lady's behavior is quite beyond me at times.
+
+BACKGROUND
+[Character - Tachibana Ginchiyo]
+[[wikipedia:Tachibana_Ginchiyo|Ginchiyo]]'s Guardian Spirit is a female Raiken, the mate of her husband [[wikipedia:Tachibana_Muneshige|Muneshige]]’s Raiken Guardian Spirit. [[wikipedia:Tachibana_Muneshige|Muneshige]] and [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] are as inseparable as their spirit companions, and care for each other deeply. When [[wikipedia:Tachibana_Muneshige|Muneshige]] is away, [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] is entrusted with the castle. It was later said that when trouble arose, she and her maids would don their armor the enemy-a sign of how firmly [[wikipedia:Tachibana_Muneshige|Muneshige]] trusted her. [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] was also so beloved by the people in their domain that enemies would avoid passing her residence too closely for fear of incurring the wrath of local peasantry.
+
+====Invitation from the Warrior of the West====
+Hattori Hanzo: [[wikipedia:Tachibana_Muneshige|Lord Muneshige]] has challenged you to a duel. Word of you prowess the battlefield rust have intrigued him — he is, after all, the celebrated warrior and general in the west, and the master of an entire province besides. I warn you, it would not do to slight him… Duel with him yes, but be sure to cause no trouble.
+
+“There is an ancient saying in Japanese: “What I thought was a ghost was merely dried grass,” referring to the susuki grasses that tum a golden brown in the autumn months. Their distinctive waving in the breeze is the source of their supernatural connotations, occasionally tricking observers into thinking they had seen a ghost. Susuki grass is also sometimes used as a charm to ward off evil spirits.”
+
+(After the fight with [[wikipedia:Tachibana_Muneshige|Tachibana Muneshige]].)
+
+Tachibana Muneshige: Magnificent swordplay… You have grown even stronger…
+
+Muneshige's Thoughts: [[wikipedia:Toyotomi_Hideyoshi|Overlord Hideyoshi]] recognized Honda Tadakatsu and myself both as the Undefeated of the West. Yet still I despair. [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] must take the secret to her grave. The Tachibana clan is the flower of justice, You taught me that, precious [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]]. Sublimating one's desire is the way of a warrior, I live to serve the Overlord.
+
+Tachibana Muneshige: Masterfully done. [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] and I are both in your debt. Your knowledge of our language may be crude, but your eloquence with the blade is a delight to see. Difference in standings or not, I look forward to our future rivalry.
+
+BACKGROUND
+[Character - Tachibana Muneshige]
+[[wikipedia:Tachibana_Muneshige|Muneshige]]'s Guardian Spirit is a male Raiken, the mate of his wife [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]]'s Raiken Guardian Spirit. [[wikipedia:Tachibana_Muneshige|Muneshige]] and [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] are as inseparable as their spirit companions, and care for each other deeply. While [[wikipedia:Tachibana_Muneshige|Muneshige]] was away on a campaign, [[wikipedia:Tachibana_Ginchiyo|Ginchiyo]] fell ill and lost the ability to bear children [[wikipedia:Tachibana_Muneshige|Muneshige]] realized this, but said nothing about it. However, there is a new distance between them, and their relationship has become somewhat awkward.
+
+[Guardian Spirit - Paired Raiken]
+Written with the characters for “thunder” and “dog,” this pair of holy hounds are venerated as protector spirits. Many of the komainu statues placed in shrines throughout lapan resemble them. When those who would defile holy ground were struck down with divine lightning, it is the Raiken who loosed the bolts. Legend has it that when [[wikipedia:Tachibana_Ginchiyo|Tachibana Ginchiyo]]'s father, Tachibana Dosetsu, succeeded at cutting lightning, the defeated lightning spirit transformed into a Raiken, and has served as the Tachibana family's guardian spirit ever since. It is said that every Raiken has a mate, and their true power manifests when they are paired.
+
+==CHUGOKU REGION==
+===MAIN MISSIONS===
+[Cutscene – Trouble at Sea]
+The group departs the harbor well-stocked thanks to supplies from the grateful Kuroda clan, and the Liefde sets sail for the Kinki region. Along the way, the ship is attacked by a giant Oni known as an Umi-bozu. It narrowly avoids disaster. but suffers heavy damage and is forced to seek refuge in a port in the Chugoku region, which is ruled by the [[wikipedia:Mōri_clan|Mohri clan]].
+
+Hattori Hanzo: [[wikipedia:William_Adams_(sailor)|William]], [[wikipedia:Kuroda_Yoshitaka|Lord Kanbei]] has arranged a crew for us. I must leave for Osaka to inform [[wikipedia:Tokugawa_Ieyasu|Lord Ieyasu]] of Ishida's latest actions. Let us set sail on the Liefde immediately. [[wikipedia:Kuroda_Nagamasa|Lord Nagamasa]] will accompany us on his way to [[wikipedia:Mōri_clan|Mohri]].
+
+[ [[wikipedia:William_Adams_(sailor)|William]] get on the ship and sails, but falls into a storm. In the middle of the ocean the ship encounters a huge creature ...]
+
+Sailor: It's an [[wikipedia:Umibōzu|Umi-bozu]]!
+
+Kuroda Nagamasa: I'm getting tired of these creatures...
+
+Hattori Hanzo: (to wheelman) What are you doing!? Full rudder! Full rudder!
+
+[Heroes manage to flee from the creature and get to the nearest port. Their ship needs repair.]
+
+Hattori Hanzo: That was the [[wikipedia:Umibōzu|Umi-bozu]]... Even you have no chance of defeating it. The Liefde won't make it far like this. We should make port in Aki at once. [[wikipedia:Kuroda_Nagamasa|Lord Nagamasa]] is off to see how his Hiraoka Yorikatsu fares in the war. Please, go and help the [[wikipedia:Mōri_clan|Mohri clan]] with their campaign. There is little else we can do until the ship is repaired.
+
+[Cutscene – A Dangerous Man]
+The Kikkawa clan is a well-known family that supports the [[wikipedia:Mōri_clan|Mohri]], Visiting them is a brilliant strategist that saves beneath [[wikipedia:Ishida_Mitsunari|Ishida Mitsunari]], known as Shima Sakon. Upon seeing [[wikipedia:Shima_Sakon|Sakon]]'s Guardian Spirit, [[wikipedia:William_Adams_(sailor)|William]] is able to see that he is no ordinary samurai.
+
+[Climbing the long stairs, [[wikipedia:William_Adams_(sailor)|William]] meets a strange man in a large straw hat.]
+
+Hattori Hanzo: That is Ishida's top general, Shima Sakon. He is not someone I would want to have as an enemy. Yet I suspect even General Shima will not be able to convince the [[wikipedia:Mōri_clan|Mohri clan]].
+
+BACKGROUND
+Character - Shima Sakon
+[[wikipedia:Shima_Sakon|Shima Sakon]] (real name Shima Kiyooki) was a general in the service of [[wikipedia:Ishida_Mitsunari|Ishida Mitsunari]] responsible for military strategy. He proved a wise counsellor to [[wikipedia:Ishida_Mitsunari|Mitsunari]], able to temper his lord’s idealism with realistic advice. Born to a powerful family in [[wikipedia:Yamato_Province|Yamato province]] (present-day Nara prefecture), he saved the [[wikipedia:Tsutsui_clan|Tsutsui clan]] in its struggle against [[wikipedia:Matsunaga_Hisahide|Matsunaga Hisahide]] and his allies until he was cast out and became a [[wikipedia:Rōnin|ronin]] after remonstrating frankly with his lord. [[wikipedia:Ishida_Mitsunari|Ishida Mitsunari]], then a leader in [[wikipedia:Toyotomi_clan|Toyotomi clan]]'s service, recognized [[wikipedia:Shima_Sakon|Sakon]]’s genius. He managed to recruit [[wikipedia:Shima_Sakon|Sakon]] in exchange for half of his domain in Sawayama, and used to say that had two things that he didn't deserve [[wikipedia:Sawayama_Castle|Sawayama Castle]] and [[wikipedia:Shima_Sakon|Shima Sakon]].
+
+====The Silver Mine Writhes====
+Kikkawa Hiroie: How good of you to come. I am [[wikipedia:Kikkawa_Hiroie|Kikkawa Hiroie]], lord of [[wikipedia:Izumo_Province|Izumo province]]. Unfortunately, the head of the [[wikipedia:Mōri_clan|Mohri clan]] could not be here, but I shall hear what you have to say in his place.
+
+“[[wikipedia:Iwami_Ginzan_Silver_Mine|Iwami-Ginzan]] is the largest silver mine in all of Japan. Its high-quality silver has fetchedy top prices and profits both inside and outside Japan's borders. However, its riches have also made it a prime target for other warlords, and the locations of its entrance, exit, and chambers are kept a close secret. Over time, the [[wikipedia:Mōri_clan|Mohri clan]] has accelerated their efforts and dug even deeper into the mountain's depths.”
+
+MAY 1600
+[[wikipedia:Iwami_Ginzan_Silver_Mine|IWAMI—GINZAN SILVER MINE]]
+[[wikipedia:Iwami_Province|IWAMI PROVINCE]]
+
+Cat Spirit: This place is filled with poisonous mist. We must find a way to clear it out.
+
+[After defeating the boss - Giant Centipede.]
+
+Cat-Spirit: It is well known that [[wikipedia:Yōkai|yokai]] lash out the stronger the fiends grow, but I’ve never seen anything like this...
+
+[Cutscene – Trouble a Hundredfold]
+William his way to the [[wikipedia:Iwami_Ginzan_Silver_Mine|Iwami Silver Mine]]. After wading through countless Oni and a highly toxic poison, he encounters a large Oni known as a Great Centipede.
+
+Mission Complete
+Kikkawa Hiroie: Thank you for taking care of that business in [[wikipedia:Iwami_Province|Iwami]]. Now we should be able to resume our mining. I would much appreciate it if you didn't tell anyone what you saw down there, Keep it to yourself, and I can assure you that the [[wikipedia:Mōri_clan|Mohri clan]] will be glad to honor Master Hanzo's request for as long as it remains advantageous for us to do so. If you wish for further assistance from the [[wikipedia:Mōri_clan|Mohri clan]], I suggest you go see [[wikipedia:Kobayakawa_Hideaki|Kobayakawa Hideaki]].
+
+BACKGROUND
+[Mine of Death]
+Despite their role in bringing balance to all things, spirit-stones are only born in places where much blood has been spilled. As such, they are both praised as symbols of harmony, and feared as harbingers of disaster. On that day, the miasma that spawned within the depths of [[wikipedia:Iwami_Ginzan_Silver_Mine|Iwami—Ginzan]] swept through the mountain in an instant, turning the entire quarry into a lair for demons. The hapless miners subjected to the miasma soon found their bodies changing into ghoulish mockeries of their human form. They wail endlessly as they cast for lifeless flesh, even as their own continues to rot away.
+
+[Boss - Great Centipede]
+Pronounced "OH moo kah day." Literally “hundred-legs” in Japanese, this yokai takes the form of a giant centipede. Normal centipedes are commonly encountered in forests and mountains throughout Japan, and even at their small size pack enough poison in their bites to cause swelling or even paralysis. A giant yokai centipede, however, has fangs powerful enough to crush bone.
+
+Formed from the “killer rocks” scattered around the silver mine. Normally, of course, these rocks, which spew poison gases, are incapable of movement. But the spirit of an ancient centipede seems to have attached itself to multiple rocks, controlling them as if they were the segments of its former living body.
+
+Consisting as it does of multiple rocks, its segment freely break off and fuse back together. Its body twists in strange patterns that can disorient human eyes. Its tendency to spit venom means any who would face it need to take precautions against poisoning.
+
+====The Ocean Roars Again====
+Kobayakawa Hideaki: Those rumors of the ghost haunting Itsukushima have the crew scared stiff. We Kobayakawa may be masters of the sea, but our expertise doesn't extend to the supernatural. If you were to drive away this fearsome spirit, Sir Anjin, I would be happy to arrange a meeting with the Murakami. They should be able to repair your foreign vessel. I may even consider helping out [[wikipedia:Tokugawa_Ieyasu|Lord Ieyasu]] for your trouble.
+
+“Itsukushima, located in the Aki domain, is a shrine built in the 12th century atop of basin of holy water, now contaminated by yokai energy to the point of ruination. The previous head of the Kobayakawa family, Takakage, took great pains to reconstruct and protect the shrines of the West. But Hideaki has proven himself not up to the task, and the area has now been infested by yokai and pirates.”
+
+MAY 1600
+ITSUKUSHIMA ISLAND
+AKI PROVINCE
+
+Fuku: Thank you for coming. Lord Hideaki’s servant has informed me of the particulars. The yokai in question appears to be using this area for it’s base. Sir Anjin, I ask that you take this with you. (You got Flint; You got Fire Amulet)
+
+[Cutscene - Wrath of Umi-bozu]
+Despite being known for its holy shrine, the island of Itsukushima is overrun by yokai. William makes his way through the flooded temple where he eventually comes across Umi-bozu, which has manifested itself by feeding the souls and deep-seated grudges of those who have riled at sea.
+(After defeating Umi-bozu.)
+
+???: I-I can’t breathe... H-help...
+
+SAWAYAMA CASTLE
+OMI PROVINCE
+
+[Cutscene - State of Affairs]
+Inside Sawayama Castle, Ishida Mitsunari secretly meets with his advisors, Shima Sakon and Otani Yoshitsugu, to discuss their plan to defeat [[wikipedia:Tokugawa_Ieyasu|Tokugawa Ieyasu]]. Just then, Kelley appears with an offer to help the beleaguered Ishida forces.
+Shima Sakon: [[wikipedia:Tokugawa_Ieyasu|Lord Ieyasu]]'s plans to invade the Western provinces are progressing. He has even gone so far as to send a foreigner to the Mohri clan. How is Owari faring in the East, Lord Otani Gyobu?
+
+Otani Yoshitsugu: The Sanada clan of Shinshu will join our side. But the East remains Tokugawa's stronghold. Many warlords have pledged their allegiance him.
+
+Shima Sakon: Lord Mitsunari truly lacks support.
+
+Otani Yoshitsugu: That's an understatement. How on earth can a man be so hated?
+
+Ishida Mitsunari: Then let me teach those foolish warlords the meaning of justice.
+
+Shima Sakon: More words. I hope this "justice" doesn't simply buy him more enemies. (To Otani) I cannot defeat the Tokugawa by normal means. Will you taint your hands with me, Lord Otani?
+
+Otani Yoshitsugu: The Black Arts keep this shell of a body alive. Even should I return to the righteous path, heaven would never have me. (Edward Kelley enters) This man found a spirit-stone hidden in Dazaifu. Now he is offering it to us, for use against our foes.
+
+Shima Sakon: Are you saying we need the foreigner?
+
+Mission Complete
+Kobayakawa Hideaki: Anjin, was it? Nice work. A Kobayakawa always keeps his promises, so I'll be glad to ask the Murakami to fix your ship. Feel free to tell [[wikipedia:Tokugawa_Ieyasu|Lord Ieyasu]] that he can count on us for help as well. Well most likely, anyway. The Mohri clan is quite large, after all; it can take time to build a
+
+BACKGROUND
+[Character - Kobayakawa Hideaki]
+Kobayakawa Hideaki is a general under the Toyotomi clan. He is the leader of the Chugoku-based Kobayakawa clan, which, along with the Kikkawa clan, is one of the "two rivers" (kawa) supporting the Mohri clan. Hideaki was born into [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]]'s family, and was even considered for a role as his successor before the birth of Hideyoi made that irrelevant. Rising so high early in life made him arrogant, and the other generals consider him an inexperienced child.
+
+[Character - Ishida Mitsunari]
+Ishida Mitsunari is a general under the Toyotomi clan. He has served [[wikipedia:Toyotomi_Hideyoshi|Toyotomi Hideyoshi]] since the latter was under [[wikipedia:Oda_Nobunaga|Oda Nobunaga]], and was rewarded with the administrative rank of "Jibushoyu" after [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]]'s conquest; he was referred to as "Jibusho" as a result. [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]] trusted Mitsunari as a man not driven by self-interest, and granted him the fiefdom of Sawayama in Omi province. Mitsunari was one of the Five Commissioners who actually held power under [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]], but often argued obstinately with the others due to his own purity and sense of justice. After the death of [[wikipedia:Toyotomi_Hideyoshi|Hideyoshi]], he clashed furiously with the faction who were accepting [[wikipedia:Tokugawa_Ieyasu|Tokugawa Ieyasu]], and put everything he had into the survival of the Toyotomi clan. He was no less skilled a plotter than "Ieyasu the Tanuki" and was called by some the "Fox of Sawayama".
+
+[Enemy – Lesser Umi-bozu]
+Ko-umi-bozu, literally "small umi-bozu," are the resentful souls of samurai who died fighting at sea. They are said to lurk in the waves and ambush passing vessels, making them feared by fishermen, but also reportedly come up onto the shore at times.
+
+Their bodies are made of jelly-like water, and despite their weapons they attack only weakly. The faintly shining sphere at their core is said to be their vulnerable point, and there are legends of fishermen who successfully drove off attacking Ko-umi-bozu by harpooning this sphere when it happened to be exposed at the right time.
+
+[Boss – Umi-bozu]
+Pronounced “OOH-me BOW-zoo”. A large and very strange looking yokai that inhabits ocean waters. Also known as "umi-nyudo" and "umi-hoshi." A famed yokai of many legends; it takes its name, which literally means "sea-monk", from its round, bald head. Its appearances inevitably herald violent storms.
+
+Its body is a mass of water as large as a mountain. It’s body contain an Amrita core, and the light from it emanates from between the waves to resemble eyes. Its tiniest movement can create titanic waves, sending even the stoutest of ships to the bottom of the sea with all men aboard.
+
+Even should you manage to approach the Umi-bozu during a storm, it will provide a formidable opponent. It attacks with tentacle-like appendages formed from water, and can split the debris from former wrecks out at hurricane speeds. Some legends claim that it is susceptible to fire.
+===SUB MISSIONS===
+====The Guardian of the Underworld====
+Fuku: We Onmyo Mages maintain the balance between world and the underworld. But this bloody age has lasted so long that the underworld overflows with the dead. Soon it will be entirely beyond our control. Lord Anjin, I can use powers to take you to the [[wikipedia:Yōkai|Yokai]] Realm the gap between and the hereafter. Will you, in return, use your powers to the [[wikipedia:Yōkai|yokai]] hordes that spill through?
+
+“[[wikipedia:Yomi|Yomotsu Hirasaka]] is said to be the entrance to the underworld. Upon passing through it, visitors will find the [[wikipedia:Sanzu_River|river Sanzu]] separating the human world from the hereafter. The sheer number of dead souls produced from the ongoing war have attracted large numbers of [[wikipedia:Yōkai|yokai]].”
+
+Mission Complete
+Fuku: That should quiet the [[wikipedia:Yōkai|yokai]] for a while. But as long as this age of war continues, angry demons will continue to spew forth from the [[wikipedia:Yōkai|Yokai]] Realm to our own. Only peace can bring us respite. I pray we shall see it.
+
+====The Three Angry Gods====
+Okatsu: Apparently [[wikipedia:Yōkai|yokai]] are running wild in the ruins between the mountains. I understand that the ruins originally housed three divine items, each with its own god. Normally, an area dedicated to the gods remains pure forever. Something untoward might have happened in this case. If we wait until the villagers are harmed, it will be too late. Can I ask you to take care of the problem?
+
+“These ruins, located deep within the mountains and surrounded by sheer cliffs, are believed to have been constructed by a once powerful clan. Even after the clan's demise its great shrine and underground catacomb remain impressive, but with no one around to care for them they have fallen to ruin, and now house nothing other than [[wikipedia:Yōkai|yokai]]. At this point, not even grave robbers are willing to approach it.”
+
+Mission Complete
+Okatsu: Three [[wikipedia:Yōkai|yokai]], you say... I wonder, were the [[wikipedia:Yōkai|yokai]] drawn to the gods, or did the gods themselves become [[wikipedia:Yōkai|yokai]]? Well, that might be a mystery, but that you have defeated them is clear. You have my gratitude.
+
+BACKGROUND
+[Guardian Spirit – Isonade]
+Water elemental. Pronounced “EE-soh NAH-day,” the name means "the sea's caress". Following the northern sea wings, Isonade prowls just beneath the surface in search of prey. It uses its powerful tail to entangle and pull victims beneath the waves. By the time you feel the slightest breeze, it's already too late. Believing it responsible for stirring up rough seas, local sailors make offerings to the Isonade in a prayer for calm sailing.
+
+[Guardian Spirit - Daiba-Washi]
+Wind elemental. Pronounced "DIE-bah WAH-shee," the name means "horsekiller hawk". So called for a mysterious phenomenon in which the wind whips up and horses die suddenly. Observers have described it as a whirlwind of glowing needles surrounding the hapless animal. Slashing the air in front of the horse with a sword will deflect it. On the other hand, some actually venerate the Daiba-Washi, believing that these same characteristics can shield them from danger.
+
+[Enemy - Onyudo]
+O-nyudo (oh-NYOO-doh) are yokai that take the form of a gigantic monk and are said to be former novices who were unable to fully leave the lay world behind and broke the vows of their temple. They appear to collect the skulls of the people they kill, hanging them from their robes like a string of prayer beads. Those who do not wish to join that collection would do well to avoid this yokai.
+
+Onyudo have inordinately long tongues imbued with the element of fire, water, wind, lightning, or earth. They can use their tongues to strike the unsuspecting from a surprisingly long distance. They do not use any other weapons, but their ability to launch savage attacks with balls of flesh drawn from their gigantic bodies is more than dangerous enough.
+
+====The Magatama of Fire====
+Senji Tome: I want to make stronger weapons, but for that I need a stronger fire. That Onmyo Mage you know told that there's kind of fire yokai in the silver mines of Iwami. Could I ask you to go there take the source of their flames for me?
+
+Mission Complete
+Senji Tome: Thank you, Anjin! I'm sure that Magatama will heat up the furnace if I put it in. Indeed I can feel its heat from over here! I'll prepare at the smithy, so bring it along next time you visit. I'm sure I can be even more help to you then!
+
+BACKGROUND
+[Character – Senji Tome]
+Women are not usually permitted in blacksmith forges, Kanayago-kami, the goddess of fire, earth, and death to whom all smithies are sacred, is said to frown on the presence of any other there. The Muramasa family, however, have their own Amrita-based techniques their own rules. Tome has always worked alongside the at the forge.
+
+====The Bridge of Bone====
+Kobayakawa Hideaki: Ah, Sir Anjin! Thank you for coming. I received word from one of the villages in my domain that at darkest night, bandits appear from nowhere and stream over Ohashi bridge to attack them. I have assembled my strongest samurai to take care of the matter, but would you mind lending your assistance? We could use it, and time is of the essence!
+
+"Since ancient times, bridges have been an indispensable part of transportation. However, some bridges are thought not to span just space, but also the human and Yokai Realms. When night falls on bridges in some places, gates are shut and guards posted to prevent strange things from crossing over."
+
+Kobayakawa Hideaki: I am in your debt, Sir Anjin! I hear that yokai appeared and took many lives... A great loss, since all were among my finest samurai. But at least their deaths were not in vain: the disturbance has been quieted. Here is your reward. And with fewer people to divide it between, your share is all the greater... Hee hee hee!
+
+BACKGROUND
+[Character - Kobayakawa Hideaki]
+Hideaki proved his valour in his first campaign after coming of age, catching the eye of veterans like Kato Kiyomasa. However, despite committing no particular wrong, he was treated poorly, including having half of his land taken away. This bred anger and resentment, and his natural fondness for drink and luxury took a turn for the worse.
+
+====Heir to the Nioh====
+Kikkawa Hiroie: Thank you for coming, Sir Anjin. We tried to put down the yokai that have overrun Itsukushima ourselves, but did not succeed. In fact, even my sword was stolen. By rights I should slit my stomach and die in disgrace, but the Mohri need me yet. Sir Anjin, it shames me to ask this, but will you slay the yokai and retrieve my sword for me?
+
+(After defeating Raven Tengu as a boss and finding Kikkawa Hiroie’s sword…)
+
+Hiroie's Thoughts: The brave warrior Kikkawa Motoharu, and the strategist Kabayakawa Takakage, together known as the Nioh, grew the Mohri clan into the largest and most powerful in the Western provinces. Now that both have passed, it is clear I am not at the level of the Nioh. Who will safeguard the Mohri clan through the scorching flames of war? Ishida or Tokugawa..? All I can do is wait and see whom I should ally with after the smoke clears.
+
+Mission Complete
+Kikkawa Hiroie: Sir Anjin, I cannot thank you enough. In truth, the Kikkawa and Kobayakawa should have resolved this alone, but... No, I shall speak no more of that. Allow me to lend you this sword as an expression of my gratitude Such blades sit best in the hands of samurai such as yourself When I have surpassed my father and become a warrior as fierce as the Nioh of old, then I shall come to ask for it back.
+
+BACKGROUND
+[Guardian Spirit – Hi-nezumi]
+Pronounced “HEE-neh-zoo-mee”. The hi-nezumi lends strength to those possessing the will to face difficult problems head-on. In the famed "Tale of the Bamboo Cutter," one of the objects Princess Kaguya asks her would-be suitors to acquire is a hi-nezumi fur coat. One suitor tried to take the easy route of purchasing such a coat, and failed the task. Perhaps he would have succeeded if he had faced the challenge with enough determination that a real hi-nezumi had come to his aid.
+
+[Enemy – Raven Tengu]
+Karasu Tengu, giant Tengu with wings like a crow's, have been known to humans since ancient times. They have keen eyesight and hard beaks and fly about as they please, controlling the wind. They have no trouble finding purchase even on sheer cliff faces and use their control of the winds to attack when provoked, making them a troublesome foe.
+
+Tengu are said to be strange echoes of Garuda, Buddhist guardian deity and slayer of serpents and dragons. Reportedly, in some areas they coexist with humans. The Karasu Tengu on Mount Kurama in Kyoto's north are credited with teaching the young Minamoto no Yoshitsune swordsmanship.
+
+[Enemy – Amrita Fiend]
+An Amrita Fiend is a fiend with Amrita spikes driven deep into their shoulders and heads, sending them berserk. An Amrita Fiend is altogether more powerful than a normal fiend.
+
+Amrita spikes contain attributes of either fire, water, wind, lightning, or earth. Match your elemental attack to the attribute of the Amrita Fiend to enhance the power of your hits. But beware: when an Amrita Fiend's power exceeds a certain level, it will explode--and this too can be exploited as a tactic by those so inclined.
+
+====The Conspirators====
+Kobayakawa Hideaki: Sir Anjin! My apologies for summoning you so frequently. I have called you today because my finest sword was stolen by bandits who swarmed my palanquin. escaped unharmed, but as you know,a warrior's sword is his life. I must get it back. I, Hideaki, shall obliterate the bandits and retrieve my sword myself!... is what I thought at first, but as the head of the clan it would be irresponsible for me to leap headfirst into danger. Will you go on my behalf?
+
+Hideaki's Thoughts: Pathetic. Titles and clans, loyalty and honor, all of it! Ishida or Tokugawa! Who cares! But can, play the jester and shake things up. Even should my name ring in infamy for a thousand years! I want to smash this world and its troubles both. And this "pirate" Anjin may just give me my chance.
+
+Mission Complete
+Kobayakawa Hideaki: My sword! You found it! My thanks, Sir Anjin. A warrior's sword is his life-no, his soul! What's that? A ninja yokai, you say? Wonders will never cease. Well, you are alive and that is what matters. Please take this sword as a token of my gratitude, I still have much to ask of you... Hee hee hee!
+
+BACKGROUND
+[Character - Kobayakawa Hideaki]
+Hideaki acts arrogant towards others, but the truth is that he fears that they will see through his act and look down on him. As a result, he lacks confidence in his actions. On the other hand, in his relationships with superiors he has a tendency to rely on their conscience and goodwill. Nor can he bring himself to abandon all humanity. He seeks more power, but finds acquiescence to power meaningless. He tends to view the world coldly, as something without any worth, and his desire to tear it up and oppose everything grows stronger by the day. Even the smallest event might set him off.
+
+[Guardian Spirit - Aya-komori]
+This Guardian Spirit has two sides to its nature. The "aya" part means both “string” and the metaphorical “strings” that connect people to society and each other. An Aya-komori's outer self is vivacious and outgoing, but it prefers to reveal its inner self to those trapped by their bonds. Once an Aya-komori has offered its protection, its master may choose to continue coping with their situation or to break free of it entirely; the Aya-komori will help them either way.
+
+==KINKI REGION==
+[Cutscene - A Skeptical Audience]
+Through an introduction from Hanzo, William is able to meet with Tokugawa Ieyasu, but it is actually a double, William tuns to the Tokugawa general Torii Mototada for help, but is rebuffed until the young Ii Naomasa proposes a test to prove whether William is trustworthy or not.
+
+Hattori Hanzo: Ishida's campaign in the west is going well for him, but with Kikkawa and Kobayakawa we still have the upper hand. It is a wonderful city, William; I look forward to showing it to you. And Kyoto, the imperial residence, is close as well. At last, you will able to meet with my lord Ieyasu in Osaka.
+
+Tokugawa Ieyasu: Rise.
+
+Torii Mototada: Is it true you can see yokai, even kill them? But of course, as the saying goes, a master never speaks of extraordinary things if he can actually achieve them. Do you honestly expect me to believe you can see yokai?
+
+William: (To Hanzo, looking at Tokugawa) This one has absolutely no power... Hanzo, do you seriously follow this pretentious little prick?
+
+Torii Mototada: What did he say!?
+
+Hattori Hanzo: Lord Torii William says the man over there is actually Lord Ieyasu's double.
+
+Torii Mototada: Somehow I think he said much more than that! And Hanzo, didn't you tell him about Lord Ieyasu's double before this!? What are you laughing about!?
+
+Ii Naomasa: There, there, Lord Torii. We know Master Hanzo, and this man comes recommended by him. It wouldn't do to dismiss him so lightly. If I may, might I offer an idea...?
+
+===MAIN MISSIONS===
+====Spider Nest Castle====
+Ii Naomasa: There are rumors of strange creatures attacking travelers on Shigisan. If they truly are yokai, Master Anjin's presence would be a great reassurance. Lord Torii, I will personally determine whether or not Master Anjin is worthy of our trust. What do you say, Master Anjin? Will you help?
+
+“Shigisan Castle was once home to Matsunaga Hisahide, the man who chose to revolt against Oda Nobunaga seemingly out of nowhere. Oda responded by waging one of the bloodiest and most horrific sieges in history. Now, though the castle lies in ruins, the grudges of those who lost their lives there - the hunger and thirst its fallen soldiers suffered, the resentment they harbored towards those who deserted them, the suspicion they felt wondering which of their comrades had betrayed them - have attracted all manner of vile yokai.”
+
+May 1600
+SHIGUSAN CASTLE
+YAMATO PROVINCE
+
+[Cutscene - The Spider's Web]
+Shigisan Castle, Yamato Province William finds the castle to be long abandoned save for countless spiders, both big and small. Upon arriving in the decrepit main keep, William encounters the terrifying Joro-gumo.
+
+[Cutscene - Danjo's Teahouse]
+After William slays the Joro-gumo, a mysterious man appears before him. Going by the name Danjo, he takes great Interest in William as be prepares him a cup of tea.
+
+William: Who are you?
+
+Danjo: Well, well! You can "see" them too, can't you, foreigner? This teakettle is called "Hiragumo" - the Flatspider. Let me make you tea.
+
+(He rings a small bell and the room changes. William dreams the tea and spit it out.)
+
+Danjo: No appreciation for tea? No matter. You're an interesting man. Why don't you make yourself at home in my tea room?
+
+(William touches the bell and sees Danjo's thoughts.)
+
+Danjo's Thoughts: Nobunaga said I committed three deadly sins: killing my master, murdering a shogun and burning the giant Buddha. You thought a simpleton like you could "see" me too? Ha ha!
+
+Danjo: Call me Danjo, if you like.
+
+Mission Complete
+Torii Mototada: If Master Naomasa recognizes you, so too do I. Lord Ieyasu has departed Edo on his campaign to destroy Uesugi. He should just be arriving at Kyoto right about now. I suggest you go and join him there. Hanzo, you'll forgive me if I choose not to accompany Sir Anjin; my heart simply couldn't take it. As they say, the clever avoid danger.
+
+HIDDEN TREEHOUSE
+Danjo: Heh heh. It's always nice to see a customer. This tearoom is my pride and joy; a place that straddles our realm and the other world. But, I suspect that you have realized this already. I hear that you have taken to playing at being a warrior... But a warrior fights not for himself. His efforts are all for the good of his clan. Perhaps it is time you joined one too. Now, look into my Hiragumo kettle.
+
+(You choose your clan.)
+
+BACKGROUND
+[Character - Matsunaga Hisahide]
+[[wikipedia:Matsunaga_Hisahide|Matsunaga Hisahide]] was a general based in [[wikipedia:Yamato_Province|Yamato province]]. He was commonly known as “Danjo”, and took control of much of central Japan through sheer brutality, from killing the head of the [[wikipedia:Miyoshi_clan|Miyoshi clan]] he supposedly served to driving the [[wikipedia:Ashikaga_shogunate|Ashikaga shogunate]] from Kyoto. When [[wikipedia:Oda_Nobunaga|Oda Nobunaga]] took Kyoto, [[wikipedia:Matsunaga_Hisahide|Hisahide]] entered his service, but instead of helping [[wikipedia:Oda_Nobunaga|Nobunaga]], [[wikipedia:Matsunaga_Hisahide|Hisahide]] used his newfound influence to purge his enemies during the westward advance. Despite repeated betrayals, he always managed to talk his way out of punishment until finally [[wikipedia:Oda_Nobunaga|Nobunaga]] attacked his base of operations and finished him. [[wikipedia:Matsunaga_Hisahide|Hisahide]] was an evil schemer who did not hesitate to turn on those who trusted him, but also a devotee of the tea ceremony who built a collection of expensive and valuable utensils he had discovered.
+
+[[wikipedia:Oda_Nobunaga|Nobunaga]] was repeatedly betrayed by [[wikipedia:Matsunaga_Hisahide|Hisahide]], but they shared an interest in the tea ceremony and [[wikipedia:Oda_Nobunaga|Nobunaga]] is said to have had a respect for [[wikipedia:Matsunaga_Hisahide|Hisahide]]'s skill at building castles. Even after [[wikipedia:Matsunaga_Hisahide|Hisahide]]'s third betrayal, [[wikipedia:Oda_Nobunaga|Nobunaga]] offered to spare his life in exchange for the legendary Hiragumo kettle. However, [[wikipedia:Matsunaga_Hisahide|Hisahide]] refused the offer and is said to have used gunpowder to blow up the Hiragumo along with himself.
+
+[Guardina Spirit – Itokuri]
+Pronouced “EE-toe COO-ree,” this spider spirit is not content to merely protect people. It also likes to alter their fates, taking them down a winding path on the way to their destination. As an example, many loathe [[wikipedia:Matsunaga_Hisahide|Matsunaga Hisahide]] for his villainy, while others remember him as one of the most cultivated gentlemen of his generation. Either way, his influence was huge and far-reaching, though it remains unclear to what extent an Itokuri was involved.
+
+The Itokuri have particular fondness for treasures and historical items that have affected the fates of many. Some people even venerate the Itokuri merely for a chance associate with such artifacts.
+
+[Enemy – Spider]
+Spiders are carnivorous arthropods. Under the influence of Amrita, they metamorphose into gigantic yokai that prey on humans. They cast sticky webs to immobilize their prey, then approach to begin feeding. Because spiders can climb walls and hang from the ceiling, they can attack the unwary from the most unexpected places.
+
+Spiders are generally solitary and silent by nature, but when transformed into yokai they are known to form packs. A single yokai spider is no great threat, but it is difficult to fend off a combined attack from an entire pack, and if they can manage to surround their prey completely that person will seldom escape.
+
+[Boss – Joro-Gumo]
+Pronounced “JOH-ro GOO-mo”. A horrific fusion of a woman's torso and with the lower body of a spider. Ensnares humans in her sticky threads, then devours them alive. In spite of her giant size, can freely climb walls and ceilings. Her arachnid legs are covered in a thick shell, making them highly resistant to damage.
+
+Its true form is the priceless, one of a kind Hiragumo teapot. Named for its flattened appearance, the teapot's full name is actually Kotenmyo Hiragumo. It was a beloved possession of [[wikipedia:Matsunaga_Hisahide|Matsunaga Hisahide]], Lord of Shigisan Castle.
+
+In folklore, spiders and their sticky webs have long symbolized obsession, and it is thought that the Hiragumo teapot is acting as a nexus that interwove the souls of the many soldiers who died at Shigisan into a ferocious spider Yokai.
+
+====Falling Snow====
+Hattori Hanzo: How strange to see snow falling in June... We must do something before the capital completely freezes over. The cold is coming from Honnoji Temple. Rumor also has it that a woman's cries echo from the structure every night. Will you look into it, William?
+
+"Honnoji a temple in the northern area of Yamashiro-no-kuni and the final resting place of Oda Nobunaga, killed just before he was able to realize his ambition of uniting all of Japan. Known as both demon and hero for gaining control of nearly all of Japan wit unprecedented speed, Oda Nobunaga was killed in 1582 when he was betrayed by one of his allies, and his sudden death sent shockwaves throughout the land. The betrayer Akechi Mitsuhide was himself quickly killed, and his intentions in killing Nobunaga remain shrouded in mystery. Even now, nearly 20 years later, no one enters the temple for fear of the curse of Oda Nobunaga."
+
+June 1600
+HANNOJI TEMPLE
+YAMASHIRO PROVINCE
+
+Cat-Spirit: Well, well, a frost butterfly. What an unusually elegant twist. Perhaps something has changed now that the creature causing this disturbance is gone?
+
+(First frost butterflies killed)
+
+Woman's voice: Ever since that day, my heart has belonged to you... And yet...
+
+(Second frost butterflies killed)
+
+Woman's voice: Oh, my lord... How could you leave me like this...
+
+(Soon William finds an icy looking woman that blow out frozen butterflies.)
+
+[Cutscene - A Snow Princess]
+A mighty blizzard descends upon the capital, despite being the wrong time of year. Seemingly centered around Honnoji, William makes his way to the temple in order to learn the cause. Inside the temple compound, a beautiful yokai known as the Yuki-Onna lies in wait for him.
+
+Yuki-Onna: I haven't had a visitor for a long time. It's been boring. (she stands in the pose of attack) Come!
+
+(William defeats her and the room they stand setting on fire.)
+
+[Cutscene - Thawing Snow]
+The Yuki-Onna is actually Oda Nobunaga's wife Princess Noh, who died alongside Nobunaga at Honnoji. After sharing the Guardian Spirit known as the Usura-hicho with William, Princess Noh is swallowed by the flames and is finally able to rest in peace.
+
+Yuki-Onna: Thank you. Now I can go, and be with my lord again.
+
+(She disappears. William hear her thoughts.)
+
+Yuki-Onna's thoughts: We were betrayed... Lord Nobunaga's dream of unifying the country vanished in the flames. The snake-man brought me back with his magic... But all I heard were the cries of the world. My wish is to be together with him, forever.
+
+[Cutscene - Tenkai the Onmyo Mage]
+An old Onmyo Mage known as Tenkai appears before William. Much like his face, the man's true intentions are shrouded in mystery. However, he states that he heard about William from Fuku, and that Kelley can be found at Mount Hiei.
+
+Tenkai: My name is Tenkai. I heard about you from Fuku, Sir Anjin. The man calling himself Kelley left for Mount Hiei, which lies to the northeast of Kyoto. Let me be your guide.
+
+William: (looking at Tenkai's spirit) It seems you have some... history with this place.
+
+Tenkai: (telepathically) I have things that I cannot tell you. But do not worry.
+
+Mission Complete
+Hattori Hanzo: I've never been so glad to see sunlight. Kyoto should soon thaw out from its frost now, thanks to you. I still find it hard to believe that the Yuki-Onna was actually Lady No, Lord Nobunaga's wife... Never a dull moment with you around, is there? Master Tenkai is a close friend of Lord Ieyasu. We should take his advice and head for Mount Hiei.
+
+BACKGROUND
+[Character – Tenkai]
+Tenkai is a monk at Muryojuji-kitaiin Temple in Kawagoe, Musashi province. His early life is shrouded in mystery, but after taking orders he studied various temples before joining the Tendai sect of esoteric Buddhism. As well as Buddhism, he is versed in Shinto, Taoism, Onmyo, Shugendo, and even Feng Shui, and uses this knowledge to advise powerful daimyo. It seems that Onmyo magic has some overlap with alchemy, and Tenkai is concerned that abusing the spiritual power of Amrita could lead to disaster.
+
+[Guardian Spirit – Usara-hicho]
+This striking guardian spirit is as cold as it is beautiful. Its followers swear that venerating it will protect you from ice and snow-related disasters. Others believe that the frost butterfly is a manifestation of the souls of people who have lost their lives to grief or cold.
+
+[Boss – Yuki-Onna]
+Pronounced YOU-key OH-na. Yokai woman enveloped in a haze of icy cold air. Also treated as incarnations of snow. Yuki-Onna is a well-known presence in snowy regions; some legends hold that a woman who dies an unnatural death during a snowstorm will return as a Yuki-Onna. Her breath is so powerfully cold that it freezes on contact, and cases of one breath freezing an entire home to death are not unknown.
+
+The Yuki-Onna of Honnoji temple is Princess No, resurrected in yokai form by Kelley's dark magic. Her grief over the death of her beloved husband Oda Nobunaga froze the entire city of Kyoto. It is said if one with the power to control ice and snow is armed with a naginata, they might stand a chance against her.
+
+Princess No is her common name, taken from her hometown in Mino province (modern-day Gifu prefecture). Her real name is Kicho. Nobunaga loved her noble and fierce personality. They were a happy couple but perished together in the flames of Honnoji temple.
+
+===SUB MISSIONS===
+====The Ogress====
+Okatsu: Apparently there's a cemetery in our domain that rings with the eerie sound of a woman crying every night. It has the locals terrified and they asked me to do something about it. I don't supposeI could impose on you to investigate?
+
+"As war chums on and faith falters, ever more temples fall into decay. But the spiritual power inherent to holy grounds can serve as a beacon to yokai and other evil spirits transforming many abandoned temples into dens of malice."
+
+Woman's voice behind the door: Yahiko... Where are you... I-I don't know who I am...
+
+(After defeating the ghost...)
+
+Ghost: The snake man. He... he did this to… me... Aaah!!
+
+Mission Complete
+Okatsu: A yokai! I should have known. I hear that a lot of people are transformed into ghosts and yokai after death-it's the power of their worldly attachments and resentments Perhaps the one you saw, too, was lamenting whatever it was that bound her to our world...
+
+BACKGROUND
+[Character - Torii Mototada]
+Torii Mototada, also known as "Hikoemon," was a general under the Tokugawa clan. An older leader who has known Ieyasu since the latter was a boy, his loyalty to his lord and earnest, deceitful service was praised as the epitome of the Mikawa samurai ideal. His role in Tokugawa's army was to ride at the head of a unit accompanying Ieyasu himself. Mototada distinguished himself in both defensive and offensive actions against the Takeda clan and their allies, and when Ieyasu was later attacked from the rear by the Hojo clan, Mototada fought them off. He refused any reward, however, saying that such praise was only useful to those changing their loyalties. When Toyotomi Hideyoshi became Ieyasu's lord and offered him official recognition, Mototada rejected it again, revealing a side so loyal and stubborn as to be impractical.
+
+[Character - Ii Naomasa]
+Ii Naomasa was a general under Tokugawa Ieyasu, known for being as versed in the finer arts as the arts of war. He was counted among the Four Celestial Kings whose contributions to the Tokugawa clan were most spectacular. Naomasa entered Ieyasu's service as a page at the Battle of Nagashino, which triggered the demise of the Takeda clan. Despite his gentle demeanour, youthful good looks, his body was covered in countless battle scars, revealing the intensity of his efforts on the battlefield.
+
+[Enemy - Flying Bolt]
+Flying Bolt is a female yokai with a long bolt of cotton cloth wrapped around her. As the white cloth resembles a funeral shroud, she is thought to be the demonic transformation of a resentful soul whose funeral service did not send her to the next world. Her respectably blackened teeth suggest that she was married and of high station of life.
+
+Flying Bolt floats in the air and attacks with her cloth as if it were a blade. The Japanese name is Ittan-momen. "Momen" means cotton, while "ittan" is a measure of length in the world of Japanese clothing: just enough fabric to make an adult kimono. But no matter how much of Ittan-momen's bolt of cloth is cut away, she never runs out, indicating that the cloth itself is not of this world.
+
+====The Battle of Ohashi Bridge====
+Hattori Hanzo: I find this hard to believe myself, but... It seems that a giant ghost has appeared at Ohashi bridge and is attacking those who cross and stealing their weapons, If it were a yokai, that would be one thing... but how can a ghost attack people? Wiliam will you get to the bottom of this for me?
+
+Mission Complete
+Hattori Hanzo: Hmm... so that was it. This smells like the work of the man who came from your distant land in pursuit of you. To toy with even our greatest ancestors... Just how far will he go to make a fol of this country? William, on behalf of the land of the rising sun, I thank you.
+
+====The Disappearing Ranjatai====
+Matsunaga Hisahide: Ranjatai is the most magnificently fragrant incense wood under heaven - and yet it seems that a fragment of it was found in a cemetery for no obvious reason. The wood that even Nobunaga cut himself a piece of! How I long to smell its perfume, even once. The same goes for you, I'm sure... Well what are you waiting for? Stop standing around and go get it!
+
+Mission Complete
+Matsunaga Hisahide: So this is Ranjatai! I want to say I'm impressed, but it looks like a chunk of scrap wood. An obvious fraud! This is not what I was hoping for at all. Here! You can take it as your reward. Fake or no, you may find a discerning buyer willing to pay you something for it.
+
+BACKGROUND
+[Character - Matsunaga Hisahide]
+To eliminate the tree [[wikipedia:Miyoshi_clan|Miyoshi]] generals who held the most power in the clan, Hisahide set fire to Todaiji temple, where their forces had taken refuge, and burned down the Hall of the Great Buddha. However, the Shosoin and its countless treasures escaped destruction. As a devotee of the tea ceremony, Hisahide was also reluctant to see the neighboring tea room, the Juko Zashiki destroyed in battle, and is said to have slipped in before his forces advanced to rescue the valuable items it contained.
+
+====Demon Hunting====
+Ii Naomasa: Our domain is infested with yokai of late, and the people are suffering for it. If the enemy were not yokai, I would fight alongside you, but...Sir Anjin, can I leave this in your hands?
+
+(William destroys yokai in a small forest and kills another Onryoki.)
+
+Mission Complete
+Ii Naomasa: They call me the Red Oni, but what am I compared to a man who battles real demons? Perhaps one day I will have the good fortune to probe your prowess as a warrior with my spear.
+
+BACKGROUND
+[Character - Ii Naomasa]
+Naomasa hired a unit of Takeda retainers who were feared for their blood—red armor and reorganized them as "Ii's Reds." Naomasa led them personally. The Reds proved their mettle at battles across Japan, with Naomasa himself wearing a horned helmet and bringing such ferocity to confrontation that he became known as the Red Oni.
+
+====The Malefactors====
+Matsunaga Hisahide: Ghosts have taken up residence in my castle. The racket is just terrible. Apparently I'm the one they're trying to haunt, but I lack the ability to exorcize ghosts. Won't you do something about it? I'll make it worth your while. Hee hee hee!
+
+Mission Complete
+Matsunaga Hisahide: So it was them, was it? Tangled up in their hates and passions even after death... How tiresome they can be. Well, your work was well done. But if it had been the Swordsman Shogun, even you might have struggled to prevail... Hee hee hee!
+
+BACKGROUND
+[Character - Matsunaga Hisahide]
+Hisahide’s parentage remains unclear, but his genius first became apparent in the service of Miyoshi Nagayoshi. As the Miyoshi clan's power grew, so too did Hisahide's influence within it, finally, as the Miyoshi clan began to totter, Hisahide seized control of it from below—but he saved his rebellion for after the death of Nagayoshi, who had always had affection for Hisahide.
+
+====The Red Oni of the Ii====
+Ii Naomasa: The time has at last. Truly, my heart thrills at the thought of our duel. Let us battle in the dojo. An honest fight between one warrior and another. Do you agree?
+
+(William beats a famous warrior in a fair fight.)
+
+Ii Naomasa: Well done. You have left no recourse than to recognize your skill as a samurai.
+
+Naomasa’s Thoughts: Lord Ieyasu honored me. Perhaps because of my mother, [[wikipedia:Ii_Naotora|Naotora]]. He bestowed upon this prestigious crimson armor. I will live up to his expectations... I will fight for his honor!
+
+Mission Complete
+Ii Naomasa: I expected nothing less of you, Sir Anjin. Who expected the feared Red Oni should be defeated so soundly! But this will only spur to train harder. Let us repeat this duel again one day!
+
+BACKGROUND
+[Guardian Spirit - Enko]
+Pronounced "Enko" in Japanese, this flame-wreathed guardian spirit bestows power upon those who turn with fighting spirit conviction. The fire-tiger itself also takes pleasure in battle, gleefully using its fangs claws to tear its enemies apart. Many warriors venerated the wishing for nothing more than to be able to follow its example heading into enemy territory. Ii Naomasa surely inherited his indomitable will along with the fire-tiger his mother [[wikipedia:Ii_Naotora|Naotora]], who long run the Ii family.
+
+[Character – Ii Naomasa]
+When Naomasa was two, his father was suspected of plotting against the [[wikipedia:Imagawa_clan|Imagawa clan]] and executed. It was Ii [[wikipedia:Ii_Naotora|Naotora]] who took in and raised Naomasa after that. Naotora was a crafty woman and a master negotiator who rescued the Ii clan from its precarious situation and earned the sincere trust of her retainers. After her death, Naomasa inherited her Guardian Spirit, a Fire Tiger.
+

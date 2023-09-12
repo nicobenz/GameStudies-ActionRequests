@@ -1,0 +1,523 @@
+
+
+
+
+WARNING! The events of this DLC take place AFTER the events of the main game. I recommend that you familiarize yourself with it first → [[Resident Evil 7]]
+
+[Lucas gets a phone call. On his phone screen, the caller's name appears as "Fuckin’ Company.”]
+
+Lucas: Is it ready? Can we begin? I can't help it, man. We've got work to do.
+
+[The scene changes for the ending of the main game. A military helicopter flies over the Baker house. Chris and some soldiers are at the entrance of the house.]
+
+Operator: (via radio) Chris, did we lose him?
+
+Chris: No, no. Ethan Winters has been secured. He's alive and well, considering.
+
+Operator: (via radio) And Lucas Baker? Right now he's our only link to The Connections.
+
+Chris: He's next on my list.
+
+[Chris walks alone into some kind of cave, apparently the Salt Mine. He puts on a special helmet and activates it. The Umbrella logo appears on the display with the words "Umbrella HMD System.”]
+
+Chris: Alright, I'm in the mine.
+
+Operator: (via radio) Signal's strong. You're coming through loud and clear, Chris. We didn't get much from the first unit before we lost contact, but apparently Lucas turned the mine into his own personal hideout.
+
+Chris: How many men did we lose?
+
+Operator: (via radio) Three of our best. Their last transmission was near a lab that should be just ahead. I'm going to need you to check it out.
+
+Chris: Got it.
+
+[Chris reads some documents from his inventory.]
+
+[Official letter.]
+For many of you this is your first mission with us, so we wanted to make it clear what Umbrella is all about.
+Though many of our staff hail from the infamous pharmaceutical giant Umbrella, our purpose is to make amends for the atrocities perpetrated under the Umbrella name. That is why we re-incorporated as a PMC in 2007.
+We will put a stop to not only anyone who is engineering or selling bioweapons, but those who support those efforts as well.
+We made a mess and now we have to clean it up.
+By keeping the Umbrella name, we show that we take responsibility for that mess and we want you to remember that you carry this responsibility with you in every mission.
+
+[Umbrella folder.]
+
+Operation “Lurking Fear”
+
+Primary Mission
+Extract Lucas Baker
+
+Location
+Dulvey, Louisiana, USA
+Baker estate
+
+Threat Profile
+“Molded”: Alpha variant, others
+Anti-personnel traps (lethal and non)
+
+Notes
+Due to the lack of intelligence and the number of unknown factors involved, Chris Redfield of the BSAA will act as a bioweapons specialist on missions.
+
+LOCATION UPDATE:
+Recent intel has confirmed that Lucas Baker is holed up in the mines near the Baker estate.
+
+Profile - Lucas Baker
+Suspected associate of criminal organization The Connections (role unconfirmed). Holds vital intel regarding said organization
+
+Profile - The Connections
+Criminal organization producing bioweapons for sale on the international black market. Limited intel on size, market share, and members. They are the prime suspects implicated in the production and distribution of the E-Series
+bioweapon.
+E-Series model "Eveline" is present and active at the Baker estate. Lucas Baker seems to be monitoring her and reporting on her activities.
+
+[Chris walks through the narrow passages of the mines, deftly and methodically destroying the goo zombies.]
+
+Operator: (via radio) The lab is just ahead.
+
+Chris: Any idea what Lucas is up to down here?
+
+Operator: (via radio) We're still analyzing the data, but it looks like he's been running experiments with an E-type mutamycete.
+
+Chris: Let's hope those men haven't become a part of those experiments.
+
+[He finds a soldier.]
+
+Chris: I'm gettin' you outta here.
+
+Soldier: Leave me... It's too late.
+
+Chris: We're both walking out of here.
+
+[The body of another soldier that lies next to the barely alive soldier suddenly comes to life and begins to speak in a mocking manner.]
+
+Fake Soldier: I got news for you—that's not gonna happen! (Chris points his gun at him) Ooo! I wouldn't do that if I were you!
+
+[The fake soldier takes off his helmet. It's Lucas.]
+
+Lucas: Now you can try and take that off all you want, but I'd advise against. My hand might slip and uh… boom!
+
+Chris: Lucas! Don’t!
+
+[He presses the detonator button and a barely alive soldier's head explodes. Apparently all the soldiers are booby-trapped in some way.]
+
+Lucas: Oops. Now here's the deal, Chris. You don't follow me and I don't bounce your head off the ceiling! Oh, the same goes for your little soldier friends, too. Adios, muchachos. (Bye, guys.)
+
+[Lucas laughs and leaves the room. The mine fills with green gas.]
+
+Chris: Fuck.
+
+Operator: (via radio) I'm picking up airborne spores. It's the E-type mutamycete. Your mask will switch automatically to rebreather mode. Keep an eye on your oxygen tank to be safe. Your oxygen tank is at 50%. Looks like you're clear of any contamination. You should head back and get that bomb on your arm deactivated.
+
+Chris: There's no time. I don't wanna give that asshole a head start.
+
+Operator: (via radio) Understood. Just be careful.
+
+[Chris continues to explore the spore-infested tunnels of the mine. He takes the elevator down to the lower levels.]
+
+Operator: (via radio) Chris, we finished analyzing the data we intercepted from Lucas. It's like we thought the son of a bitch has been sending status reports on Evie to The Connections. Find him and bring him in. We can't let this happen again.
+
+Chris: You sure you just don't want to recruit him?
+
+Operator: (via radio) Chris, we've been over this.
+
+Chris: Maybe the BSAA is convinced. If they weren't, I wouldn't be here. But working with Umbrella is gonna take some getting used to on my part.
+
+Operator: (via radio) I know it must be difficult, and to tell the truth, a lot of our members have been with us since even before we reincorporated as a PMC. About all that's left now is the name. Let's just focus on the mission and maybe we can continue this conversation when you get back. OK?
+
+Chris: Sure—whatever.
+
+[He finds a soldier that was tortured in a cell.]
+
+Chris: You OK in there?
+
+Soldier: Redfield?
+
+Chris: Don't worry. I'm gonna find a key to this thing and get you outta there.
+
+[A group of goo zombies attack him.]
+
+Chris: Shit!
+
+[He finds a pinion and inserts it into the mechanism that allows him to lower the box with the key.]
+
+Chris: This oughta do it.
+
+[As Chris lowers the box, a large goo monster wakes up.]
+
+Chris: Please tell me what I'm looking at.
+
+Operator: (via radio) I have no idea. It's something new. Exercise extreme caution.
+
+[Chris tries to attack the monster with everything he’s got, even the knife.]
+
+Operator: (via radio) Chris, this new white variation is extremely resilient. Normal ammo isn't going to cut it.
+
+Chris: I'm open to suggestions.
+
+Operator: (via radio) You'll need RAMRODS to stop it from regenerating lost tissue. You're going to have to fall back.
+
+[After getting the key to the cell, Chris goes back to the soldier.]
+
+Chris: Everything's alright now.
+
+Soldier: That's just what he wants you to think. I'm just the bait—and you fell for it.
+
+Chris: What?
+
+[The green gas fills the cell.]
+
+Chris: Shit!
+
+Soldier: Take the filter… on my mask. Hurry!
+
+Chris: But you'll die!
+
+Soldier: I'm dead either way.
+
+Lucas: (via radio) He's right, Chris. Just watch and learn.
+
+[A circular saw is started over the soldier's head.]
+
+Chris: Lucas! No!
+
+[Chris tries to shoot the saw, but it doesn't stop and slowly cuts the head of the screaming soldier.]
+
+Chris: I'm sorry...
+
+[Chris's mask alerts him to the lack of oxygen. He unwillingly removes the filter from the soldier's severed head.]
+
+Chris: Lucas... I can't wait to get my hands on that asshole,
+
+Operator: (via radio) Just remember we need him alive, Chris.
+
+Chris: Yeah, yeah.
+
+[He continues to explore the mines. Eventually he picks up Anti-Regen Ammo (RAMRODs).]
+
+Operator: (via radio) Those RAMRODs should allow you to take down the new white mold variants.
+
+Chris: Good.
+
+[He finds a note near the ammo.]
+
+ANTI-REGEN AMMO - RAMRODs
+These rapid-acting mycetotoxic rounds, or RAMRODs for short, have been developed specifically for combat against fungus-based bioweapons.
+The bullets excrete a toxin on impact that not only rapidly destroys fungal cell membranes, but also prevents regeneration of lost tissue.
+One shot will allow for normal methods of attack to gain effect thereafter.
+
+[Also he finds a night vision device and another note.]
+
+NIGHT VISION DEVICE
+This device adds night vision functionality to the Umbrella HMD system.
+The device uses image intensification to help the user see better in low-light environments.
+It also allows the user to see light rays not visible to the naked eye, such as infrared beams.
+
+[With this equipment he’s ready to go further. Eventually he encounters a group of small creatures that try to attack him. Chris throws a grenade and blows them to dust, but...]
+
+Chris: Great. More incoming.
+
+[He runs to an elevator and continues. Later he notices another wounded soldier.]
+
+Chris: Hey, you OK? Hang on—I'm coming.
+
+[He finds a way to get to him.]
+
+Chris: Hey—hey, you still with us?
+
+Soldier: Yeah… it's you… thanks. I was beginning to think we'd been left behind.
+
+[Chris helps him get on his feet.]
+
+Soldier: I think—I think we can get out this way. Lucas is a fucking psycho. Not sure what's worse—him or those things. We gotta get outta here.
+
+[He slowly walks to a ladder.]
+
+Soldier: Over here. We can get out up through there. Oh fuck— you gotta be kidding me... Fuck fuck fuck! Get this thing off me!!
+
+[The bomb on his neck explodes and blows his head clean off.]
+
+Lucas: (via video chat in the helmet) I don't know about you, Christopher, but I'm getting real tired of playing games.
+
+Chris: Three men, Lucas. Three of my men dead, because of you. This ends and it ends now.
+
+Lucas: (via video chat in the helmet) I don't think so. It's about to be four dead soldiers in a minute. You're going to fail, and then you're going to die. (disconnects)
+
+[Chris’ bomb with a 10 minutes timer activates. He climbs the ladder.]
+
+Chris: OK, we got a situation here.
+
+Operator: (via radio) We're on it, Chris. Head back to the central cavern and wait for further instructions.
+
+Chris: Don't let me down.
+
+Operator: (via radio) Chris, good news. Our video logs from the first unit show canisters of liquid nitrogen nearby. You might be able to deactivate the bomb by freezing it.
+
+Chris: Where are the canisters?
+
+Operator: (via radio) The storage space in the mining work area. Go through the red shutter door.
+
+[Chris runs through the tunnels shooting goo zombies on the way.]
+
+Operator: (via radio) The liquid nitrogen is just beyond that room.
+
+[The door is littered with boxes that say "Shit and Die!" A huge white mold monster appears.]
+
+Chris: That's lovely.
+
+[He kills the monster with anti-reen ammo.]
+
+Operator: (via radio) Target down, Chris. Now, find that nitrogen!
+
+Chris: Don't have to remind me.
+
+[He finds a jar with nitrogen.]
+
+Chris: Is this really gonna work?
+
+Operator: (via radio) Hurry, Chris!
+
+Chris: Here goes nothing.
+
+[He puts his left arm with the bomb in the nitrogen. The bomb freezes and stops.]
+
+Chris: That did it.
+
+Operator: (via radio) Take it off before it thaws and restarts!
+
+Chris: (the bomb reactivates) Shit!
+
+[he throws the bomb away and it explodes.]
+
+Operator: (via radio) You alright, Chris?
+
+Chris: Yeah, I'm fine. I'm fine. OK, Lucas, it's just you and me.
+
+Operator: (via radio) Chris, we're showing a room located behind the shield machine.
+
+Chris: Lucas?
+
+Operator: (via radio) It's possible. See if you can get in there to check it out.
+
+Chris: Got it.
+
+[He continues to explore the tunnels.]
+
+Lucas: (via radio) Christopher—still with us, I see. Very impressive, my friend, very impressive. Let's see just how impressive you really are. Hmmm… maybe you're good. Maybe you got lucky. Whaddaya say we find out?
+
+[Chris is forced to fight a large group of goo zombies.]
+
+Lucas: (via radio) You're slowing down, Christopher. Almost had you that time. Just how much more of this do you think you can take?
+
+[Chris kills another pack.]
+
+Lucas: (via video chat in the helmet) OK, OK—no more—alright? I don't have anything left.
+
+Chris: You won't get any sympathy from me, asshole.
+
+Lucas: (via video chat in the helmet) I know, I know. I've done... I've done terrible things. Horrible things. I killed your men. I tortured them. And I enjoyed every second, soldier boy. Just like I'm going to enjoy watching you burn. Oh, you hear that? Sounds like time's running out for you. Tick tock, Christopher. Tick tock.
+
+[Self-destroy system activating.]
+
+Chris: If you're gonna kill me, just kill me, but for the love of god, shut the fuck up!
+
+Lucas: (via video chat in the helmet) I'd like to stay and watch you burn to death, but, I can't. I have an elsewhere to be. Buh-byye.
+
+Chris: Goddamnit!
+
+[He runs for his life. Later he stumbles upon a metal ventilation grate. Chris rips it out with his bare hands.]
+
+Chris: Just a little more...
+
+[The tunnels shakes with the explosion. Chris appears to be relatively safe in the ventilation shaft.]
+
+Chris: Shit!
+
+Operator: (via radio) Chris, are you OK?
+
+Chris: Yeah, I'm fine.
+
+Operator: (via radio) We managed to intercept an email Lucas just sent out. Listen to this: "Umbrella and Redfield have been taken care of. Dealing with them cost me some time cost them a lot more but I can still get that data to you, but we're quits after that."
+
+Chris: He thinks I'm dead. This might be our chance. Who'd he send it to?
+
+Operator: (via radio) We're still decrypting that. Just get Lucas.
+
+Chris: Keep me posted.
+
+[Chris walks out of the tunnels into some facilities, the entrance to which is blocked by several barred doors. This is the lab where Ethan has been not long ago. Chris kills some goo zombies and finds many references to the end of the main game. He finds a report.]
+
+E-001 Log - July 22, 2016
+Health: Good
+Mental State: Good
+Mutamycete Secretion: Normal
+Other: n/a
+Not much change.
+She just plays with dolls all day.
+Turned two guys Molded today.
+
+E-001 Log - August 12, 2016
+Health: Coughing, exhaustion
+Mental State: Slightly stressed
+Mutamycete Secretion: More than usual
+Other: n/a
+After playing ball with dad, she started
+complaining about being tired.
+Turned one guy into a Fat Molded.
+
+E-001 Log - August 26, 2016
+Health: Bad
+Mental State: Stressed
+Mutamycete Secretion: High
+Other: Sudden aging.
+She's aging all of a sudden: losing weight, hair falling out, the works.
+The more she screams, the more she vomits. Basement's heavily contaminated.
+No apparent cause for the aging.
+Gonna ask for further instructions.
+
+E-001 Log - September 9, 2016
+Health: Weak but stable
+Mental State: Delusional, incoherent
+Mutamycete Secretion: Stable
+Other: n/a
+Aging has slowed, seems pretty stable.
+Got the E-Necrotoxin from the company.
+Orders are to use it “if she gets out of control.”
+And I thought I was the funny one.
+
+[Later Chris finds a diary in the locker room.]
+
+June 11, 2017
+I'm sick of this guy Lucas.
+They just gave him my job as lead researcher.
+Who do they think I am? Why do I—a Stanford graduate with a master's in microbiology—have to work under this lunatic? All he does is mess around with the test subjects making them all fight each other and doing unnecessary autopsies. He's sick.
+He knows nothing about the E-series mutamycete's potential. I'm going to report his behavior at the next meeting with HQ.
+
+[Chris sees Lucas working on a laptop in a small office.]
+
+Chris: (quietly) Lucas!
+
+[He quietly turns off the lights in the office.]
+
+Lucas: Aw, Jesus! What the hell? (notices Chris) Oh fuck! (runs away)
+
+Chris: Lucas!
+
+[Chris rushes out in pursuit. On the way, he grabs Lucas's diary.]
+
+I killed off all the Connections' researchers.
+They were poking around where they weren't supposed to when I wasn't looking. but I knew exactly what they were up to.
+Probably didn't like having to report to me
+So, I threw them in a cage with some Molded.
+They shit their pants and begged for their lives.
+I'm just worried I won't be able to hold back from laughing when I make the report that they met with an unfortunate accident.
+Probably a good time now to cut ties with The Connections. I'm the only one who can really make good use of Eveline's mold.
+
+[Also Chris reads Lucas’ unfinished email.]
+
+Sent:
+Thursday, July 20, 2017 10:22 AM
+Things got a little out of hand, but I took care of it.
+I'm sending the E data now.
+It shouldn't take too long.
+After it goes through, I'm outta hetw;j
+
+Lucas: (via radio) How the hell are you still alive? You should be dead.
+
+Chris: We got your emails. We know you're funneling info to someone!
+
+Lucas: (via radio) That's none of your god-damned business, Chris! A lot people out there want to know about our little Evie. A lot of people.
+
+Chris: Your friends, The Connections know about this? They don't strike me as the forgiving type.
+
+Lucas: (via radio) That's my business. You let me worry about them. You're about to have your hands full.
+
+[After these words, Lucas suddenly attacks Chris with a shiv. He waves it around, trying to hit it, but Chris easily dodges it and throws the loser away. When Lucas gets up Chris puts a bullet in his chest.]
+
+Lucas: I can't—don't—no... I don't believe it.
+
+Chris: Believe it. It's over.
+
+Lucas: No, heheh. No way…
+
+Chris: Just shut up and accept it, Lucas.
+
+Lucas: Oh you'd love that, wouldn't you? (his face morphing) Oh boy... So this is what it feels like.
+
+[He sprawls out on the floor.]
+
+Chris: We've got a situation down here.
+
+Operator: (via radio) Infection is at critical mass.
+
+Chris: Tell me something I don't know.
+
+Lucas?: Oh I've got something for you—you're fucking screwed!
+
+Operator: (via radio) You're going to need to proceed with caution—extreme caution.
+
+Chris: Oh well that's different. Like I haven't been since we got here.
+
+[Lucas turns into a cocoon, which spits out a large monster.]
+
+Monster Lucas: You had to come in here and mess things up, didn't you?
+
+[Chris fights Monster Lucas by blowing his ever-growing head off.]
+
+Monster Lucas: Fuck! My head—my head!
+
+[He strengthens his arms, which now allow him to cover his head.]
+
+Operator: (via radio) The air contamination is going off the charts! Kill that thing before your air tank gives out!
+
+Chris: Thanks for the advice!
+
+Computer: Oxygen Supply Station ready for service.
+
+Operator: (via radio) You're running low on oxygen
+
+Computer: Oxygen depleted. Please wait until reserves are refilled.
+
+Chris: Not much oxygen left.
+
+Computer: Oxygen Supply Station ready for service. Oxygen depleted. Please wait until reserves are refilled.
+
+[Finally Chris defeats Monster Lucas.]
+
+Chris: Game over.
+
+[Shoots Lucas in the head one last time.]
+
+Chris: Finally.
+
+Operator: (via radio) Chris, the data transfer's almost complete!
+
+Chris: How do I stop it?
+
+Operator: (via radio) You need to find a way to shut down the server. There may be some transformer relays you can—
+
+[Chris just shot the stand.]
+
+Operator: (via radio) OK… that worked. Gonna be some pissed computer techs up here, but—
+
+Chris: Cry me a river. What's the sitrep?
+
+Operator: (via radio) The facility is clear. Even the newer breeds have been neutralized.
+
+[Chris takes off his helmet.]
+
+Chris: Then I'm outta here.
+
+[Next scene. Baker’s house. Chris looks at the family photo.]
+
+Operator: (via radio) Perimeter wall is up and operational.
+
+Chris: Good. Think we did any good here?
+
+Operator: (via radio) Not for them, unfortunately, but the mold is contained. Hopefully, they're Evie's last victims.
+
+Chris: (sighs) Hopefully.
+
+Operator: (via radio) Chris, there's a call for you. You need to take it back at the camp.
+
+Chris: Alright. I'm on my way.
+
+[The screen slowly fades to white. Credits.]
+
