@@ -1,12 +1,14 @@
 from bs4 import BeautifulSoup
 import requests
+import re
 
 save_path = "data/transcripts"
 
-# maybe find a way to automate getting the urls?
-transcript_urls = [
-    "https://game-scripts-wiki.blogspot.com/2022/01/medievil-1998-full-transcript.html"
-]
+# import and prepare urls
+with open("data/url_list.text", "r") as f:
+    urls = f.readlines()
+transcript_urls = [url.strip() for url in urls]
+transcript_urls.sort()
 
 for transcript_num, url in enumerate(transcript_urls, start=1):
     # get content of url
@@ -16,8 +18,9 @@ for transcript_num, url in enumerate(transcript_urls, start=1):
     # get title for filename
     title = soup.head.title.text.split(" ")
     title = '_'.join(title)
+    title = title.replace("&", "and")
+    title = re.sub(r'[^a-zA-Z0-9_]', '', title)
     save_name = f"{transcript_num}_{title}.txt"
-
     # extract and save relevant text
     roi = soup.find_all("div", class_="post-body entry-content float-container")
     text = [element.get_text() for element in roi]
