@@ -3,7 +3,7 @@ Here I investigate if there is a possibility to draw topic curves for video game
 
 ## TODO:
 - [x] crawl and clean transcripts
-- [ ] use word-level n-grams with n = transcript.length / 100 (?)
+- [ ] use word-level n-grams with n=1000 (or n = transcript.length / 20?)
 - [ ] calculate topics and relative topic importance for every n-gram
 - [ ] track topic movements between n-grams using cosine similarity
 - [ ] plot relative importance for every topic
