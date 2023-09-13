@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
-save_path = "data/transcripts"
+save_path = "data/transcripts/raw"
 
 # import and prepare urls
 with open("data/url_list.text", "r") as f:
@@ -20,7 +20,7 @@ for transcript_num, url in enumerate(transcript_urls, start=1):
     title = '_'.join(title)
     title = title.replace("&", "and")
     title = re.sub(r'[^a-zA-Z0-9_]', '', title)
-    save_name = f"{transcript_num}_{title}.txt"
+    save_name = f"{transcript_num:03d}_{title}.txt"
     # extract and save relevant text
     roi = soup.find_all("div", class_="post-body entry-content float-container")
     text = [element.get_text() for element in roi]
