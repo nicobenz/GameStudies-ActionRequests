@@ -6,14 +6,24 @@ from sklearn.decomposition import LatentDirichletAllocation
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-def get_topics(ngram_fraction, ngram_steps, num_topics, topic_len, vectorizer_type="tfidf"):
+def get_topics(
+        ngram_fraction, ngram_steps, num_topics, topic_len,
+        vectorizer_type="tfidf", limit_ngrams=0, limit_games=0, verbose=True):
     # get filenames from directory
     clean_texts = [file for file in os.listdir("data/transcripts/clean") if ".DS_Store" not in file]
     clean_texts.sort()
-    clean_texts = [clean_texts[3]]  # select only first text for testing purposes
+    if limit_games > 0:
+        clean_texts = clean_texts[0:limit_games]  # select only some texts for testing purposes
+
+    if vectorizer_type == "tfidf":
+        vectorizer = TfidfVectorizer()
+    elif vectorizer_type == "count":
+        vectorizer = CountVectorizer()
+    else:
+        raise ValueError("Vectorizer not recognised. Viable options are 'count' or 'tfidf'.")
 
     document_topics = []
-    for text in clean_texts:
+    for text_idx, text in enumerate(clean_texts, start=1):
         # open texts
         with open(f"data/transcripts/clean/{text}", "r") as f:
             filtered_tokens = f.read()
@@ -22,18 +32,15 @@ def get_topics(ngram_fraction, ngram_steps, num_topics, topic_len, vectorizer_ty
         # set length of ngrams
         ngram_length = len(filtered_tokens)//ngram_fraction
         step = 0  # this is used for ngram movement later
-        step = len(filtered_tokens) - (ngram_length+5)  # reduce to only a couple ngrams for testing purposes
-        # prepare ngram for topic modelling
-        if vectorizer_type == "tfidf":
-            vectorizer = TfidfVectorizer()
-        elif vectorizer_type == "count":
-            vectorizer = CountVectorizer()
-        else:
-            raise ValueError("Vectorizer not recognised. Viable options are 'count' or 'tfidf'.")
         # lists for collection
         topics_in_text = []
         # move ngrams through text
-        while step + ngram_length <= len(filtered_tokens):
+        loop_length = len(filtered_tokens)
+        if limit_ngrams > 0:
+            loop_length = (ngram_length + limit_ngrams) - 1
+        num_iterations = (loop_length - ngram_length) + 1  # for status print during loop
+        #loop_length = ngram_length + 9  # reduce amount of ngrams for testing purpose
+        while step + ngram_length <= loop_length:
             current_ngram = filtered_tokens[step:step+ngram_length]
 
             # fit model
@@ -44,6 +51,7 @@ def get_topics(ngram_fraction, ngram_steps, num_topics, topic_len, vectorizer_ty
             # get feature names and loop over
             feature_names = vectorizer.get_feature_names_out()
             topics_in_ngram = []
+
             for topic_idx, topic in enumerate(lda_model.components_):
                 # get first {topic_len} tokens with highest probability
                 top_indices = topic.argsort()[::-1][:topic_len]
@@ -57,11 +65,56 @@ def get_topics(ngram_fraction, ngram_steps, num_topics, topic_len, vectorizer_ty
                     "weights": token_weights
                 }
                 topics_in_ngram.append(topic_dict)
+
             topics_in_text.append(topics_in_ngram)
             # increment step for next ngram movement
             step += ngram_steps
+            if verbose:
+                print(f"\rGame {text_idx:03d}/{len(clean_texts):03d} | ngram {step:03d}/{num_iterations:03d}", end="")
         document_topics.append(topics_in_text)
-    return document_topics
+    print("\n")
+    topic_collection = [["" for i in range(num_topics)] for j in range(len(document_topics[0]))]
+    #print("games ", len(document_topics))
+    #print("ngrams", len(document_topics[0]))
+    for game in document_topics:
+        for idx, ngram in enumerate(game):
+            for jdx, top in enumerate(ngram):
+                topic_collection[idx][jdx] += (' '.join(top["topics"]) + " ")
+
+    mean_topics = []
+    for ngram_level in topic_collection:
+        topics_per_ngram = []
+        for topic_level in ngram_level:
+            ngram_mean = get_topic_from_text(vectorizer, topic_level, 1, topic_len)
+            topics_per_ngram.append(ngram_mean)
+        mean_topics.append(topics_per_ngram)
+    return mean_topics
+
+
+def get_topic_from_text(model, input_text, num_topics, topic_len):
+    input_text = input_text.split(" ")
+    input_text = [t for t in input_text if t != ""]  # remove empty strings
+
+    X = model.fit_transform(input_text)
+    lda_model = LatentDirichletAllocation(n_components=num_topics, random_state=42)
+    lda_model.fit(X)
+
+    feature_names = model.get_feature_names_out()
+    topics_in_mean_ngram = []
+    for topic_idx, topic in enumerate(lda_model.components_):
+        # get first {topic_len} tokens with highest probability
+        top_indices = topic.argsort()[::-1][:topic_len]
+        top_words = [feature_names[i] for i in top_indices]
+        # calculate weights
+        probabilities = (topic / topic.sum())[top_indices]
+        token_weights = [probabilities[i] for i in range(len(top_words))]
+        # combine to dict
+        topic_dict = {
+            "topics": top_words,
+            "weights": token_weights
+        }
+        topics_in_mean_ngram.append(topic_dict)
+    return topics_in_mean_ngram
 
 
 def track_topics(topic_list):
@@ -110,6 +163,10 @@ def get_vector(nlp_object, tokens, weights):
     return vector_template.reshape(1, -1)
 
 
-topics = get_topics(5, 1, 3, 20, vectorizer_type="count")
-
-track_topics(topics)
+topics_over_ngrams = get_topics(5, 1, 3, 20,
+                    vectorizer_type="count", limit_ngrams=1, limit_games=10)
+for idx, topics in enumerate(topics_over_ngrams, start=1):
+    print(f"{idx:03d}:")
+    for jdx, top in enumerate(topics, start=1):
+        print(f"  {jdx:03d}, weight {round(sum(top[0]['weights']), 2)}, tokens: {', '.join(top[0]['topics'])}")
+#track_topics(topics)
