@@ -1,4 +1,5 @@
 # GameStudies-TopicCurves
+## What to expect in this repo
 Here I investigate if there is a possibility to draw keyword development curves of something that I consider 'call to action verbs' in video games using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/). 
 Call to action verbs aim to make the player do something, like 'go', 'help', 'talk' or 'find'. 
 These verbs are imperative in a sense but not in a forced way. 
@@ -9,15 +10,29 @@ I also suspect these verbs differ not only in video games as a whole but also wi
 Survival games might have a slower rising curve for 'kill' than shooter because of the lower power levels for the player character in these type of games. 
 
 ## TODO:
-- [x] crawl and clean transcripts
+### Data collection and preparation:
+- [x] crawl and clean transcripts from Game Scripts Wiki
+- [ ] scrape audio files from YouTube of non-commented playthroughs
+- [ ] transcribe scraped files using OpenAI's Whisper (will take about 200 hours in base model)
+- [ ] genre-tag transcripts
+- [ ] merge into other 
+
+### Processing and analysis:
 - [x] use word-level n-grams of variable sizes
 - [x] calculate keyword importance for every n-gram using term frequency
 - [x] plot relative importance for every keyword for all games and by genre
 - [ ] expant analysis to all verbs instead of chosen verbs to avoid bias
 - [ ] change preprocessing to only include verbs used in imperative fashion in tf value calculation
-- [ ] cluster verbs to treat synonyms as the same verb (using cosine similarity on spaCy vectors?)
+- [ ] cluster verbs into synonyms (using cosine similarity on spaCy vectors?)
 - [ ] calculate ANOVA or other tests to check for significant differences between genres
-## Current challenge
+
+## Current challenges
 - How to deal with compound verbs in cases like 'I need help!'? This should be considered a synoym to 'Help me!', but a POS tagging approach would exclude this.
 - How to account for uneven class distribution? Action adventure is the dominant class with much higher distribution than other genres. Maybe prune this class and raise other genres using SMOTE?
 - Should I use the mean curves as a baseline? If the curve for 'kill' is rising in all genres, this way I could see if the curve is rising even stronger in shooter games. Maybe create a residual matrix to see the curves corrected for baseline and perform Monte Carlo Tests for significance testing.
+- How to deal with Whisper's hallucinations? Segments keep randomly repeating. Can usually be fixed in postprocessing in cases of full repetition but how to deal with cases like this?
+  - [01:40:11.380 --> 01:40:13.380]  Oh, that's a good one!
+  - [01:40:13.380 --> 01:40:15.380]  Oh, that was a good one.
+- Also, sometimes random characters from other scripts appear in English words:
+  - [02:00:54.620 --> 02:00:56.620]  I'm inешema.
+  - [01:57:40.340 --> 01:57:42.340]  The flank already美元!
