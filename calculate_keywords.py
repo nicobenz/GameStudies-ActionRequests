@@ -5,6 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import statsmodels.api as sm
+from tqdm import tqdm
 
 
 def get_keywords(
@@ -99,28 +100,23 @@ def get_frequency_scores_from_ngrams(ngram_texts, num_lines, mode="count"):
     return score_collection
 
 
-def plot_keyword_relevance(freq_scores, numbers, save_label="", smoothing="avg"):
+def plot_keyword_relevance(freq_scores, numbers, save_label="", smoothing="avg", normalise=True):
     sns.set_theme()
     sns.set_context("paper")
     custom_palette = sns.color_palette("pastel")
     sns.set_palette(custom_palette)
 
-    normalized_freq_scores = []
-    for sublist in freq_scores:
-        sublist = np.array(sublist, dtype=float)
-        min_val = np.min(sublist)
-        max_val = np.max(sublist)
-        scaled_sublist = (sublist - min_val) / (max_val - min_val)
-        normalized_freq_scores.append(scaled_sublist)
+    if normalise:
+        freq_scores = normalize_scores(freq_scores)
 
-    for idx, sublist in enumerate(normalized_freq_scores):
+    for idx, sublist in enumerate(freq_scores):
         sublist = np.array(sublist, dtype=float)
         x = np.arange(len(sublist))
 
         if smoothing == "avg":
             smoothed_sublist = moving_average(sublist, window_size=5)
         elif smoothing == "low":
-            smoothed_sublist = lowess_smoothing(sublist, frac=0.3)
+            smoothed_sublist = lowess_smoothing(sublist, frac=0.2)
         else:
             raise ValueError("Wrong smoothing mode. Please use 'avg' for Moving Average or 'low' for Lowess Smoothing.")
 
@@ -136,7 +132,19 @@ def plot_keyword_relevance(freq_scores, numbers, save_label="", smoothing="avg")
     plt.tight_layout()
 
     plt.savefig(f"data/results/plots/lineplot-{'_'.join(save_label.split(' '))}.pdf")
+    plt.savefig(f"data/results/plots/lineplot-{'_'.join(save_label.split(' '))}.png", dpi=600)
     plt.clf()
+
+
+def normalize_scores(frequency_scores):
+    normalized_scores = []
+    for sublist in frequency_scores:
+        sublist = np.array(sublist, dtype=float)
+        min_val = np.min(sublist)
+        max_val = np.max(sublist)
+        scaled_sublist = (sublist - min_val) / (max_val - min_val)
+        normalized_scores.append(scaled_sublist)
+    return normalized_scores
 
 
 def moving_average(data, window_size=3):
@@ -155,6 +163,6 @@ def lowess_smoothing(data, frac=0.3):
 action_verbs = ["kill", "help", "talk", "find"]  # bring?
 
 labeled_ngrams, num_texts = get_keywords(10, 200, limit_ngrams=0, limit_games=0, verbose=False)
-for (labeling, ngrams), num in zip(labeled_ngrams.items(), num_texts):
+for (labeling, ngrams), num in tqdm(zip(labeled_ngrams.items(), num_texts), total=len(labeled_ngrams)):
     scores = get_frequency_scores_from_ngrams(ngrams, len(action_verbs), mode="count")
-    plot_keyword_relevance(scores, num, save_label=labeling, smoothing="low")
+    plot_keyword_relevance(scores, num, save_label=labeling, smoothing="low", normalise=True)
