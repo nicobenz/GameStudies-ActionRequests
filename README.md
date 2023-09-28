@@ -5,14 +5,17 @@ Action requests aim to make the player do something, like *go*, *help*, *talk* o
 These speech acts are imperative in a sense but not in a forced way. 
 They are like instructions given to the player rather than the players avatar, so they are somewhat meta-narrative while being part of the narration. 
 
-Early results show that the verb like *talk* sees a falling curve. Maybe because talking is a big part of character introduction that might be strongest in early and mid parts. 
+Early results using (normalised scores to move curves closer together) show that the verb like *talk* sees a falling curve. Maybe because talking is a big part of character introduction that might be strongest in early and mid parts. 
 Verbs *help* has a rising curve till the middle and then a falling curve. *Kill* has a continiously rising curve. 
 Maybe because player characters usually rise in power as the game progresses and are more able to perform these tasks later then earlier. 
 I also suspect these verbs differ not only in video games as a whole but also within genres. 
-Survival games might have a slower rising curve for *kill* than shooter games because of the lower power levels of the player character in these type of games. 
+Survival games show falling curve for most verbs. 
+Maybe because of the lower power levels of the player character in these type of games. 
 So maybe there can be some general and also genre-specific findings.
+![Early general findings](data/results/plots/lineplot-All_Genres.png)
+![Early survival findings](data/results/plots/lineplot-Survival.png)
+(currently only for all occurrences of the tokens including all POS)
 
-![Early findings](data/results/plots/lineplot-All_Genres.pdf)
 
 ## TODO:
 ### Data collection and preparation:
