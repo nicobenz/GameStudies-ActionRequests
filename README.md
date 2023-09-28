@@ -12,7 +12,8 @@ I also suspect these verbs differ not only in video games as a whole but also wi
 Survival games might have a slower rising curve for *kill* than shooter games because of the lower power levels of the player character in these type of games. 
 So maybe there can be some general and also genre-specific findings.
 
-![Early findings plot](https://github.com/nicobenz/GameStudies-TopicCurves/blob/master/data/results/plots/lineplot-All_Genres.pdf)
+![Early findings](data/results/plots/lineplot-All_Genres.pdf)
+
 ## TODO:
 ### Data collection and preparation:
 - [x] crawl and clean transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
