@@ -78,4 +78,4 @@ channel_list = [
 ]
 
 get_wiki_urls()
-get_youtube_urls(channel_list, verbose=True)
+get_youtube_urls(channel_list)
