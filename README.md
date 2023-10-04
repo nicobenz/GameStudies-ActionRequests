@@ -1,4 +1,4 @@
-# GameStudies-TopicCurves
+# GameStudies-ActionRequests
 ## What to expect in this repo
 Here I investigate if there is a possibility to draw keyword development curves of action request speech acts in video games using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's Whisper from Youtube videos of no commentary gameplay walkthroughs of multiple channels. 
 Action requests aim to make the player do something, like *go*, *help*, *talk* or *find*. 
