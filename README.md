@@ -40,6 +40,11 @@ So maybe there can be some general and also genre-specific findings.
 - [ ] cluster verbs into synonyms (using cosine similarity on spaCy vectors?)
 - [ ] calculate ANOVA or other tests to check for significant differences between genres
 
+### Stuff for later
+- for comparison do the same with:
+- [ ] Literature (Novels)
+- [ ] Movies/Series
+
 ## Current challenges
 - How to detect action request speech acts in NLP? Probably not feasible in a paper of this scope. Maybe just use contexts of imperative mood?
 - How to deal with compound verbs in cases like 'I need help!'? This should be considered a synoym to 'Help me!', but a POS tagging approach would exclude this.
