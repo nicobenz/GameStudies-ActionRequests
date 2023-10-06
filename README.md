@@ -23,10 +23,15 @@ So maybe there can be some general and also genre-specific findings.
 - [x] scrape audio files from YouTube channels of non-commented playthroughs like: 
   - [x] [Gamers Little Playground](https://www.youtube.com/@glp), 
   - [x] [FullPlaythroughs](https://www.youtube.com/@FullPlaythroughs), 
-  - [ ] [MKIceAndFire](https://www.youtube.com/@MKIceAndFire) and/or 
-  - [ ] [Shirrako](https://www.youtube.com/@Shirrako)
+  - [x] [MKIceAndFire](https://www.youtube.com/@MKIceAndFire) and/or 
+  - [x] [Shirrako](https://www.youtube.com/@Shirrako)
 - [ ] combine playthroughs that consist of multiple parts
 - [ ] transcribe files using OpenAI's Whisper (takes about 10% of file length in base model)
+- [ ] compare model performance to find model with best trade-offs:
+  - [ ] choose some exemplary games that have a transcript on [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and are as linear as possible
+  - [ ] create Whisper transcripts of these games audios for each Whisper model
+  - [ ] lightly process and compare word error rate using module `jiver`
+  - [ ] choose highest performing model that still has reasonable processing time
 - [ ] merge transcripts that were covered in more than one channel?
 - [ ] genre-tag transcripts
 - [ ] merge into transcripts of [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
