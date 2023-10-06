@@ -28,9 +28,9 @@ So maybe there can be some general and also genre-specific findings.
 - [ ] combine playthroughs that consist of multiple parts
 - [ ] transcribe files using OpenAI's Whisper (takes about 10% of file length in base model)
 - [ ] compare model performance to find model with best trade-offs:
-  - [ ] choose some exemplary games that have a transcript on [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and are as linear as possible
+  - [ ] select all games that have a transcript on [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
   - [ ] create Whisper transcripts of these games audios for each Whisper model
-  - [ ] lightly process and compare word error rate using module `jiver`
+  - [ ] preprocess and vectorize texts and use cosine similarity to compare, accounting for changes in text order for non-linear games
   - [ ] choose highest performing model that still has reasonable processing time
 - [ ] merge transcripts that were covered in more than one channel?
 - [ ] genre-tag transcripts
