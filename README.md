@@ -16,6 +16,8 @@ So maybe there can be some general and also genre-specific findings.
 ![Early survival findings](data/results/plots/lineplot-Survival.png)
 (currently only for all occurrences of the tokens including all POS)
 
+## Working title
+*Analysing Changes in Prevalence of Action Request Speech Acts in Video Game Dialogues: A Computational Approach using Term Frequencies and Percentage-based Adaptive N-Grams*
 
 ## TODO:
 ### Data collection and preparation:
