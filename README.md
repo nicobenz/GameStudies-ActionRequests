@@ -35,7 +35,7 @@ So maybe there can be some general and also genre-specific findings.
   - [ ] preprocess and vectorize texts and use cosine similarity to compare, accounting for changes in text order for non-linear games
   - [ ] choose highest performing model that still has reasonable processing time
 - [ ] merge transcripts that were covered in more than one channel?
-- [ ] genre-tag transcripts
+- [ ] genre-tag transcripts (using Steam user-generated tags?)
 - [ ] merge into transcripts of [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
 
 ### Processing and analysis:
