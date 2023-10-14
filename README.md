@@ -63,7 +63,4 @@ So maybe there can be some general and also genre-specific findings.
 - How to deal with Whisper's hallucinations? Segments keep randomly repeating. Can usually be fixed in postprocessing in cases of full repetition but how to deal with cases like this?
   - [01:40:11.380 --> 01:40:13.380]  Oh, that's a good one!
   - [01:40:13.380 --> 01:40:15.380]  Oh, that was a good one.
-- Also, sometimes random characters from other scripts appear in English words:
-  - [02:00:54.620 --> 02:00:56.620]  I'm inешema.
-  - [01:57:40.340 --> 01:57:42.340]  The flank already美元!
 - How to merge documents that were covered by more than one channel? Optimally, transcripts of different channels have different errors and artifacts that will be reduced or even balanced out by merging. But how to calculate something like the mean of a document? Maybe treat them as individual games till the end and then get the mean of their TF-IDF scores?
