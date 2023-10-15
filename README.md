@@ -51,6 +51,7 @@ So maybe there can be some general and also genre-specific findings.
 train classifier models:
 - [ ] treat term frequencies over n-grams as time series
 - [ ] train classifiers with time series data to predict genre
+
 for comparison do the whole process of the project also with:
 - [ ] Literature (Novels)
 - [ ] Movies/Series
