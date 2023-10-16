@@ -1,6 +1,6 @@
 # GameStudies-ActionRequests
 ## What to expect in this repo
-Here I investigate if there is a possibility to draw development curves of action request speech acts in video games using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's Whisper from Youtube videos of no commentary gameplay walkthroughs of multiple channels (currently ~600 GB of audio files downloaded). 
+Here I investigate if there is a possibility to draw development curves of action request speech acts in video games using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's Whisper from Youtube videos of no commentary gameplay walkthroughs of multiple channels (currently ~10,000 hours of audio downloaded). 
 Action requests aim to make the player do something, like *go*, *help*, *talk* or *find*. 
 These speech acts are imperative in a sense but not in a forced way. 
 They are like instructions given to the player rather than the players avatar, so they are somewhat meta-narrative while being part of the narration. 
