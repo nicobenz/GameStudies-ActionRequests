@@ -14,7 +14,7 @@ Maybe because of the lower power levels of the player character in these type of
 So maybe there can be some general and also genre-specific findings.
 ![Early general findings](data/results/plots/lineplot-All_Genres.png)
 ![Early survival findings](data/results/plots/lineplot-Survival.png)
-(currently only for all occurrences of the tokens including all POS)
+(currently preliminary plots include all occurrences of the tokens, including all POS and all syntactic contexts)
 
 
 ## TODO:
@@ -23,17 +23,20 @@ So maybe there can be some general and also genre-specific findings.
 - [x] scrape audio files from YouTube channels of non-commented playthroughs like: 
   - [x] [Gamers Little Playground](https://www.youtube.com/@glp), 
   - [x] [FullPlaythroughs](https://www.youtube.com/@FullPlaythroughs), 
-  - [ ] [MKIceAndFire](https://www.youtube.com/@MKIceAndFire) and/or 
+  - [ ] [MKIceAndFire](https://www.youtube.com/@MKIceAndFire) and
   - [ ] [Shirrako](https://www.youtube.com/@Shirrako)
 - [ ] combine playthroughs that consist of multiple parts
+- [ ] preprocess audio files using high pass filters and noise reduction
 - [ ] transcribe files using OpenAI's Whisper (takes about 10% of file length in base model)
 - [ ] merge transcripts that were covered in more than one channel?
 - [ ] genre-tag transcripts
 - [ ] merge into transcripts of [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
+- [ ] randomly select games for dataset but aim for balanced genres
 
 ### Processing and analysis:
 - [x] use word-level n-grams of variable sizes
 - [x] calculate keyword importance for every n-gram using term frequency
+- [ ] find alternative for normalization as it distorts plots quite heavily
 - [x] plot relative importance for every keyword for all games and by genre
 - [ ] expand analysis to all verbs instead of chosen verbs to avoid bias
 - [ ] change preprocessing to only include verbs used in imperative fashion in tf value calculation
