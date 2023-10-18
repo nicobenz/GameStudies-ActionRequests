@@ -1,6 +1,6 @@
-# GameStudies-TopicCurves
+# GameStudies-ActionRequests
 ## What to expect in this repo
-Here I investigate if there is a possibility to draw keyword development curves of action request speech acts in video games using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's Whisper from Youtube videos of no commentary gameplay walkthroughs of multiple channels. 
+Here I investigate if there is a possibility to draw development curves of action request speech acts in video games using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's Whisper from Youtube videos of no commentary gameplay walkthroughs of multiple channels (currently ~10,000 hours of audio downloaded). 
 Action requests aim to make the player do something, like *go*, *help*, *talk* or *find*. 
 These speech acts are imperative in a sense but not in a forced way. 
 They are like instructions given to the player rather than the players avatar, so they are somewhat meta-narrative while being part of the narration. 
@@ -14,8 +14,10 @@ Maybe because of the lower power levels of the player character in these type of
 So maybe there can be some general and also genre-specific findings.
 ![Early general findings](data/results/plots/lineplot-All_Genres.png)
 ![Early survival findings](data/results/plots/lineplot-Survival.png)
-(currently preliminary plots include all occurrences of the tokens, including all POS and all syntactic contexts)
+(currently only for all occurrences of the tokens including all POS)
 
+## Working title
+*Analysing Changes in Prevalence of Action Request Speech Acts in Video Game Dialogues: A Computational Approach using Term Frequencies and Percentage-based Adaptive N-Grams*
 
 ## TODO:
 ### Data collection and preparation:
@@ -23,20 +25,22 @@ So maybe there can be some general and also genre-specific findings.
 - [x] scrape audio files from YouTube channels of non-commented playthroughs like: 
   - [x] [Gamers Little Playground](https://www.youtube.com/@glp), 
   - [x] [FullPlaythroughs](https://www.youtube.com/@FullPlaythroughs), 
-  - [ ] [MKIceAndFire](https://www.youtube.com/@MKIceAndFire) and
-  - [ ] [Shirrako](https://www.youtube.com/@Shirrako)
+  - [x] [MKIceAndFire](https://www.youtube.com/@MKIceAndFire) and 
+  - [x] [Shirrako](https://www.youtube.com/@Shirrako)
 - [ ] combine playthroughs that consist of multiple parts
-- [ ] preprocess audio files using high pass filters and noise reduction
 - [ ] transcribe files using OpenAI's Whisper (takes about 10% of file length in base model)
+- [ ] compare model performance to find model with best trade-offs:
+  - [ ] select all games that have a transcript on [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
+  - [ ] create Whisper transcripts of these games audios for each Whisper model
+  - [ ] preprocess and vectorize texts and use cosine similarity to compare, accounting for changes in text order for non-linear games
+  - [ ] choose highest performing model that still has reasonable processing time
 - [ ] merge transcripts that were covered in more than one channel?
-- [ ] genre-tag transcripts
+- [ ] genre-tag transcripts (using Steam user-generated tags?)
 - [ ] merge into transcripts of [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
-- [ ] randomly select games for dataset but aim for balanced genres
 
 ### Processing and analysis:
 - [x] use word-level n-grams of variable sizes
 - [x] calculate keyword importance for every n-gram using term frequency
-- [ ] find alternative for normalization as it distorts plots quite heavily
 - [x] plot relative importance for every keyword for all games and by genre
 - [ ] expand analysis to all verbs instead of chosen verbs to avoid bias
 - [ ] change preprocessing to only include verbs used in imperative fashion in tf value calculation
@@ -44,7 +48,11 @@ So maybe there can be some general and also genre-specific findings.
 - [ ] calculate ANOVA or other tests to check for significant differences between genres
 
 ### Stuff for later
-- for comparison do the same with:
+train classifier models:
+- [ ] treat term frequencies over n-grams as time series
+- [ ] train classifiers with time series data to predict genre
+
+for comparison do the whole process of the project also with:
 - [ ] Literature (Novels)
 - [ ] Movies/Series
 
@@ -56,7 +64,4 @@ So maybe there can be some general and also genre-specific findings.
 - How to deal with Whisper's hallucinations? Segments keep randomly repeating. Can usually be fixed in postprocessing in cases of full repetition but how to deal with cases like this?
   - [01:40:11.380 --> 01:40:13.380]  Oh, that's a good one!
   - [01:40:13.380 --> 01:40:15.380]  Oh, that was a good one.
-- Also, sometimes random characters from other scripts appear in English words:
-  - [02:00:54.620 --> 02:00:56.620]  I'm inешema.
-  - [01:57:40.340 --> 01:57:42.340]  The flank already美元!
 - How to merge documents that were covered by more than one channel? Optimally, transcripts of different channels have different errors and artifacts that will be reduced or even balanced out by merging. But how to calculate something like the mean of a document? Maybe treat them as individual games till the end and then get the mean of their TF-IDF scores?
