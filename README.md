@@ -33,7 +33,7 @@ These data can be gathered and parsed as speech acts because instructions are ac
 - reasonable level of reliability through human curation
 
 #### Cons of this approach
-- wikis of games are structured differently and can't be scraped by just one script
+- wikis of games are structured differently and each game needs a semi-custom scraper
 - time data on when the player encounters the quest while playing might not be available for every quest
 - analysis of objective data can just explain the distribution of speech act types and not how frequent they are as part of the whole game transcript
 
