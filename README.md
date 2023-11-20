@@ -51,9 +51,10 @@ The third approach would be combining both approaches. Why not take the best out
 - possibly reduced amount of data because transcript and objective data needs to be matched and only games that provide both in good quality should be used
 
 ## Working title
-*Analysing Changes in Prevalence of Action Request Speech Acts in Video Game Dialogues: A Computational Approach using Term Frequencies and Percentage-based Adaptive N-Grams*
+*Analysing Changes in Prevalence of Action Request Speech Acts in Video Game Dialogues and Quest Objectives: A Computational Approach using Term Frequencies and Percentage-based Adaptive N-Grams*
 
 ## Early results
+### Transcripts
 Early results of the transcript approach using (normalised scores to move curves closer together) show that the verb *talk* sees a falling curve. 
 Maybe because talking is a big part of character introduction that might be strongest in early and mid-parts. 
 Verb *help* has a rising curve till the middle and then a falling curve. *Kill* has a continiously rising curve. 
@@ -66,6 +67,7 @@ So maybe there can be some general and also genre-specific findings.
 ![Early transcript findings](data/results/plots/lineplot-Survival.png)
 (currently only for all occurrences of the tokens including all POS)
 
+### Objectives
 In terms of quest objectives, here is exhaustive analysis of two games quests, 
 showing their 15 most common objective verbs each:
 ![Early objective findings](data/results/plots/treemap_cyberpunk_2077.png)
