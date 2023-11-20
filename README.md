@@ -33,9 +33,11 @@ These data can be gathered and parsed as speech acts because instructions are ac
 - reasonable level of reliability through human curation
 
 #### Cons of this approach
-- wikis of games are structured differently and each game needs a semi-custom scraper
-- time data on when the player encounters the quest while playing might not be available for every quest
+- wikis of games are structured differently and each game needs a semi-custom scraper or at least some level of manual url gathering; depending on the number of total games, this might or might not be an issue
+- search terms might differ between games: while quests are called *quests* in most games, they are called *main jobs*, *side jobs* or *gigs* in Cyberpunk 2077
+- time data on when the player encounters the quest while playing might not be available for every quest (some wikis have data on quest series or level requirements that could be used though)
 - analysis of objective data can just explain the distribution of speech act types and not how frequent they are as part of the whole game transcript
+- objectives not really part of the narrative
 
 ### Combining both approaches
 The third approach would be combining both approaches. Why not take the best out of both worlds?
@@ -60,9 +62,14 @@ I also suspect these verbs differ not only in video games as a whole but also wi
 Survival games show falling curve for most verbs. 
 Maybe because of the lower power levels of the player character in these type of games. 
 So maybe there can be some general and also genre-specific findings.
-![Early general findings](data/results/plots/lineplot-All_Genres.png)
-![Early survival findings](data/results/plots/lineplot-Survival.png)
+![Early transcript findings](data/results/plots/lineplot-All_Genres.png)
+![Early transcript findings](data/results/plots/lineplot-Survival.png)
 (currently only for all occurrences of the tokens including all POS)
+
+In terms of quest objectives, here are some early results showing an exhaustive analysis of two games quests:
+![Early objective findings](data/results/plots/treemap_cyberpunk_2077.png)
+![Early objective findings](data/results/plots/treemap_horizon_forbidden_west.png)
+(currently synonymes are not summed up, skewing the results somewhat)
 
 ## TODO:
 ### Data collection and preparation:
@@ -83,6 +90,7 @@ So maybe there can be some general and also genre-specific findings.
 - [ ] genre-tag transcripts (using Steam user-generated tags?)
 - [ ] merge into transcripts of [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
 - [ ] scrape objective data from game wikis
+- [ ] combine synonymes of verbs (like *help* and *assist*) by finding verb synonymes through cosine similarity
 
 ### Processing and analysis:
 - [x] use word-level n-grams of variable sizes
