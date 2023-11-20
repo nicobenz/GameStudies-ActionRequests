@@ -68,7 +68,7 @@ So maybe there can be some general and also genre-specific findings.
 (currently only for all occurrences of the tokens including all POS)
 
 ### Objectives
-In terms of quest objectives, here is exhaustive analysis of two games quests, 
+In terms of quest objectives, here is an exhaustive analysis of two games quests, 
 showing their 15 most common objective verbs each:
 ![Early objective findings](data/results/plots/treemap_cyberpunk_2077.png)
 ![Early objective findings](data/results/plots/treemap_horizon_forbidden_west.png)
