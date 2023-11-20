@@ -70,7 +70,7 @@ In terms of quest objectives, here is exhaustive analysis of two games quests,
 showing their 15 most common objective verbs each:
 ![Early objective findings](data/results/plots/treemap_cyberpunk_2077.png)
 ![Early objective findings](data/results/plots/treemap_horizon_forbidden_west.png)
-(currently synonymes are not summed up, skewing the results somewhat)
+(currently synonymes like *examine* and *investigate* are not summed up, skewing the results somewhat)
 
 ## TODO:
 ### Data collection and preparation:
