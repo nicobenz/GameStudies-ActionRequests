@@ -106,7 +106,7 @@ def plot_treemap():
             sizes=percentages,
             label=[f'{key}\n{round(val, 1)}%' for key, val in zip(data.keys(), percentages)],  # zip labels and percent
             alpha=0.7,
-            color=sns.color_palette('Spectral', n_colors=len(data))
+            color=sns.color_palette('deep', n_colors=len(data))
         )
         # plot needs no axis
         plt.axis('off')
