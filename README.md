@@ -1,14 +1,21 @@
 # GameStudies-ActionRequests
 ## What to expect in this repo
-Here I investigate if there is a possibility to draw development curves of action request speech acts in video games.
+Here I investigate the possibility to draw prevalence curves of action request speech acts in video games.
 Action requests aim to make the player do something, like *go*, *help*, *talk* or *find*. 
-These speech acts are imperative in a sense but not in a forced way. 
-They are like instructions given to the player rather than the players avatar, so they are somewhat meta-narrative while being part of the narration. 
+These speech acts can take the form of imperatives or commands like *Help me!* and also more indirect forms or implied requests like *I need help!* or *If someone could help me!*. 
+They are like instructions given to the player rather than the players ingame character, so they are somewhat meta-narrative while still being part of the narration. 
+
+While it is imposdible or at least too difficult to capture all kinds of implied action request speech acts using NLP tools, I came up with the following approaches to analyse at least the more obvious ones:
 
 ## Possible approaches
 ### Transcript data
-The first approach revolves around using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's Whisper from YouTube videos of no commentary gameplay walkthroughs of multiple channels (currently ~10,000 hours of audio downloaded). 
-This would yield text data of all spoken content of a game that can then be parsed to find action request speech acts.
+The first approach revolves around using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's Whisper from YouTube videos of no commentary gameplay walkthroughs of multiple channels (currently i have ~10,000 hours of audio downloaded). 
+This would yield text data of all spoken content of a game that can then be parsed to find action request speech acts. The transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) could be used as a benchmark for the transcription models performance since they are human generated and can be considered the quality goal or gold standard. 
+
+#### Basic methodology
+In order to find action request speech acts, the transcripts will be analysed with standard NLP methods, mainly to find imperative verb forms. 
+Using 200 moving bigrams of the length of 1/10th of the full text, there are 200 windows that can be analysed for the prevalence of different imperative verbs. 
+Using term frequencies, prevalence curves can be plotted to visualize the develeopment of action requests along the course of the game plot. 
 
 #### Pros of this approach:
   - transcription can be treated as linear development of game progress
@@ -17,15 +24,19 @@ This would yield text data of all spoken content of a game that can then be pars
 #### Cons of this approach:
   - using transcription model on 10,000 hours of audio is very demanding in time and computational resources
   - heavily reliant on transcription quality
-  - now good way of estimating model output quality
-  - no easy way of identifying speech acts in transcript data
-  - lacking any speech acts that are only text based
+  - difficult to estimating model output quality
+  - no easy way of identifying speech acts (besides imperative verbs) in transcript data
+  - lacking any speech acts that are only text based, like quest objectives
 
 ### Quest objective data
 The second approach revolves around quest objective data gathered from community wikis like [Cyberpunk Fandom](https://cyberpunk.fandom.com/) where quests are listed like this: [Quest: Love Like Fire](https://cyberpunk.fandom.com/wiki/Love_Like_Fire). 
 Most major games have their own fandom wiki with descriptions and walkthroughs of the games quests. 
 Crucially, quest articles often contain quest objectives taken from the ingame instruction to the player. 
 These data can be gathered and parsed as speech acts because instructions are action request speech acts per definition. 
+
+### Basic methodology
+After scraping the quest objectives from the games wiki pages, they can easily be processed because every quest objective is nearly garanteed to be an action request speech act. 
+
 
 #### Pros of this approach
 - objective data easily read from each quests html source
