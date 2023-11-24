@@ -36,19 +36,24 @@ These data can be gathered and parsed as speech acts because instructions are ac
 
 ### Basic methodology
 After scraping the quest objectives from the games wiki pages, they can easily be processed because every quest objective is nearly garanteed to be an action request speech act. 
-
+They can then be grouped to form synonyme clusters by their vectors cosine similarity values. After that, their relative proportions can easily be calculated for each game. 
+However, this approach can only investigate action requests for whole games and not for their change in prevalence along the games plot unless there are some hints in the wikis regarding the quests order. 
+Some wikis offer information on that by linking what quest comes before and after each quest. 
+Another approach would be through level requirements of the quests if the game has a level system. 
+It might be difficult to order the quests reliably and comparatively across games. 
+But this is essential when working with data of more than one game.  
 
 #### Pros of this approach
-- objective data easily read from each quests html source
+- objective data is easily read from each quests html source
 - objectives are full action requests speech acts and don't need further processing
-- reasonable level of reliability through human curation
+- reasonable level of reliability through human curation of the wikis
 
 #### Cons of this approach
 - wikis of games are structured differently and each game needs a semi-custom scraper or at least some level of manual url gathering; depending on the number of total games, this might or might not be an issue
 - search terms might differ between games: while quests are called *quests* in most games, they are called *main jobs*, *side jobs* or *gigs* in Cyberpunk 2077
 - time data on when the player encounters the quest while playing might not be available for every quest (some wikis have data on quest series or level requirements that could be used though)
 - analysis of objective data can just explain the distribution of speech act types and not how frequent they are as part of the whole game transcript
-- objectives not really part of the narrative
+- objectives are not really part of the narrative, which makes it less interesting
 
 ### Combining both approaches
 The third approach would be combining both approaches. Why not take the best out of both worlds?
@@ -66,12 +71,13 @@ The third approach would be combining both approaches. Why not take the best out
 
 ## Early results
 ### Transcripts
-Early results of the transcript approach using (normalised scores to move curves closer together) show that the verb *talk* sees a falling curve. 
+Early results of the transcript approach -- using normalised scores to move curves closer together -- show that the verb *talk* sees a falling curve. 
 Maybe because talking is a big part of character introduction that might be strongest in early and mid-parts. 
-Verb *help* has a rising curve till the middle and then a falling curve. *Kill* has a continiously rising curve. 
+Verb *help* has a rising curve till the middle and then a falling curve. 
+*Kill* has a continiously rising curve. 
 Maybe because player characters usually rise in power as the game progresses and are more able to perform these tasks later than earlier. 
 I also suspect these verbs differ not only in video games as a whole but also within genres. 
-Survival games show falling curve for most verbs. 
+Survival games show falling curves for most verbs. 
 Maybe because of the lower power levels of the player character in these type of games. 
 So maybe there can be some general and also genre-specific findings.
 ![Early transcript findings](data/results/plots/lineplot-All_Genres.png)
@@ -87,6 +93,7 @@ showing their 15 most common objective verbs each:
 
 ## TODO:
 ### Data collection and preparation:
+#### Transcript approach
 - [x] crawl and clean transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
 - [x] scrape audio files from YouTube channels of non-commented playthroughs like: 
   - [x] [Gamers Little Playground](https://www.youtube.com/@glp), 
@@ -102,9 +109,9 @@ showing their 15 most common objective verbs each:
   - [ ] choose highest performing model that still has reasonable processing time
 - [ ] merge transcripts that were covered in more than one channel?
 - [ ] genre-tag transcripts (using Steam user-generated tags?)
-- [ ] merge into transcripts of [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
+#### Objective approach
 - [ ] scrape objective data from game wikis
-- [ ] combine synonymes of verbs (like *help* and *assist*) by finding verb synonymes through cosine similarity
+- [ ] combine synonymes of verbs (like *help* and *assist*) by finding verb synonymes through their vectors cosine similarity
 
 ### Processing and analysis:
 - [x] use word-level n-grams of variable sizes
@@ -112,18 +119,18 @@ showing their 15 most common objective verbs each:
 - [x] plot relative importance for every keyword for all games and by genre
 - [ ] expand analysis to all verbs instead of chosen verbs to avoid bias
 - [ ] change preprocessing to only include verbs used in imperative fashion in tf value calculation
-- [ ] cluster verbs into synonyms (using cosine similarity on spaCy vectors?)
+- [ ] cluster verbs into synonyms using cosine similarity
 - [ ] calculate ANOVA or other tests to check for significant differences between genres
 
 ### Stuff for later
 add text data to corpus:
-- [ ] on-screen data through OCR of frames?
-- [ ] scrape game specific wikis for text data (e.g. quest texts)
+- [ ] scrape game specific wikis for text data (e.g. quest texts and not just objectives)
 train classifier models:
 - [ ] treat term frequencies over n-grams as time series
 - [ ] train classifiers with time series data to predict genre
+- [ ] predict genre through percentage distribution of most used objective verbs
 
-for comparison do the whole process of the project also with:
+for comparison, do the whole process of the project also with:
 - [ ] Literature (Novels)
 - [ ] Movies/Series
 
@@ -136,3 +143,4 @@ for comparison do the whole process of the project also with:
   - [01:40:11.380 --> 01:40:13.380]  Oh, that's a good one!
   - [01:40:13.380 --> 01:40:15.380]  Oh, that was a good one.
 - How to merge documents that were covered by more than one channel? Optimally, transcripts of different channels have different errors and artifacts that will be reduced or even balanced out by merging. But how to calculate something like the mean of a document? Maybe treat them as individual games till the end and then get the mean of their TF-IDF scores?
+- How to get a games objective data more effectively than creating a unique scraper for every game?
