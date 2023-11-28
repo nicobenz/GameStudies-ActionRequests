@@ -9,7 +9,7 @@ While it is impossible or at least too difficult to capture all kinds of implied
 
 ## Possible approaches
 ### Transcript data
-The first approach revolves around using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's Whisper from YouTube videos of no commentary gameplay walkthroughs of multiple channels (currently i have ~10,000 hours of audio downloaded). 
+The first approach revolves around using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's Whisper from YouTube videos of no commentary gameplay walkthroughs of multiple channels (currently I have ~10,000 hours of game audio downloaded). 
 This would yield text data of all spoken content of a game that can then be parsed to find action request speech acts. The transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) could be used as a benchmark for the transcription models performance since they are human generated and can be considered the quality goal or gold standard. 
 
 #### Basic methodology
