@@ -35,7 +35,7 @@ Crucially, quest articles often contain quest objectives taken from the ingame i
 These data can be gathered and parsed as speech acts because instructions are action request speech acts per definition. 
 
 ### Basic methodology
-After scraping the quest objectives from the games wiki pages, they can easily be processed because every quest objective is nearly garanteed to be an action request speech act. 
+After scraping the quest objectives from the games wiki pages, they can easily be processed because every quest objective is nearly guaranteed to be an action request speech act. 
 They can then be grouped to form synonyme clusters by their vectors cosine similarity values. After that, their relative proportions can easily be calculated for each game. 
 However, this approach can only investigate action requests for whole games and not for their change in prevalence along the games plot unless there are some hints in the wikis regarding the quests order. 
 Some wikis offer information on that by linking what quest comes before and after each quest. 
