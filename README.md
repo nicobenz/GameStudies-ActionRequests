@@ -15,7 +15,7 @@ This would yield text data of all spoken content of a game that can then be pars
 #### Basic methodology
 In order to find action request speech acts, the transcripts will be analysed with standard NLP methods, mainly to find imperative verb forms. 
 Using 200 moving bigrams of the length of 1/10th of the full text, there are 200 windows that can be analysed for the prevalence of different imperative verbs. 
-Using term frequencies, prevalence curves can be plotted to visualize the develeopment of action requests along the course of the game plot. 
+Using term frequencies, prevalence curves can be plotted to visualize the develeopment of action requests along the course of the game plot (see some early results further down). 
 
 #### Pros of this approach:
   - transcription can be treated as linear development of game progress
