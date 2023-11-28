@@ -5,7 +5,7 @@ Action requests aim to make the player do something, like *go*, *help*, *talk* o
 These speech acts can take the form of imperatives or commands like *Help me!* and also more indirect forms or implied requests like *I need help!* or *If someone could help me!*. 
 They are like instructions given to the player rather than the players ingame character, so they are somewhat meta-narrative while still being part of the narration. 
 
-While it is imposdible or at least too difficult to capture all kinds of implied action request speech acts using NLP tools, I came up with the following approaches to analyse at least the more obvious ones:
+While it is impossible or at least too difficult to capture all kinds of implied action request speech acts using NLP tools, I came up with the following approaches to analyse at least the more obvious ones:
 
 ## Possible approaches
 ### Transcript data
