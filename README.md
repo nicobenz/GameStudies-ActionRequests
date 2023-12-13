@@ -154,9 +154,9 @@ expand analysis:
 - [ ] train classifiers with time series data to predict genre
 - [ ] predict genre through percentage distribution of most used objective verbs
 
-for comparison, do the whole process of the project also with:
-- [ ] Literature (Novels)
-- [ ] Movies/Series
+expand data:
+- [ ] do the whole process again with literature (novels) or movies/series
+- [ ] compare results...
 
 ## Current challenges
 - How to detect action request speech acts in NLP? Probably not feasible in a paper of this scope. Maybe just use contexts of imperative mood?
