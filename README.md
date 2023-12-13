@@ -12,21 +12,21 @@ Austin established the idea of speech acts in his work *How to do Things with Wo
 The basic principle of a speech act is, that linguistic utterances can be considered actions and have the ability to e.g. assert truth or change reality. 
 He distinguishes three main types of speech acts:
 1. Locutionary acts:
-  - used for expression of thoughts
-  - sentence elements have their regular meaning
-  - e.g. *I like ducks.*
+    - used for expression of thoughts
+    - sentence elements have their regular meaning
+    - e.g. *I like ducks.*
 2. Illocutionary acts:
-  - core of Austin's theory
-  - reveal an intention behind an utterance
-  - has subtypes:
-    - Assertive: *I declare the meeting open.*
-    - Directive: *Please feed the ducks.*
-    - Commissive: *I promise to do it tomorrow.*
-    - Expressive: *I apologize for being late.*
-    - Declarative: *I hereby name this ship Boaty McBoatface.*
+    - core of Austin's theory
+    - reveal an intention behind an utterance
+    - has subtypes:
+      - Assertive: *I declare the meeting open.*
+      - Directive: *Please feed the ducks.*
+      - Commissive: *I promise to do it tomorrow.*
+      - Expressive: *I apologize for being late.*
+      - Declarative: *I hereby name this ship Boaty McBoatface.*
 3. Perlocutionary acts:
-  - have (psychological) effects on the listener and change their state
-  - e.g. making someone laugh by telling something funny
+    - have (psychological) effects on the listener and change their state
+    - e.g. making someone laugh by telling something funny
 Action requesting speech acts are a subtype of directive speech acts that are a subtype of illocutionary speech acts. 
 They are characterized by the expression of the speaker for the listener to do something and can take different forms like commands, (polite/impolite/casual) requests, hints or other. 
 Directive speech acts can take a multitude of grammatical forms and especially indirect requests can be hard to understand for humans, making them even more difficult to detect computationally. 
