@@ -11,11 +11,11 @@ While it is impossible or at least too difficult to capture all kinds of implied
 Austin established the idea of speech acts in his work *How to do Things with Words?* in 1962.
 The basic principle of a speech act is, that linguistic utterances can be considered actions and have the ability to e.g. assert truth or change reality. 
 He distinguishes three main types of speech acts:
-1. Locutionary acts:
+1. Locutionary act:
     - used for expression of thoughts
     - sentence elements have their regular meaning
     - e.g. *I like ducks.*
-2. Illocutionary acts:
+2. Illocutionary act:
     - core of Austin's theory
     - reveal an intention behind an utterance
     - has subtypes:
@@ -24,7 +24,7 @@ He distinguishes three main types of speech acts:
       - Commissive: *I promise to do it tomorrow.*
       - Expressive: *I apologize for being late.*
       - Declarative: *I hereby name this ship Boaty McBoatface.*
-3. Perlocutionary acts:
+3. Perlocutionary act:
     - have (psychological) effects on the listener and change their state
     - e.g. making someone laugh by telling something funny
 
