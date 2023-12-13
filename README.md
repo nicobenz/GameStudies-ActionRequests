@@ -149,9 +149,7 @@ showing their 15 most common objective verbs each:
 - [ ] calculate ANOVA or other tests to check for significant differences between genres
 
 ### Stuff for later
-add text data to corpus:
-- [ ] scrape game specific wikis for text data (e.g. quest texts and not just objectives)
-train classifier models:
+expand analysis:
 - [ ] treat term frequencies over n-grams as time series
 - [ ] train classifiers with time series data to predict genre
 - [ ] predict genre through percentage distribution of most used objective verbs
