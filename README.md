@@ -27,6 +27,7 @@ He distinguishes three main types of speech acts:
 3. Perlocutionary acts:
     - have (psychological) effects on the listener and change their state
     - e.g. making someone laugh by telling something funny
+
 Action requesting speech acts are a subtype of directive speech acts that are a subtype of illocutionary speech acts. 
 They are characterized by the expression of the speaker for the listener to do something and can take different forms like commands, (polite/impolite/casual) requests, hints or other. 
 Directive speech acts can take a multitude of grammatical forms and especially indirect requests can be hard to understand for humans, making them even more difficult to detect computationally. 
