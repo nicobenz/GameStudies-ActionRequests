@@ -7,6 +7,31 @@ They are like instructions given to the player rather than the players ingame ch
 
 While it is impossible or at least too difficult to capture all kinds of implied action request speech acts using NLP tools, I came up with the following approaches to analyse at least the more obvious ones:
 
+## Theoretical background
+Austin established the idea of speech acts in his work *How to do Things with Words?* in 1962.
+The basic principle of a speech act is, that linguistic utterances can be considered actions and have the ability to e.g. assert truth or change reality. 
+He distinguishes three main types of speech acts:
+1. Locutionary acts:
+    - used for expression of thoughts
+    - sentence elements have their regular meaning
+    - e.g. *I like ducks.*
+2. Illocutionary acts:
+    - core of Austin's theory
+    - reveal an intention behind an utterance
+    - has subtypes:
+        - Assertive: *I declare the meeting open.*
+        - Directive: *Please feed the ducks.*
+        - Commissive: *I promise to do it tomorrow.*
+        - Expressive: *I apologize for being late.*
+        - Declarative: *I hereby name this ship Boaty McBoatface.*
+3. Perlocutionary acts:
+    - have (psychological) effects on the listener and change their state
+    - e.g. making someone laugh by telling something funny
+Action requesting speech acts are a subtype of directive speech acts that are a subtype of illocutionary speech acts. 
+They are characterized by the expression of the speaker for the listener to do something and can take different forms like commands, (polite/impolite/casual) requests, hints or other. 
+Directive speech acts can take a multitude of grammatical forms and especially indirect requests can be hard to understand for humans, making them even more difficult to detect computationally. 
+
+
 ## Possible approaches
 ### Transcript data
 The first approach revolves around using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's [Whisper](https://github.com/openai/whisper) from YouTube videos of no commentary gameplay walkthroughs of multiple channels (currently I have ~10,000 hours of game audio downloaded). 
