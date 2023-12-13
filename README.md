@@ -127,7 +127,7 @@ showing their 15 most common objective verbs each:
   - [x] [MKIceAndFire](https://www.youtube.com/@MKIceAndFire) and 
   - [x] [Shirrako](https://www.youtube.com/@Shirrako)
 - [ ] combine playthroughs that consist of multiple parts
-- [ ] transcribe files using OpenAI's Whisper (takes about 10% of file length in base model)
+- [ ] transcribe files using OpenAI's Whisper (takes about 10% of audio files time in base model)
 - [ ] compare model performance to find model with best trade-offs:
   - [ ] select all games that have a transcript on [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
   - [ ] create Whisper transcripts of these games audios for each Whisper model
