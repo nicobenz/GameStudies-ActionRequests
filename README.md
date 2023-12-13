@@ -95,6 +95,26 @@ The third approach would be combining both approaches. Why not take the best out
 ## Working title
 *Analysing Changes in Prevalence of Action Request Speech Acts in Video Game Dialogues and Quest Objectives: A Computational Approach using Term Frequencies and Percentage-based Adaptive N-Grams*
 
+## Prior research
+Speech acts are a basic concept in linguistic pragmatic and therefore well researched. 
+However, there is less study of 
+### Research on computation of speech acts
+Computational approaches to speech acts have been a topic in computational linguistics for several decades. Here are some examples:
+- Moulin, B., Rousseau, D., & Vanderveken, D. (1992). Speech acts in a connected discourse: a computational representation based on conceptual graph theory. Journal of Experimental & Theoretical Artificial Intelligence, 4(2), 149-165.
+- Cummins, C., & de Ruiter, J. P. (2014). Computational approaches to the pragmatics problem. Language and linguistics compass, 8(4), 133-143.
+- Jin, M. (2022). A Computational Study of Speech Acts in Social Media (Doctoral dissertation, University of Sheffield).
+- Vosoughi, S., & Roy, D. (2016). Tweet acts: A speech act classifier for twitter. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 10, No. 1, pp. 711-714).
+- Dini, S. (2023). Speech Act Classification in Computational Linguistics Using Supervised Machine Learning Models; the Interdisciplinary Context of Pragmatics and Natural Language Processing (Doctoral dissertation, Drexel University).
+
+### Research on speech acts in video games
+There are only a handful of publications dealing with speech acts in video games and most of them are qualitative analyses of single video games. I could not find any papers on computational approaches to speech acts in video games. However, here is an (exhaustive) list on speech acts in video games:
+- Triwidiatmoko, A. (2017). A Pragmatic Analysis of Speech Acts in Bully Chapters I & II Video Game. Sastra Inggris-Quill, 6(2), 194-201.
+- Colăcel, O. (2017). Speech Acts in Post-Apocalyptic Games: The Last of Us (2014). Messages, Sages, and Ages, 4(1), 41-50.
+- Gilbert, M. (2020). SPEECH ACTS OF THE MAIN CHARACTER DIALOGUE IN THE WITCHER 3 GAME (Doctoral dissertation, Diponegoro University).
+- Purnomo, S. L. A., & Purnama, S. L. S. (2015). Ludorative Acts: Questioning the Existence of Performative Acts in Video Games. International Journal of Linguistics, 3(2), 73-81.
+- Rao, V. (2011, September). How to Say Things with Actions I: a Theory of Discourse for Video Games for Change. In DiGRA Conference.
+
+
 ## Early results
 ### Transcripts
 Early results of the transcript approach -- using normalised scores to move curves closer together -- show that the verb *talk* sees a falling curve. 
