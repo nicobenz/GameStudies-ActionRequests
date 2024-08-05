@@ -1,14 +1,20 @@
 # GameStudies-ActionRequests
+## TL;DR
+- I want to write a thesis on directive speech acts in video games
+- Directive speech acts are commands, requests, sugestions and similar
+- In video games, they are somewhat meta-narrative because they are targeted more towards the player than the players avatar
+- I want to know how the prevalence of different verbs in directive speech acts change over time
+- For that I can use either game audio transcripts gathered from YouTube playthroughs or quest objective data from various game wikis
+- Directive speech acts can be identified using NLP methods or LLMs as zero-shot classifiers
+- I am particularly intereted in different verb prevalences for different genres and maybe if this can be a feature for classifier models
 ## What to expect in this repo
-Here I investigate the possibility to draw prevalence curves of action request speech acts in video games.
-Action requests aim to make the player do something, like *go*, *help*, *talk* or *find*. 
-These speech acts can take the form of imperatives or commands like *Help me!* and also more indirect forms or implied requests like *I need help!* or *If someone could help me!*. 
-They are like instructions given to the player rather than the players ingame character, so they are somewhat meta-narrative while still being part of the narration. 
-
-While it is impossible or at least too difficult to capture all kinds of implied action request speech acts using NLP tools, I came up with the following approaches to analyse at least the more obvious ones:
+Here I investigate the possibility to draw prevalence curves of directive speech acts in video games.
+Directive speech acts aim to make the player do something, like *go*, *help*, *talk* or *find*. 
+These speech acts can take the form of imperatives or direct commands like *Help me!* and also more indirect forms or implied requests like *I need help!* or *Could someone help me?*. 
+In video games those speech acts are particularly interesting compared to their occurrances in films or texts, because in a sense they are instructions given to the player rather than the players ingame character, so they are somewhat meta-narrative while still being part of the games narration. 
 
 ## Theoretical background
-Austin established the idea of speech acts in his work *How to do Things with Words?* in 1962.
+J. L. Austin established the idea of speech acts in his work *How to do Things with Words?* in 1962.
 The basic principle of a speech act is, that linguistic utterances can be considered actions and have the ability to e.g. assert truth or change reality. 
 He distinguishes three main types of speech acts:
 1. Locutionary act:
@@ -20,7 +26,7 @@ He distinguishes three main types of speech acts:
     - reveal an intention behind an utterance
     - has subtypes:
       - Assertive: *I declare the meeting open.*
-      - Directive: *Please feed the ducks.*
+      - Directive: *Please feed the cats.*
       - Commissive: *I promise to do it tomorrow.*
       - Expressive: *I apologize for being late.*
       - Declarative: *I hereby name this ship Boaty McBoatface.*
@@ -28,60 +34,60 @@ He distinguishes three main types of speech acts:
     - have (psychological) effects on the listener and change their state
     - e.g. making someone laugh by telling something funny
 
-Action requesting speech acts are a subtype of directive speech acts that are a subtype of illocutionary speech acts. 
-They are characterized by the expression of the speaker for the listener to do something and can take different forms like commands, (polite/impolite/casual) requests, hints or other. 
-Directive speech acts can take a multitude of grammatical forms and especially indirect requests can be hard to understand for humans, making them even more difficult to detect computationally. 
+Directive speech acts are characterized by the expression of the speaker for the listener to do something and can take different forms like commands, (polite/impolite/casual) requests, hints or many other. 
+They can take a multitude of grammatical forms and especially indirect requests can be hard to understand for humans, making them even more difficult to detect computationally. 
 
 
 ## Possible approaches
+While capturing directive speech acts using NLP tools is quite a challenge, I came up with the following approaches to analyse at least the more obvious ones:
+
 ### Transcript data
 The first approach revolves around using game transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) and transcribed audio using OpenAI's [Whisper](https://github.com/openai/whisper) from YouTube videos of no commentary gameplay walkthroughs of multiple channels (currently I have ~10,000 hours of game audio downloaded). 
 This would yield text data of all spoken content of a game that can then be parsed to find action request speech acts. The transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/) could be used as a benchmark for the transcription models performance since they are human generated and can be considered the quality goal or gold standard. 
 
 #### Basic methodology
 In order to find action request speech acts, the transcripts will be analysed with standard NLP methods, mainly to find imperative verb forms. 
-Using 200 moving bigrams of the length of 1/10th of the full text, there are 200 windows that can be analysed for the prevalence of different imperative verbs. 
-Using term frequencies, prevalence curves can be plotted to visualize the develeopment of action requests along the course of the game plot (see some early results further down). 
+Using 200 moving bigrams of the length of 1/10th of the full text, there are 200 windows that can be analysed for the prevalence of different imperative verbs, that will then be clustered into broader semantic categories (e.g. verbs *speak* and *talk* form a synonym cluster of verbal communication and should be treated as belonging to the same speech act) using k-means clustering or vector similarity.
+Using merged/clustered term frequencies, prevalence curves can be plotted to visualize the develeopment of action requests along the course of the game plot (see some early results further down). 
 
-An alternative/additional approach to speech act identification would be using LLMs for zero-shot classification. 
-This possibility could be evaluated using synthetic test data generated by another LLM.
+An alternative/additional approach to speech act identification would be using LLMs for zero-shot classification. For evaluation of this option, I used Llama-3-8b to generate a synthetic test set of 1000 sentences (500 directive speech acts, 500 scenic descriptions). For variation, the model was prompted to generate different kinds of directives (*objective*, *request*, *order*, *advice* and *task*). Evaluation resulted in an F1-Score of about 0.98, suggesting that this approach is a valid option to consider. If this option is chosen, the moving bigram window approach has to be changed to a sentence based window, where all sentences are classified for being directive speech acts or not. NLP methods will then extract verb forms for clustering like mentioned above.
 
 #### Pros of this approach:
   - transcription can be treated as linear development of game progress
   - lots of data already available and new data coming in daily
 
 #### Cons of this approach:
-  - using transcription model on 10,000 hours of audio is very demanding in time and computational resources
-  - heavily reliant on transcription quality
+  - a transcription of a non-linear game covers just one possible playthrough while the game could have many more
+  - heavily reliant on transcription quality, which in turn affects NLP or zero-shot performance
   - difficult to estimating model output quality
-  - no easy way of identifying speech acts (besides imperative verbs) in transcript data
-  - lacking any speech acts that are only text based, like quest objectives
+  - lacking any non-audio speech acts, like quest log texts
 
 ### Quest objective data
 The second approach revolves around quest objective data gathered from community wikis like [Cyberpunk Fandom](https://cyberpunk.fandom.com/) where quests are listed like this: [Quest: Love Like Fire](https://cyberpunk.fandom.com/wiki/Love_Like_Fire). 
 Most major games have their own fandom wiki with descriptions and walkthroughs of the games quests. 
 Crucially, quest articles often contain quest objectives taken from the ingame instruction to the player. 
-These data can be gathered and parsed as speech acts because instructions are action request speech acts per definition. 
+These data can be gathered and regarded as speech acts without further processing because instructions are directive speech acts per definition. 
 
 #### Basic methodology
-After scraping the quest objectives from the games wiki pages, they can easily be processed because every quest objective is nearly guaranteed to be an action request speech act. 
-They can then be grouped to form synonym clusters by their vectors cosine similarity values (verbs *speak* and *talk* form a synonym cluster of verbal communication and should be treated as belonging to the same speech act). After that, their relative proportions can easily be calculated for each game. 
+After scraping the quest objectives from the games wiki pages, they can easily be processed because every quest objective is nearly guaranteed to be a directive speech act. 
+They can then be grouped to form synonym clusters like mentioned earlier. After that, their relative proportions can easily be calculated for each game. 
 However, this approach can only investigate action requests for whole games and not for their change in prevalence along the games plot unless there are some hints in the wikis regarding the quests order. 
 Some wikis offer information on that by linking what quest comes before and after each quest. 
 Another approach would be through level requirements of the quests if the game has a level system. 
 It might be difficult to order the quests reliably and comparatively across games. 
-But this is essential when working with data of more than one game.  
+But this is essential when working with data of more than one game. 
 
 #### Pros of this approach
 - objective data is easily read from each quests html source
-- objectives are full action requests speech acts and don't need further processing
+- objectives are full directive speech acts and don't need further processing
 - reasonable level of reliability through human curation of the wikis
 
 #### Cons of this approach
 - wikis of games are structured differently and each game needs a semi-custom scraper or at least some level of manual url gathering; depending on the number of total games, this might or might not be an issue
 - search terms might differ between games: while quests are called *quests* in most games, they are called *main jobs*, *side jobs* or *gigs* in Cyberpunk 2077
 - time data on when the player encounters the quest while playing might not be available for every quest (some wikis have data on quest series or level requirements that could be used though)
-- analysis of objective data can just explain the distribution of speech act types and not how frequent they are as part of the whole game transcript
+- analysis of objective data can just explain the distribution of speech act types and not how frequent they are as part of the whole game sequence
+- availability might be good only for certain genres like RPG or Action-Adventure and could skew the genre distribution of the dataset
 - objectives are not really part of the narrative, which makes it less interesting
 
 ### Combining both approaches
@@ -89,18 +95,19 @@ The third approach would be combining both approaches. Why not take the best out
 (is this still within the scope of a master's thesis?)
 
 #### Pros of this approach
-- weaknesses of both approaches can cancel each other out
+- weaknesses of both approaches can cancel each other out and cover both audio-based and text-based directive speech acts
 
 #### Cons of this approach
 - double the time and effort needed
-- possibly reduced amount of data because transcript and objective data needs to be matched and only games that provide both in good quality should be used
+- possibly reduced amount of data because transcript and objective data needs to be matched and only games that provide both in good quality should be used unless both approaches are considered separate experiments
 
 ## Working title
-*Analysing Changes in Prevalence of Action Request Speech Acts in Video Game Dialogues and Quest Objectives: A Computational Approach using Term Frequencies and Percentage-based Adaptive N-Grams*
+*Analysing Changes in Prevalence of Directive Speech Acts in Video Game Dialogues and Quest Objectives: A Computational Approach*
 
 ## Prior research
 Speech acts are a basic concept in linguistic pragmatic and therefore well researched. 
-However, there is less study of 
+However, there is less study of speech acts in video games. 
+
 ### Research on computation of speech acts
 Computational approaches to speech acts have been a topic in computational linguistics for several decades. Here are some examples:
 - Moulin, B., Rousseau, D., & Vanderveken, D. (1992). Speech acts in a connected discourse: a computational representation based on conceptual graph theory. *Journal of Experimental & Theoretical Artificial Intelligence*, *4*(2), 149-165.
@@ -110,7 +117,7 @@ Computational approaches to speech acts have been a topic in computational lingu
 - Dini, S. (2023). *Speech Act Classification in Computational Linguistics Using Supervised Machine Learning Models: The Interdisciplinary Context of Pragmatics and Natural Language Processing* (Doctoral dissertation, Drexel University).
 
 ### Research on speech acts in video games
-There are only a handful of publications dealing with speech acts in video games and most of them are qualitative analyses of single video games. I could not find any papers on computational approaches to speech acts in video games. However, here is an (exhaustive) list on speech acts in video games:
+There are only a handful of publications dealing with speech acts in video games and most of them are qualitative analyses of single video games. I could not find any papers on computational approaches to speech acts in video games. However, here is a list on what I could find:
 - Triwidiatmoko, A. (2017). A Pragmatic Analysis of Speech Acts in Bully Chapters I & II Video Game. *Sastra Inggris-Quill*, *6*(2), 194-201.
 - Colăcel, O. (2017). Speech Acts in Post-Apocalyptic Games: The Last of Us (2014). *Messages, Sages, and Ages*, *4*(1), 41-50.
 - Gilbert, M. (2020). *Speech Acts of the Main Character Dialogue in the Witcher 3 Game* (MA thesis, Diponegoro University).
@@ -138,9 +145,10 @@ In terms of quest objectives, here is an exhaustive analysis of two games quests
 showing their 15 most common objective verbs each:
 ![Early objective findings](data/results/plots/treemap_cyberpunk_2077.png)
 ![Early objective findings](data/results/plots/treemap_horizon_forbidden_west.png)
-(currently synonymes like *examine* and *investigate* are not summed up, skewing the results somewhat)
+(currently there is no clustering in place)
 
-## TODO:
+## Ideas and TODO:
+This is a semi-ordered collection of ideas and approaches.
 ### Data collection and preparation:
 #### Transcript approach
 - [x] crawl and clean transcripts from [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
@@ -150,12 +158,12 @@ showing their 15 most common objective verbs each:
   - [x] [MKIceAndFire](https://www.youtube.com/@MKIceAndFire) and 
   - [x] [Shirrako](https://www.youtube.com/@Shirrako)
 - [ ] combine playthroughs that consist of multiple parts
-- [ ] transcribe files using OpenAI's Whisper (takes about 10% of audio files time in base model)
+- [ ] transcribe files using OpenAI's Whisper
 - [ ] compare model performance to find model with best trade-offs:
   - [ ] select all games that have a transcript on [Game Scripts Wiki](https://game-scripts-wiki.blogspot.com/)
   - [ ] create Whisper transcripts of these games audios for each Whisper model
-  - [ ] preprocess and vectorize texts and use cosine similarity to compare, accounting for changes in text order for non-linear games
-  - [ ] choose highest performing model that still has reasonable processing time
+  - [ ] preprocess and vectorize texts
+  - [ ] choose highest performing model
 - [ ] merge transcripts that were covered in more than one channel?
 - [ ] genre-tag transcripts (using Steam user-generated tags?)
 #### Objective approach
@@ -182,7 +190,6 @@ expand data:
 - [ ] compare results...
 
 ## Current challenges
-- How to detect action request speech acts in NLP? Probably not feasible in a paper of this scope. Maybe just use contexts of imperative mood?
 - How to deal with compound verbs in cases like 'I need help!'? This should be considered a synoym to 'Help me!', but a POS tagging approach would exclude this. Maybe cosine similarity can help here somehow?
 - How to account for uneven class distribution? Action adventure is the dominant class with much higher distribution than other genres. Maybe prune this class and raise other genres using SMOTE?
 - Should I use the mean curves as a baseline? If the curve for 'kill' is rising in all genres, this way I could see if the curve is rising even stronger in shooter games. Maybe create a residual matrix to see the curves corrected for baseline and perform Monte Carlo Tests for significance testing.
