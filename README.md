@@ -3,7 +3,7 @@
 - I want to write a thesis on directive speech acts in video games
 - Directive speech acts are commands, requests, sugestions and similar
 - In video games, they are somewhat meta-narrative because they are targeted more towards the player than the players avatar
-- I want to know how the prevalence of different verbs in directive speech acts change over time
+- I want to know how the prevalence of different verbs in directive speech acts changes over time and among genres (do you *talk* more in an RPG and *kill* more in a shooter?)
 - For that I can use either game audio transcripts gathered from YouTube playthroughs or quest objective data from various game wikis
 - Directive speech acts can be identified using NLP methods or LLMs as zero-shot classifiers
 - I am particularly intereted in different verb prevalences for different genres and maybe if this can be a feature for classifier models
