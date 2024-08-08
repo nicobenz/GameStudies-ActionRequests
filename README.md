@@ -6,7 +6,7 @@
 - I want to know how the prevalence of different verbs in directive speech acts changes over time and among genres (do you *talk* more in an RPG and *kill* more in a shooter?)
 - For that I can use either game audio transcripts gathered from YouTube playthroughs or quest objective data from various game wikis
 - Directive speech acts can be identified using NLP methods or LLMs as zero-shot classifiers
-- I am particularly intereted in different verb prevalences for different genres and maybe if this can be a feature for classifier models
+- If there is still time left, I would like to try creating time series of directive speech act verb distributions and use that for genre classifier training
 ## What to expect in this repo
 Here I investigate the possibility to draw prevalence curves of directive speech acts in video games.
 Directive speech acts aim to make the player do something, like *go*, *help*, *talk* or *find*. 
